@@ -18,7 +18,6 @@ engineering of self-adaptive software with runtime models.
 
 <section class="vcard">
     <div class="contactleft">
-    <p>
     <em>Email:</em> &lt;first name&gt;.&lt;surname&gt; [at] acm.org <br />
     <em>Phone:</em> tba  <br /> <br />
     <em>Mail Address</em> <br />
@@ -26,17 +25,14 @@ engineering of self-adaptive software with runtime models.
     Department of Computer Science <br />
     Unter den Linden 6 <br />
     10099 Berlin
-    </p>
     </div>
     <div class="contactright">
-    <p>
     <br /> <br /> <br />
     <em>Visitor Address</em> <br />
     Johann von Neumann-Haus <br />
     House IV, 4th floor, room IV.414 <br />
     Rudower Chaussee 25 <br />
     12489 Berlin
-    </p>
     </div>
 </section>
 
