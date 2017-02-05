@@ -1,0 +1,36 @@
+# http://jekyllthemes.org/themes/basic/
+# Blog settings
+#permalink: /blog/:title
+
+
+# My variables
+locale: "en"
+title: "Thomas Vogel"
+title_separator: "-"
+name: "Thomas Vogel"
+description: "Personal Website."
+url: "https://thomas-vogel.github.io"
+baseurl: #"/mypage"
+repository: "thomas-vogel/thomas-vogel.github.io"
+twitter: "https://twitter.com/tomvog"
+twitter_handle: "@tomvog"
+
+# File management
+include:
+  - .htaccess
+  - _pages
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% if page.title %}
+        <title>{{ page.title }}</title>
+    {% else %}
+        <title>{{ site.name }}</title>
+    {% endif %}
+
+    <meta name="description" content="{{ site.description }}">
+
+    {% if site.google_verification %}
+        <meta name="google-site-verification" content="{{ site.google_verify }}">
+    {% endif %}
+
+    <link rel="icon" href="/assets/img/favicon.png">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="header">
+            <div class="myheader"><h1>{{ site.name }}</h1>
+            <!--    <br /><span> -->
+                    <a class="header__subtitle" href="{{ site.twitter }}">{{site.twitter_handle}}</a>
+            <!--    </span>-->
+            </div>
+
+            <!--<h1>{{ site.name }}</h1>-->
+
+            <ul>
+                {% for item in site.data.navigation %}
+                <li>
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        {{ content }}
+    </div>
+
+</body>
+
+</html>

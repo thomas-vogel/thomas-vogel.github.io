@@ -1,0 +1,21 @@
+---
+title: Research
+permalink: research.html
+layout: page
+---
+
+My research focuses on developing methodologies and tools based on model-driven engineering principles for software quality assurance and software adaptation.
+
+# Projects
+
+## Safe.Spec
+Quality assurance of behavioral software requirements.
+
+## EUREMA
+A domain-specific modeling language to specify and execute feedback loops in self-adaptive software.
+
+## MORISIA
+Runtime models for self-adaptive software.
+
+## mRUBiS
+An exemplar for self-adaptation covering self-healing and self-optimization capabilities.
