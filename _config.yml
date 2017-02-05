@@ -22,10 +22,10 @@ include:
 exclude: ["README.md", "LICENSE"]
 
 
-# Sass
-sass:
-  style: :compressed
-  sass_dir: _sass
+## Sass
+# sass:
+#  style: :compressed
+#  sass_dir: _sass
 
 
 # Markdown
