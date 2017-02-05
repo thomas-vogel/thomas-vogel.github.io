@@ -4,29 +4,42 @@ permalink:
 layout: home
 ---
 
+
+<img src="/assets/img/tom.jpg" alt="Me" style="width: 200px; float: left; margin-top: 0.25em; margin-left: 0em; margin-right: 25px;"/>
+
+I am a researcher at the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
+Before, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
+My research interests are in the application of model-driven engineering to software quality assurance and software adaptation. My main research topics are the automated quality assurance of behavioral software requirements and the
+engineering of self-adaptive software with runtime models.
+
+<br />
+
+## Contact
+
 <section class="vcard">
-    <div class="mypic"><img src="/assets/img/tom.jpg" alt="tom"></div>
-    <div class="address"><p>
-    <strong>Thomas Vogel</strong> <br />
+    <div class="contactleft">
+    <p>
+    <em>Email:</em> &lt;first name&gt;.&lt;surname&gt; [at] acm.org <br />
+    <em>Phone:</em> tba  <br /> <br />
+    <em>Mail Address</em> <br />
+    Humboldt-Universität zu Berlin <br />
     Department of Computer Science <br />
-    Software Engineering Group <br />
-    Humboldt-Universität zu Berlin <br /><br />
-    <strong>Office:</strong> Johann von Neumann-Haus, House IV, 4th floor, room IV.414 <br />
-    <strong>Office phone:</strong> tba  <br />
-    <strong>Email:</strong> &lt;first name&gt;.&lt;surname&gt; [at] acm.org
+    Unter den Linden 6 <br />
+    10099 Berlin
+    </p>
+    </div>
+    <div class="contactright">
+    <p>
+    <br /> <br /> <br />
+    <em>Visitor Address</em> <br />
+    Johann von Neumann-Haus <br />
+    House IV, 4th floor, room IV.414 <br />
+    Rudower Chaussee 25 <br />
+    12489 Berlin
     </p>
     </div>
 </section>
 
-<hr>
-
-I am a researcher at the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se) (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), Germany.
-Before, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/) (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
-
-My research interests are in the application of model-driven engineering to software quality assurance and software adaptation. My main research topics are:
-
-* Automated quality assurance of software requirements
-* Engineering self-adaptive software with runtime models
 
 ## Things Happening
 
@@ -36,7 +49,8 @@ My research interests are in the application of model-driven engineering to soft
 [5](publications/2017-SACSa),
 [6](publications/2017-SACSb), and
 [8](publications/2017-SACSc) on architectures published.
-* [Things happened](pastnews)
+
+## [Things happened](pastnews)
 
 
 
