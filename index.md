@@ -5,7 +5,7 @@ layout: home
 ---
 
 
-<img src="/assets/img/tom.jpg" alt="Me" style="width: 200px; float: left; margin-top: 0.25em; margin-left: 0em; margin-right: 25px;"/>
+<img src="/assets/img/tom.jpg" alt="Me" style="width: 200px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 25px;"/>
 
 I am a researcher at the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
 Before, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
@@ -18,6 +18,7 @@ engineering of self-adaptive software with runtime models.
 
 <section class="vcard">
     <div class="contactleft">
+    <p>
     <em>Email:</em> &lt;first name&gt;.&lt;surname&gt; [at] acm.org <br />
     <em>Phone:</em> tba  <br /> <br />
     <em>Mail Address</em> <br />
@@ -25,15 +26,17 @@ engineering of self-adaptive software with runtime models.
     Department of Computer Science <br />
     Unter den Linden 6 <br />
     10099 Berlin
+    </p>
     </div>
-
     <div class="contactright">
+    <p>
     <br /> <br /> <br />
     <em>Visitor Address</em> <br />
     Johann von Neumann-Haus <br />
     House IV, 4th floor, room IV.414 <br />
     Rudower Chaussee 25 <br />
     12489 Berlin
+    </p>
     </div>
 </section>
 
