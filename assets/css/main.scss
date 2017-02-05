@@ -1,5 +1,12 @@
 ---
 ---
+
+/*
+@import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+*/
+@import url('http://fonts.googleapis.com/css?family=Roboto:300,700,300italic,700italic');
+
 /* @import "reset"; */
 /* http://meyerweb.com/eric/tools/css/reset/ */
 html, body, div, span, applet, object, iframe,
@@ -55,12 +62,6 @@ $color-hire-shadow: rgba(0, 0, 0, 0.2);
 // BREAKPOINTS
 $br: 600px;
 /* END CONFIG */
-
-/*
-@import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-*/
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,700,300italic,700italic);
 
 .vcard {
     width: 100%;
