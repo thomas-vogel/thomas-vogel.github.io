@@ -9,8 +9,11 @@ layout: home
 
 I am a researcher at the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
 Before, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
-My research interests are in the application of model-driven engineering to software quality assurance and software adaptation. My main research topics are the automated quality assurance of behavioral software requirements and the
-engineering of self-adaptive software with runtime models.
+My research interests are in the application of model-driven engineering to software quality assurance and software adaptation. My main research topics are:
+
+-- Automated quality assurance of behavioral software requirements
+
+-- Engineering self-adaptive software with runtime models
 
 <br />
 
