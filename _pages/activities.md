@@ -63,8 +63,8 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 [SEAMS](https://wp.doc.ic.ac.uk/seams2017/){:target="_blank"}
 
 * 2016:
-[SEAMS](http://seams2016.jgreen.de/){:target="_blank"}
-[SASO](https://saso2016.informatik.uni-augsburg.de/){:target="_blank"},
+[SEAMS](http://seams2016.jgreen.de/){:target="_blank"},
+[SASO](https://saso2016.informatik.uni-augsburg.de/){:target="_blank"}
 
 * 2015:
 [SEAMS](http://www.disim.univaq.it/seams2015/){:target="_blank"},
