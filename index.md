@@ -44,7 +44,7 @@ My research interests are in the application of model-driven engineering to soft
 
 * __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
 * __Feb 2017__ --- Article published in ACM TAAS: [_Control Strategies for Self-Adaptive Software Systems_](publications/2017-TAAS).
-* __Jan 2017__ --- Book on [_Self-Aware Computing Systems_](http://www.springer.com/book/9783319474724) with my contributions to Chapters
+* __Jan 2017__ --- Book on [_Self-Aware Computing Systems_](http://www.springer.com/book/9783319474724){:target="_blank"} with my contributions to Chapters
 [5](publications/2017-SACSa),
 [6](publications/2017-SACSb), and
 [8](publications/2017-SACSc) on architectures published.
