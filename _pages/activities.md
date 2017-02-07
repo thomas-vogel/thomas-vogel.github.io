@@ -146,7 +146,7 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 ## Editor
 
-* Editor of [self-adaptive.org](https://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_.
+* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_.
 
 
 ## Invited Talks
