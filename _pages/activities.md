@@ -4,6 +4,8 @@ permalink: activities.html
 layout: paper
 ---
 
+
+
 ## Organization Committee
 
 * Co-Organizer of the GI Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss
@@ -63,8 +65,8 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 [SEAMS](https://wp.doc.ic.ac.uk/seams2017/){:target="_blank"}
 
 * 2016:
-[SEAMS](http://seams2016.jgreen.de/){:target="_blank"},
-[SASO](https://saso2016.informatik.uni-augsburg.de/){:target="_blank"}
+[SASO](https://saso2016.informatik.uni-augsburg.de/){:target="_blank"},
+[SEAMS](http://seams2016.jgreen.de/){:target="_blank"}
 
 * 2015:
 [SEAMS](http://www.disim.univaq.it/seams2015/){:target="_blank"},
@@ -74,32 +76,32 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 [Modes@run.time](http://st.inf.tu-dresden.de/MRT15/){:target="_blank"}
 
 * 2014:
-[SEAMS](http://seams2014.uni-paderborn.de/){:target="_blank"},
 [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/){:target="_blank"},
 [MoDELS](http://models2014.webs.upv.es/){:target="_blank"},
 [FASE](http://www.etaps.org/index.php/2014/fase){:target="_blank"},
 [ICSME](http://www.icsme.org/2014){:target="_blank"},
+[SEAMS](http://seams2014.uni-paderborn.de/){:target="_blank"},
 [CyPhy](http://2014.cyphy.org/){:target="_blank"},
 [ModTools](https://www.wi-inf.uni-due.de/ModTools14/){:target="_blank"}
 
 * 2013:
-[SEAMS](http://www.yorku.ca/mlitoiu/seams2013/){:target="_blank"},
 [TSE](https://www.computer.org/web/tse){:target="_blank"},
 [JSS](https://www.journals.elsevier.com/journal-of-systems-and-software/){:target="_blank"},
 [MoDELS](http://models2013.lcc.uma.es/){:target="_blank"},
 [FORTE/FMOODS](http://forte13.sosy-lab.org/){:target="_blank"},
 [FORMATS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=28666){:target="_blank"},
 [ICSM](http://icsm2013.tue.nl/){:target="_blank"},
+[SEAMS](http://www.yorku.ca/mlitoiu/seams2013/){:target="_blank"},
 [DADS/SAC](http://www.dedisys.org/sac13/){:target="_blank"},
 [Models@run.time](http://st.inf.tu-dresden.de/MRT13/){:target="_blank"}
 
 * 2012:
-[SEAMS](http://www.seams2012.cs.uvic.ca/){:target="_blank"},
 [SOSYM](http://www.sosym.org/){:target="_blank"},
 [ICSE](https://files.ifi.uzh.ch/icseweb/){:target="_blank"},
 [MoDELS](http://models2012.info/){:target="_blank"},
 [FASE](http://www.etaps.org/2012/fase){:target="_blank"},
 [COORDINATION](http://dl.ifip.org/db/conf/coordination/coordination2012/index.html){:target="_blank"},
+[SEAMS](http://www.seams2012.cs.uvic.ca/){:target="_blank"},
 [DADS/SAC](http://www.dedisys.org/sac12/){:target="_blank"},
 [Models@run.time](http://st.inf.tu-dresden.de/MRT12/){:target="_blank"},
 [FOCLASA](http://foclasa12.lcc.uma.es/){:target="_blank"}
@@ -113,12 +115,12 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 [DADS/SAC](http://www.dedisys.org/sac11/){:target="_blank"}
 
 * 2010:
-[SEAMS](http://www.inf.usi.ch/seams/){:target="_blank"},
 [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/){:target="_blank"},
 [ICSE](http://www.sbs.co.za/icse2010/){:target="_blank"},
 [MoDELS](http://models2010.ifi.uio.no/){:target="_blank"},
 [ECSA](https://itu.dk/ecsa2010/){:target="_blank"},
 [FASE](http://www.mathematik.uni-marburg.de/~swt/fase2010/){:target="_blank"},
+[SEAMS](http://www.inf.usi.ch/seams/){:target="_blank"},
 [DEPEND](https://www.iaria.org/conferences2010/DEPEND10.html){:target="_blank"},
 [MOCS/SEAA](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=8849){:target="_blank"},
 [SIMPAR](https://www.sim.informatik.tu-darmstadt.de/simpar/index.php){:target="_blank"},
@@ -129,17 +131,22 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 [AOSE](https://www.irit.fr/AOSE2010/){:target="_blank"}
 
 * 2009:
-[SEAMS](http://www.csc.uvic.ca/conferences/seams2009/){:target="_blank"},
 [ICSE](https://www.cs.uoregon.edu/events/icse2009/home/){:target="_blank"},
 [MoDELS](http://www.cs.colostate.edu/models09/){:target="_blank"},
 [AAMAS](http://www.conferences.hu/AAMAS2009/){:target="_blank"},
 [ICAC](http://icac2009.acis.ufl.edu/){:target="_blank"},
+[SEAMS](http://www.csc.uvic.ca/conferences/seams2009/){:target="_blank"},
 [SEKE](http://www.ksi.edu/seke/seke09.html){:target="_blank"},
 [ICSE Demo Track](http://www.cs.uoregon.edu/events/icse2009/calls/RD/){:target="_blank"},
 [DADS/SAC](http://www.dedisys.org/sac09/){:target="_blank"},
 [MISE](http://dl.acm.org/citation.cfm?id=1564600){:target="_blank"},
 [SOAR](https://distrinet.cs.kuleuven.be/events/soar/2009/){:target="_blank"},
 [WADS](https://www.cs.kent.ac.uk/events/conf/2009/wads/){:target="_blank"}
+
+
+## Editor
+
+* Editor of [self-adaptive.org](https://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_.
 
 
 ## Invited Talks
