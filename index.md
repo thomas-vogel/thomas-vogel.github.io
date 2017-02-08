@@ -11,9 +11,10 @@ I am a researcher at the [Software Engineering Group](https://www.informatik.hu-
 Before, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
 My research interests are in the application of model-driven engineering to software quality assurance and software adaptation. My main research topics are:
 
+-- Engineering self-adaptive software with runtime models
+
 -- Automated quality assurance of behavioral software requirements
 
--- Engineering self-adaptive software with runtime models
 
 <br />
 
