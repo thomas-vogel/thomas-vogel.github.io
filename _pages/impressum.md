@@ -9,7 +9,7 @@ layout: page
 <h2>Kontakt:</h2>
 <table>
 <tr><td>E-Mail:</td>
-<td>&lt;first name&gt;.&lt;surname&gt; [at] acm.org </td>
+<td> {{site.email}} </td>
 </tr></table>
 <p> </p>
 <p>Quelle: <em><a href="https://www.e-recht24.de/impressum-generator.html">https://www.e-recht24.de</a></em></p>

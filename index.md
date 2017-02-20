@@ -7,8 +7,8 @@ layout: home
 
 <img src="/assets/img/tom.jpg" alt="Me" style="width: 200px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 25px;"/>
 
-I am a researcher at the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
-Before, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
+I am a researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
+Previously, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
 My research interests are in the application of model-driven engineering to software quality assurance and software adaptation. My main research topics are:
 
 -- Engineering self-adaptive software with runtime models
@@ -21,9 +21,11 @@ My research interests are in the application of model-driven engineering to soft
 ## Contact
 
 <section class="vcard">
-    <div class="contactleft">
-    <em>Email:</em> &lt;first name&gt;.&lt;surname&gt; [at] acm.org <br />
+    <div>
+    <em>Email:</em> {{site.email}}  <br />
     <em>Phone:</em> +49 (0)30 2093-3153  <br /> <br />
+    </div>
+    <div class="contactleft">
     <em>Mail Address</em> <br />
     Humboldt-Universität zu Berlin <br />
     Department of Computer Science <br />
@@ -31,7 +33,6 @@ My research interests are in the application of model-driven engineering to soft
     10099 Berlin
     </div>
     <div class="contactright">
-    <br /> <br /> <br />
     <em>Visitor Address</em> <br />
     Johann von Neumann-Haus <br />
     House IV, 4th floor, room IV.414 <br />
