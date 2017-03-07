@@ -44,6 +44,7 @@ My research interests are in the application of model-driven engineering to soft
 
 ## Things Happening
 
+* __Mar 2017__ --- I am in the PC of the [_2nd International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [_ICAC 2017_](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
 * __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
 * __Feb 2017__ --- Article published in ACM TAAS: [_Control Strategies for Self-Adaptive Software Systems_](publications/2017-TAAS).
 * __Jan 2017__ --- Book on [_Self-Aware Computing Systems_](http://www.springer.com/book/9783319474724){:target="_blank"} with my contributions to Chapters
