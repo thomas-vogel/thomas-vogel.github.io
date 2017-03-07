@@ -52,7 +52,7 @@ My research interests are in the application of model-driven engineering to soft
 [6](publications/2017-SACSb), and
 [8](publications/2017-SACSc) on architectures published.
 
-## [Things happened](pastnews)
+## [Things Happened](pastnews)
 
 
 
