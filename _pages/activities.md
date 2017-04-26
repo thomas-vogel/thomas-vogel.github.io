@@ -18,7 +18,7 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 ## Program Committee
 
-* 2nd International Workshop on Models@run.time for Self-aware Computing Systems (MRT-ICAC) at ICAC, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"})
+* International Workshop on Models@run.time for Self-aware Computing Systems (MRT-ICAC) at ICAC, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"})
 
 * European Conference on Software Architecture (ECSA), Doctoral Symposium, 2016 ([Link](http://ecsa2016.icmc.usp.br/#doctoral){:target="_blank"})
 
@@ -52,6 +52,8 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 * Journal of Systems and Software (JSS)
 
 * Journal of Systems and Software (JSS), Special Issue on State of the Art in Self-Adaptive Software Systems
+
+* Computer Languages, Systems & Structures
 
 * IEEE Transactions on Cybernetics
 
