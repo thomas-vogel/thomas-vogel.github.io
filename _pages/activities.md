@@ -18,6 +18,10 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 ## Program Committee
 
+* International Workshop on Models@run.time (MRT) at MoDELS, 2017 [Link](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}
+
+* Model-Driven Engineering Tools Challenge (MDETools) at MoDELS, 2017 [Link](http://mase.cs.queensu.ca/mdetools/){:target="_blank"}
+
 * International Workshop on Models@run.time for Self-aware Computing Systems (MRT-ICAC) at ICAC, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"})
 
 * European Conference on Software Architecture (ECSA), Doctoral Symposium, 2016 ([Link](http://ecsa2016.icmc.usp.br/#doctoral){:target="_blank"})
