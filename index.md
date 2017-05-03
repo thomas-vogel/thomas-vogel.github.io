@@ -44,9 +44,9 @@ My research interests are in the application of model-driven engineering to soft
 
 ## Things Happening
 
-* __May 2017__ --- I am in the PC of two [MODELS 2017](http://www.cs.utexas.edu/models2017){:target="_blank"} workshops: [_Model-Driven Engineering Tools Challenge (MDETools)_](http://mase.cs.queensu.ca/mdetools/){:target="_blank"} and [_International Workshop on Models@run.time_](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}. Consider submitting a paper.
-* __Apr 2017__ --- Paper accepted at [ICAC 2017](http://icac2017.ece.ohio-state.edu/){:target="_blank"}: _Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_ (preprint coming soon).
-* __Mar 2017__ --- I am in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [_ICAC 2017_](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
+* __May 2017__ --- I am in the PC of two [MODELS'17](http://www.cs.utexas.edu/models2017){:target="_blank"} workshops: [_Model-Driven Engineering Tools Challenge (MDETools)_](http://mase.cs.queensu.ca/mdetools/){:target="_blank"} and [_International Workshop on Models@run.time_](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}. Consider submitting a paper.
+* __Apr 2017__ --- Paper accepted at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}: [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) (preprint coming soon).
+* __Mar 2017__ --- I am in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
 * __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
 * __Feb 2017__ --- Article published in ACM TAAS: [_Control Strategies for Self-Adaptive Software Systems_](publications/2017-TAAS).
 * __Jan 2017__ --- Book on [_Self-Aware Computing Systems_](http://www.springer.com/book/9783319474724){:target="_blank"} with my contributions to Chapters

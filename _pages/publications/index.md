@@ -13,7 +13,7 @@ See publications by [type](/publications/type) or at
 
 ## 2017
 
-* Bradley Schmerl, Jesper Andersson, Thomas Vogel, Myra B. Cohen, Cecilia M.F. Rubira, Yuriy Brun, Alessandra Gorla, Franco Zambonelli, and Luciano Baresi. [_Challenges in Composing and Decomposing Assurances for Self-Adaptive Systems_](2017-SEFSAS3). In: Software Engineering for Self-Adaptive Systems III: Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017. _(to appear)_.
+* Sona Ghahremani, Holger Giese and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. tba. _(accepted)_.
 
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Trans. Auton. Adapt. Syst. 11.4 (2017), 24:1--24:31.
 
@@ -22,6 +22,8 @@ See publications by [type](/publications/type) or at
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, and Kirstie Bellman. [_Generic Architectures for Individual Self-Aware Computing Systems_](2017-SACSb). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 6, pp. 149--189.
 
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, Nelly Bencomo, Kurt Geihs, Samuel Kounev, and Kirstie Bellman. [_State of the Art in Architectures for Self-Aware Computing Systems_](2017-SACSc). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 8, pp. 237--275.
+
+* Bradley Schmerl, Jesper Andersson, Thomas Vogel, Myra B. Cohen, Cecilia M.F. Rubira, Yuriy Brun, Alessandra Gorla, Franco Zambonelli, and Luciano Baresi. [_Challenges in Composing and Decomposing Assurances for Self-Adaptive Systems_](2017-SEFSAS3). In: Software Engineering for Self-Adaptive Systems III: Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017. _(to appear)_.
 
 
 ## 2016

@@ -20,6 +20,8 @@ See publications by [year](/publications) or at
 
 ## Conferences
 
+* Sona Ghahremani, Holger Giese and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. tba. _(accepted)_.
+
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Towards Linking Adaptation Rules to the Utility Function for Dynamic Architectures_](2016-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '16. IEEE, 2016, pp. 142--143.
 
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Software Engineering meets Control Theory_](2015-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’15. IEEE, 2015, pp. 71--82.
