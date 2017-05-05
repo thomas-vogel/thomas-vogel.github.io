@@ -20,7 +20,7 @@ In this chapter, we review the state of the art in self-aware computing systems 
     author = {Giese, Holger and Vogel, Thomas and Diaconescu, Ada and Götz, Sebastian and Bencomo, Nelly and Geihs, Kurt and Kounev, Samuel and Bellman, Kirstie},
     title = {State of the Art in Architectures for Self-Aware Computing Systems},
     booktitle = {Self-Aware Computing Systems},
-    editor = {Kounev, Samuel and Kephart, Jeffrey O. and Milenkoski. Aleksandar and Zhu, Xiaoyun},
+    editor = {Kounev, Samuel and Kephart, Jeffrey O. and Milenkoski, Aleksandar and Zhu, Xiaoyun},
     pages = {237--275},
     publisher = {Springer},
     year = {2017},
