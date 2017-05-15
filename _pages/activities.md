@@ -18,6 +18,8 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 ## Program Committee
 
+* Modellierung 2018, Industry Track (Praxisforum) ([Link](http://modellierung2018.org/call/praxisforum-aufruf/){:target="_blank"})
+
 * International Workshop on Models@run.time (MRT) at MoDELS, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"})
 
 * Model-Driven Engineering Tools Challenge (MDETools) at MoDELS, 2017 ([Link](http://mase.cs.queensu.ca/mdetools/){:target="_blank"})
