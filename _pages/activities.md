@@ -8,13 +8,14 @@ layout: paper
 
 ## Organization Committee
 
+* Publicity Co-Chair of the 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://www.icse2018.org/track/seams-2018-papers){:target="_blank"}).
+
 * Co-Organizer of the GI Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss
 Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
 
 * Web Chair of the Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"}).
 
-* Publicity Co-Chair of the International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS),
-2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"}).
+* Publicity Co-Chair of the 6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"}).
 
 ## Program Committee
 
