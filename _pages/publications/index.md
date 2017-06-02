@@ -13,7 +13,7 @@ See publications by [type](/publications/type) or at
 
 ## 2017
 
-* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. tba. _(accepted)_.
+* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. tba. _(accepted and **nominated for the Karsten Schwan Best Paper Award**)_.
 
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Trans. Auton. Adapt. Syst. 11.4 (2017), 24:1--24:31.
 
