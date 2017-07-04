@@ -44,7 +44,7 @@ My research interests are in the application of model-driven engineering to soft
 
 ## Things Happening
 
-* __Jul 2017__ --- I am invited to the 2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}.
+* __Jul 2017__ --- 2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}.
 * __Jun 2017__ --- I am the Publicity Co-Chair of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://www.icse2018.org/track/seams-2018-papers){:target="_blank"} co-located with [ICSE'18](http://www.icse2018.org){:target="_blank"} in Gothenburg, Sweden. Consider submitting high-quality papers.
 * __May 2017__ --- Our ICAC'17 paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) is among the three candidates for the [Karsten Schwan Best Paper Award](http://icac2017.ece.ohio-state.edu/program/program/){:target="_blank"}.
 * __May 2017__ --- I am in the PC of the [_Modellierung 2018 Industry Track_](http://modellierung2018.org/call/praxisforum-aufruf/){:target="_blank"}. Consider submitting a paper.
