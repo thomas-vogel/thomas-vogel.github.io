@@ -44,18 +44,12 @@ My research interests are in the application of model-driven engineering to soft
 
 ## Things Happening
 
+* __Jul 2017__ --- I am invited to the 2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}.
 * __Jun 2017__ --- I am the Publicity Co-Chair of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://www.icse2018.org/track/seams-2018-papers){:target="_blank"} co-located with [ICSE'18](http://www.icse2018.org){:target="_blank"} in Gothenburg, Sweden. Consider submitting high-quality papers.
 * __May 2017__ --- Our ICAC'17 paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) is among the three candidates for the [Karsten Schwan Best Paper Award](http://icac2017.ece.ohio-state.edu/program/program/){:target="_blank"}.
 * __May 2017__ --- I am in the PC of the [_Modellierung 2018 Industry Track_](http://modellierung2018.org/call/praxisforum-aufruf/){:target="_blank"}. Consider submitting a paper.
 * __May 2017__ --- I am in the PC of two [MODELS'17](http://www.cs.utexas.edu/models2017){:target="_blank"} workshops: [_Model-Driven Engineering Tools Challenge (MDETools)_](http://mase.cs.queensu.ca/mdetools/){:target="_blank"} and [_International Workshop on Models@run.time_](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}. Consider submitting a paper.
 * __Apr 2017__ --- Paper accepted at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}: [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) (preprint coming soon).
-* __Mar 2017__ --- I am in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
-* __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
-* __Feb 2017__ --- Article published in ACM TAAS: [_Control Strategies for Self-Adaptive Software Systems_](publications/2017-TAAS).
-* __Jan 2017__ --- Book on [_Self-Aware Computing Systems_](http://www.springer.com/book/9783319474724){:target="_blank"} with my contributions to Chapters
-[5](publications/2017-SACSa),
-[6](publications/2017-SACSb), and
-[8](publications/2017-SACSc) on architectures published.
 
 ## [Things Happened](pastnews)
 

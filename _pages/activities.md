@@ -73,7 +73,7 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 ## External Reviewer
 
 * 2017:
-[ASE](http://ase2017.org/){:target="_blank"}, 
+[ASE](http://ase2017.org/){:target="_blank"},
 [SEAMS](https://wp.doc.ic.ac.uk/seams2017/){:target="_blank"}
 
 * 2016:
@@ -186,3 +186,20 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 * _A Model-Driven Infrastructure for Self-Adaptive Software Systems_, HPI-UCT Workshop at the University of Cape Town, South Africa, 05/2010.
 
 * _Die Zukunft mit erfinden? Software entwickeln!_, Vortrag auf dem Schülercampus 2009 in Brandenburg, Europa Universität Viadrina Frankfurt (Oder), Germany, 03/2009.
+
+
+## Invited Seminars
+
+*  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
+
+*  1st  NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'16)_](http://shonan.nii.ac.jp/shonan/blog/2015/05/15/controlled-adaptation-of-self%EF%BC%8Dadaptive-systems-casas-2/){:target="_blank"}, 04/2016.
+
+* GI Dagstuhl Seminar on [_Control Theory Meets Software Engineering_](http://www.dagstuhl.de/14382){:target="_blank"}, 09/2014.
+
+* Dagstuhl Seminar on [_Software Engineering for Self-Adaptive Systems: Assurances_](http://www.dagstuhl.de/13511){:target="_blank"}, 12/2013.
+
+* GI Dagstuhl Seminar on [_Quality-of-Service Attributes in Service- and Cloud-based Systems_](http://www.dagstuhl.de/12211){:target="_blank"}, 05/2012.
+
+* Dagstuhl Seminar on [_Models@run.time_](http://www.dagstuhl.de/11481){:target="_blank"}, 11/2011.
+
+* Dagstuhl Seminar on [_Software Engineering for Self-Adaptive Systems_](http://www.dagstuhl.de/10431){:target="_blank"}, 10/2010.

@@ -5,6 +5,17 @@ layout: paper
 ---
 
 
+## 2017
+
+* __Mar 2017__ --- I am in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
+* __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
+* __Feb 2017__ --- Article published in ACM TAAS: [_Control Strategies for Self-Adaptive Software Systems_](publications/2017-TAAS).
+* __Jan 2017__ --- Book on [_Self-Aware Computing Systems_](http://www.springer.com/book/9783319474724){:target="_blank"} with my contributions to Chapters
+[5](publications/2017-SACSa),
+[6](publications/2017-SACSb), and
+[8](publications/2017-SACSc) on architectures published.
+
+
 ## 2016
 
 * __Nov 2016__ --- [FSE'16 Demo Papers](http://www.cs.ucdavis.edu/fse2016/calls/demos/){:target="_blank"}: ACM SIGSOFT International Symposium on the Foundations of Software Engineering (PC Member).
