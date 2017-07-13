@@ -28,7 +28,7 @@ See publications by [year](/publications) or at
 
 * Holger Giese, Thomas Vogel, and Sebastian Wätzoldt. [_Towards Smart Systems of Systems_](2015-FSEN). In: International Conference on Fundamentals of Software Engineering (FSEN ’15). Vol. 9392. Lecture Notes in Computer Science (LNCS). Springer, 2015, pp. 1--29. _(invited paper)_.
 
-* Thomas Vogel and Holger Giese. [_A Language for Feedback Loops in Self-Adaptive Systems: Executable Runtime Megamodels_](2012-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’12. IEEE, 2012, pp. 129--138. _(selected as one of two best papers)_.
+* Thomas Vogel and Holger Giese. [_A Language for Feedback Loops in Self-Adaptive Systems: Executable Runtime Megamodels_](2012-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’12. IEEE, 2012, pp. 129--138. _**(selected as one of two best papers)**_.
 
 * Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Model-Driven Architectural Monitoring and Adaptation for Autonomic Systems_](2009-ICAC). In: International Conference on Autonomic Computing and Communications. ICAC ’09. ACM, 2009, pp. 67--68.
 
@@ -64,7 +64,7 @@ See publications by [year](/publications) or at
 
 * Thomas Vogel and Holger Giese. [_Requirements and Assessment of Languages and Frameworks for Adaptation Models_](2012-MISE). In: Models in Software Engineering, Workshops and Symposia at MoDELS 2011, Reports and Revised Selected Papers. Ed. by Jörg Kienzle. Vol. 7167. Lecture Notes in Computer Science (LNCS). Springer, 2012, pp. 167--182.
 
-* Thomas Vogel and Holger Giese. [_Language and Framework Requirements for Adaptation Models_](2011-MRT). In: International Workshop on Models@run.time. Vol. 794. CEUR Workshop Proceedings. CEUR-WS.org, 2011, pp. 1--12. _(best paper)_.
+* Thomas Vogel and Holger Giese. [_Language and Framework Requirements for Adaptation Models_](2011-MRT). In: International Workshop on Models@run.time. Vol. 794. CEUR Workshop Proceedings. CEUR-WS.org, 2011, pp. 1--12. _**(best paper)**_.
 
 * Thomas Vogel, Andreas Seibel, and Holger Giese. [_The Role of Models and Megamodels at Runtime_](2011-MISE). In: Models in Software Engineering, Workshops and Symposia at MODELS 2010, Reports and Revised Selected Papers. Ed. by Juergen Dingel and Arnor Solberg. Vol. 6627. Lecture Notes in Computer Science (LNCS). Springer, 2011, pp. 224--238.
 
@@ -72,9 +72,9 @@ See publications by [year](/publications) or at
 
 * Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Incremental Model Synchronization for Efficient Run-Time Monitoring_](2010-MISE). In: Models in Software Engineering, Workshops and Symposia at MODELS 2009, Reports and Revised Selected Papers. Ed. by Sudipto Ghosh. Vol. 6002. Lecture Notes in Computer Science (LNCS). Springer, 2010, pp. 124--139.
 
-* Thomas Vogel, Andreas Seibel, and Holger Giese. [_Toward Megamodels at Runtime_](2010-MRT). In: International Workshop on Models@run.time. Vol. 641. CEUR Workshop Proceedings. CEUR-WS.org, 2010, pp. 13--24. _(best paper)_.
+* Thomas Vogel, Andreas Seibel, and Holger Giese. [_Toward Megamodels at Runtime_](2010-MRT). In: International Workshop on Models@run.time. Vol. 641. CEUR Workshop Proceedings. CEUR-WS.org, 2010, pp. 13--24. _**(best paper)**_.
 
-* Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Incremental Model Synchronization for Efficient Run-time Monitoring_](2009-MRTa). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 1--10. _(best paper)_.
+* Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Incremental Model Synchronization for Efficient Run-time Monitoring_](2009-MRTa). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 1--10. _**(best paper)**_.
 
 * Holger Giese, Andreas Seibel, and Thomas Vogel. [_A Model-Driven Configuration Management System for Advanced IT Service Management_](2009-MRTb). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 61--70.
 
