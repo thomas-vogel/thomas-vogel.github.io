@@ -44,7 +44,7 @@ My research interests are in the application of model-driven engineering to soft
 
 ## Things Happening
 
-* __Jul 2017__ --- Our paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) got the Karsten Schwan Best Paper Award at [ICAC'17](http://icac2017.ece.ohio-state.edu/).
+* __Jul 2017__ --- Our paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) got the Karsten Schwan Best Paper Award at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}.
 
 <img src="/assets/img/icac17_best_paper_award.png" alt="Me" style="width: 250px; margin-top: 0em; margin-left: 2em; margin-right: 25px;"/>
 
