@@ -7,6 +7,7 @@ layout: paper
 
 ## 2017
 
+* __Apr 2017__ --- Paper accepted at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}: [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC).
 * __Mar 2017__ --- I am in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
 * __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
 * __Feb 2017__ --- Article published in ACM TAAS: [_Control Strategies for Self-Adaptive Software Systems_](publications/2017-TAAS).
