@@ -18,8 +18,8 @@ Self-awareness in a computing system is achieved by implementing a model-based l
 <div class="bibtex">
 <pre>@inbook{2017-SACSa,
      author = {Giese, Holger and Vogel, Thomas and Diaconescu, Ada and Götz, Sebastian and Kounev, Samuel},
-     title = {Architectural Concepts for Self-Aware Computing Systems},
-     booktitle = {Self-Aware Computing Systems},
+     chapter = {Architectural Concepts for Self-Aware Computing Systems},
+     title = {Self-Aware Computing Systems},
      editor = {Kounev, Samuel and Kephart, Jeffrey O. and Milenkoski, Aleksandar and Zhu, Xiaoyun},
      pages = {109--147},
      publisher = {Springer},

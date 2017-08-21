@@ -19,8 +19,8 @@ Making computing systems self-aware calls for appropriate architectural designs 
 <div class="bibtex">
 <pre>@inbook{2017-SACSb,
     author = {Giese, Holger and Vogel, Thomas and Diaconescu, Ada and Götz, Sebastian and Bellman, Kirstie},
-    title = {Generic Architectures for Individual Self-Aware Computing Systems},
-    booktitle = {Self-Aware Computing Systems},
+    chapter = {Generic Architectures for Individual Self-Aware Computing Systems},
+    title = {Self-Aware Computing Systems},
     editor = {Kounev, Samuel and Kephart, Jeffrey O. and Milenkoski, Aleksandar and Zhu, Xiaoyun},
     pages = {149--189},
     publisher = {Springer},
