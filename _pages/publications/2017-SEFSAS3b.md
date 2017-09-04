@@ -1,6 +1,6 @@
 ---
 title: Challenges in Composing and Decomposing Assurances for Self-Adaptive Systems
-permalink: publications/2017-SEFSAS3.html
+permalink: publications/2017-SEFSAS3b.html
 layout: paper
 ---
 
