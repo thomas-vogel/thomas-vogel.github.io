@@ -8,7 +8,7 @@ layout: paper
 
 ## Organization Committee
 
-* Publicity Co-Chair of the 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://www.icse2018.org/track/seams-2018-papers){:target="_blank"}).
+* Publicity Co-Chair and Web Chair of the 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
 
 * Co-Organizer of the GI Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss
 Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
