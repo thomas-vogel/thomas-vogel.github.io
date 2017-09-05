@@ -54,15 +54,18 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 * Software and Systems Modeling (SOSYM)
 
-* Computing
+* IEEE Software
 
 * Journal of Systems and Software (JSS)
 
 * Journal of Systems and Software (JSS), Special Issue on State of the Art in Self-Adaptive Software Systems
 
+* Computing
+
 * Computer Languages, Systems & Structures
 
 * IEEE Transactions on Cybernetics
+
 
 ## Book Reviewing
 
@@ -189,6 +192,8 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 
 ## Invited Seminars
+
+* Dagstuhl Seminar on [_Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
 
 *  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
 
