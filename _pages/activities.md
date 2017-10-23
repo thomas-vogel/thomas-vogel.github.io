@@ -5,7 +5,6 @@ layout: paper
 ---
 
 
-
 ## Organization Committee
 
 * Publicity Co-Chair and Web Chair of the 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
@@ -19,9 +18,9 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 ## Program Committee
 
-* International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}) 
+* International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
 
-* Modellierung 2018, Industry Track (Praxisforum) ([Link](http://modellierung2018.org/call/praxisforum-aufruf/){:target="_blank"})
+* Modellierung 2018, Industry Track (Praxisforum)
 
 * International Workshop on Models@run.time (MRT) at MoDELS, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"})
 
