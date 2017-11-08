@@ -167,6 +167,8 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 
 ## Invited Talks
 
+* _Fitness Landscape Analysis of Sapienz_, [Facebook, London, UK](https://www.facebook.com/facebooklondon/){:target="_blank"}, 11/2017.
+
 * _Toward Self-Adaptive Software Employing Model Predictive Control_, NII Shonan Meeting on Controlled Adaptation of Self-adaptive Systems ([CASaS](http://shonan.nii.ac.jp/shonan/blog/2015/05/15/controlled-adaptation-of-self%EF%BC%8Dadaptive-systems-casas-2/){:target="_blank"}), Shonan, Japan, 04/2016 (joint talk with Holger Giese).
 
 * _Model-Driven Engineering of Self-Adaptive Software_, [Computer Science Colloquium](http://www.cs.uct.ac.za/research/cs-colloquia-and-seminars-and-other-talks){:target="_blank"} at the University of Cape Town, South Africa, 08/2015.
