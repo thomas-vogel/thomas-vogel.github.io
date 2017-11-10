@@ -77,6 +77,7 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 ## External Reviewer
 
 * 2017:
+[Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481){:target="_blank"}, 
 [ASE](http://ase2017.org/){:target="_blank"},
 [SEAMS](https://wp.doc.ic.ac.uk/seams2017/){:target="_blank"}
 
