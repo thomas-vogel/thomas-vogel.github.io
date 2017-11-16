@@ -7,14 +7,15 @@ layout: paper
 
 ## Organization Committee
 
-* Publicity Co-Chair and Web Chair of the 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
+* Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Schloss Dagstuhl, 2018.
 
-* Co-Organizer of the GI Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss
-Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
+* Publicity Co-Chair and Web Chair of the _13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
 
-* Web Chair of the Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"}).
+* Co-Organizer of the _GI Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems_, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
 
-* Publicity Co-Chair of the 6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"}).
+* Web Chair of the _Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering_, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"}).
+
+* Publicity Co-Chair of the _6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"}).
 
 ## Program Committee
 
@@ -77,7 +78,7 @@ Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/
 ## External Reviewer
 
 * 2017:
-[Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481){:target="_blank"}, 
+[Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481){:target="_blank"},
 [ASE](http://ase2017.org/){:target="_blank"},
 [SEAMS](https://wp.doc.ic.ac.uk/seams2017/){:target="_blank"}
 
