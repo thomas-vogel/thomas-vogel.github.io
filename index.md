@@ -46,7 +46,7 @@ My research interests are in the areas of:
 
 ## Things Happening
 
-* __Nov 2017__ --- Our proposal for the GI-Dagstuhl seminar on _Software Engineering for Intelligent and Autonomous Systems_ has been accepted. Ada Diaconescu, Simos Gerasimou, and I will organize the seminar in 2018.
+* __Nov 2017__ --- Our proposal for the GI-Dagstuhl seminar on [_Software Engineering for Intelligent and Autonomous Systems_](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"} has been accepted. Ada Diaconescu, Simos Gerasimou, and I will organize the seminar in 2018.
 * __Nov 2017__ --- Invited talk on _Fitness Landscape Analysis of Sapienz_ at [Facebook, London, UK](https://www.facebook.com/facebooklondon/){:target="_blank"}.
 * __Sep 2017__ --- I am in the PC of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://2018.seams-symposia.org){:target="_blank"}. Consider submitting high-quality papers.
 <a target="_blank" href="http://2018.seams-symposia.org"><img src="https://conf.researchr.org/getImage/seams-2018/orig/SEAMS2018-page-header.png" alt="SEAMS 2018" style="width: 100%; margin-top: 0em; margin-left: 1em; margin-right: 25px;"/></a>
