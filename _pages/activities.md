@@ -19,6 +19,8 @@ layout: paper
 
 ## Program Committee
 
+* Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2018 ([Link](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"})
+
 * International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
 
 * Modellierung 2018, Industry Track (Praxisforum)
