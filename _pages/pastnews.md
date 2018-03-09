@@ -7,6 +7,11 @@ layout: paper
 
 ## 2017
 
+* __Sep 2017__ --- I am in the PC of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://2018.seams-symposia.org){:target="_blank"}. Consider submitting high-quality papers.
+* __Sep 2017__ --- Preprint of the paper [_Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances_](publications/2017-SEFSAS3a) is available.
+* __Jul 2017__ --- Our paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) got the Karsten Schwan Best Paper Award at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}.
+* __Jul 2017__ --- 2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}.
+* __Jun 2017__ --- I am the Publicity Co-Chair and Web Chair of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://2018.seams-symposia.org){:target="_blank"} co-located with [ICSE'18](http://www.icse2018.org){:target="_blank"} in Gothenburg, Sweden. Consider submitting high-quality papers.
 * __May 2017__ --- Our ICAC'17 paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) is among the three candidates for the [Karsten Schwan Best Paper Award](http://icac2017.ece.ohio-state.edu/program/program/){:target="_blank"}.
 * __May 2017__ --- I am in the PC of the Modellierung 2018 Industry Track. Consider submitting a paper.
 * __May 2017__ --- I am in the PC of two [MODELS'17](http://www.cs.utexas.edu/models2017){:target="_blank"} workshops: [_Model-Driven Engineering Tools Challenge (MDETools)_](http://mase.cs.queensu.ca/mdetools/){:target="_blank"} and [_International Workshop on Models@run.time_](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}. Consider submitting a paper.
