@@ -46,7 +46,7 @@ My research interests are in the areas of:
 
 ## Things Happening
 
-* __Mar 2018__ --- Two papers accepted to [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
+* __Mar 2018__ --- Two papers accepted at [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
   * [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](publications/2018-SEAMSa)
   * [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](publications/2018-SEAMSb)
 * __Feb 2018__ --- I joined the PC of the [_12th Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS)_](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"}. Consider submitting high-quality papers.
