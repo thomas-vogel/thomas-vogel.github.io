@@ -46,6 +46,9 @@ My research interests are in the areas of:
 
 ## Things Happening
 
+* __Mar 2018__ --- Two papers accepted to [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
+  * [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](publications/2018-SEAMSa)
+  * [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](publications/2018-SEAMSb)
 * __Feb 2018__ --- I joined the PC of the [_12th Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS)_](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"}. Consider submitting high-quality papers.
 * __Jan 2018__ --- The papers [_Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances_](publications/2017-SEFSAS3a) and [_Challenges in Composing and Decomposing Assurances for Self-Adaptive Systems_](publications/2017-SEFSAS3b) are now available online at Springer.
 * __Jan 2018__ --- Participating in the Dagstuhl event [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"} and giving a talk on _Fitness Landscape Analysis to Improve Search-Based Software Engineering_.

@@ -21,6 +21,10 @@ See publications by [year](/publications) or at
 
 ## Conferences
 
+* Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](2018-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
+
+* Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](2018-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
+
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. 59--68. _(**Karsten Schwan Best Paper Award**)_.
 
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Towards Linking Adaptation Rules to the Utility Function for Dynamic Architectures_](2016-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '16. IEEE, 2016, pp. 142--143.
