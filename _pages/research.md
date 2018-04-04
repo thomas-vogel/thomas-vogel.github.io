@@ -23,4 +23,4 @@ A domain-specific modeling language to specify and execute feedback loops in sel
 Runtime models for self-adaptive software.
 
 ## mRUBiS
-An exemplar for self-adaptation covering self-healing and self-optimization capabilities.
+An exemplar for model-based architectural self-healing and self-optimization. See [paper](publications/2018-SEAMSa) and [artifact at GitHub](https://github.com/thomas-vogel/mRUBiS){:target="_blank"}.
