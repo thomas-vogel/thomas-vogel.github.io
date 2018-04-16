@@ -7,11 +7,11 @@ layout: paper
 
 ## Organization Committee
 
-* Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"}).
+* Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"}).
 
 * Publicity Co-Chair and Web Chair of the _13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
 
-* Co-Organizer of the _GI Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems_, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
+* Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems_, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
 
 * Web Chair of the _Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering_, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"}).
 
@@ -78,6 +78,9 @@ layout: paper
 
 
 ## External Reviewer
+
+* 2018:
+[ESEC/FSE](https://conf.researchr.org/home/fse-2018){:target="_blank"}, [SSBSE](http://ssbse18.irisa.fr){:target="_blank"},
 
 * 2017:
 [Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481){:target="_blank"},
