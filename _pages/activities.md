@@ -80,7 +80,7 @@ layout: paper
 ## External Reviewer
 
 * 2018:
-[ESEC/FSE](https://conf.researchr.org/home/fse-2018){:target="_blank"}, [SSBSE](http://ssbse18.irisa.fr){:target="_blank"},
+[ESEC/FSE](https://conf.researchr.org/home/fse-2018){:target="_blank"}, [SSBSE](http://ssbse18.irisa.fr){:target="_blank"}
 
 * 2017:
 [Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481){:target="_blank"},
