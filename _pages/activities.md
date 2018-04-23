@@ -19,15 +19,17 @@ layout: paper
 
 ## Program Committee
 
+* 2nd Workshop on Model-Driven Engineering Tools (MDETools) at MoDELS, 2018 ([Link](https://mdetools.github.io/mdetools18/){:target="_blank"})
+
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2018 ([Link](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"})
 
-* International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
+* 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
 
 * Modellierung 2018, Industry Track (Praxisforum)
 
 * International Workshop on Models@run.time (MRT) at MoDELS, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"})
 
-* Model-Driven Engineering Tools Challenge (MDETools) at MoDELS, 2017 ([Link](http://mase.cs.queensu.ca/mdetools/){:target="_blank"})
+* 1st Workshop on Model-Driven Engineering Tools (MDETools) at MoDELS, 2017 ([Link](http://mase.cs.queensu.ca/mdetools/){:target="_blank"})
 
 * International Workshop on Models@run.time for Self-aware Computing Systems (MRT-ICAC) at ICAC, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"})
 

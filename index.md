@@ -46,6 +46,7 @@ My research interests are in the areas of:
 
 ## Things Happening
 
+* __Apr 2018__ --- I joined the PC of the [_2nd Workshop on Model-Driven Engineering Tools (MDETools)_](https://mdetools.github.io/mdetools18/){:target="_blank"} co-located with [MoDELS 2018](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.
 * __Mar 2018__ --- Two papers accepted at [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
   * [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](publications/2018-SEAMSa)
   * [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](publications/2018-SEAMSb)
