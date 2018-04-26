@@ -11,6 +11,9 @@ See publications by [year](/publications) or at
 [DBLP](https://dblp.uni-trier.de/pers/hd/v/Vogel_0001:Thomas){:target="_blank"}, and
 [ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}.
 
+## PhD Thesis
+
+* Thomas Vogel. [_Model-Driven Engineering of Self-Adaptive Software_](phd). PhD Thesis, University of Potsdam, Germany, 2018.
 
 ## Journals
 

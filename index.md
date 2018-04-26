@@ -7,7 +7,7 @@ layout: home
 
 <img src="/assets/img/tom.jpg" alt="Me" style="width: 200px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 25px;"/>
 
-I am a researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
+I am a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
 Previously, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
 My research interests are in the areas of:
 
@@ -46,6 +46,7 @@ My research interests are in the areas of:
 
 ## Things Happening
 
+* __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online. 
 * __Apr 2018__ --- I joined the PC of the [_2nd Workshop on Model-Driven Engineering Tools (MDETools)_](https://mdetools.github.io/mdetools18/){:target="_blank"} co-located with [MoDELS 2018](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.
 * __Mar 2018__ --- Two papers accepted at [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
   * [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](publications/2018-SEAMSa)

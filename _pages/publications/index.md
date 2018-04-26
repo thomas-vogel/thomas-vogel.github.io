@@ -13,6 +13,8 @@ See publications by [type](/publications/type) or at
 
 ## 2018
 
+* Thomas Vogel. [_Model-Driven Engineering of Self-Adaptive Software_](phd). PhD Thesis, University of Potsdam, Germany, 2018.
+
 * Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](2018-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
 
 * Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](2018-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
