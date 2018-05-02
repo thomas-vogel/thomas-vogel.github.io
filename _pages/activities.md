@@ -15,6 +15,7 @@ layout: paper
 
 ## Program Committee
 
+* Posters and Demos Track of the 15th International Conference on Autonomic Computing (ICAC) and the 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2018 ([Link](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"})
 * 2nd Workshop on Model-Driven Engineering Tools (MDETools) at MoDELS, 2018 ([Link](https://mdetools.github.io/mdetools18/){:target="_blank"})
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2018 ([Link](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"})
 * 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})

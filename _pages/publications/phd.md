@@ -9,6 +9,8 @@ Thomas Vogel. "Model-Driven Engineering of Self-Adaptive Software". PhD Thesis, 
 
 Graded _summa cum laude_.
 
+Reviewers: Prof. Holger Giese, Prof. Betty H.C. Cheng, Prof. Samuel Kounev. 
+
 (Submitted on 30.01.2017, defended on 19.03.2018, published online on 23.04.2018)
 
 ## Links
