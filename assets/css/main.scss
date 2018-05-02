@@ -414,6 +414,9 @@ blockquote {
 	text-align: center;
 	font-size: 0.8em;
 	color: $color-hire-blue;
+	a {
+		color: $color-hire-blue;
+	}
 }
 
 .acmdlitem {font-family: Roboto;
