@@ -48,7 +48,7 @@ My research interests are in the areas of:
 
 * __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
 
-* __May 2018__ --- I joined the PC of the Posters and Demos Track of the [_15th International Conference on Autonomic Computing (ICAC 2018)_](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"} and the [_12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2018)_](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}). Consider submitting posters and demos.
+* __May 2018__ --- I joined the PC of the Posters and Demos Track of the [_15th International Conference on Autonomic Computing (ICAC 2018)_](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"} and the [_12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2018)_](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters and demos.
 * __Apr 2018__ --- I joined the PC of the [_2nd Workshop on Model-Driven Engineering Tools (MDETools)_](https://mdetools.github.io/mdetools18/){:target="_blank"} co-located with [MoDELS 2018](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.
 * __Mar 2018__ --- Two papers accepted at [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
   * [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](publications/2018-SEAMSa)
