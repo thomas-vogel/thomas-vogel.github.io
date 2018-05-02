@@ -46,7 +46,8 @@ My research interests are in the areas of:
 
 ## Things Happening
 
-* __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
+* <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 10px;"/>
+ __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
 
 * __May 2018__ --- I joined the PC of the Posters and Demos Track of the [_15th International Conference on Autonomic Computing (ICAC 2018)_](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"} and the [_12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2018)_](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters and demos.
 * __Apr 2018__ --- I joined the PC of the [_2nd Workshop on Model-Driven Engineering Tools (MDETools)_](https://mdetools.github.io/mdetools18/){:target="_blank"} co-located with [MoDELS 2018](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.
