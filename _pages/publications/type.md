@@ -68,6 +68,8 @@ See publications by [year](/publications) or at
 
 ## Workshops
 
+* Timo Kehrer, Andreas Vogelsang, Thomas Vogel, Heiko Dörr. [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](2018-MBEES). In: Tagungsband des Dagstuhl-Workshops Modellbasierte Entwicklung eingebetteter Systeme XIV. MBEES ’18. pp. 1-6.
+
 * Joachim Hänsel, Thomas Vogel, and Holger Giese. [_A Testing Scheme for Self-Adaptive Software Systems with Architectural Runtime Models_](2015-SASOW). In: International Conference on Self-Adaptive and Self-Organizing Systems Workshops. SASOW ’15. IEEE, 2015, pp. 134--139.
 
 * Thomas Vogel and Holger Giese. [_On Unifying Development Models and Runtime Models_](2014-MRT). In: International Workshop on Models@run.time. Vol. 1270. CEUR Workshop Proceedings. CEUR-WS.org, 2014, pp. 5--10.

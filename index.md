@@ -49,8 +49,9 @@ My research interests are in the areas of:
 * <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>
  __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
 * __May 2018__ --- I joined the PC of the Posters and Demos Track of the [_15th International Conference on Autonomic Computing (ICAC 2018)_](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"} and the [_12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2018)_](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters and demos.
+* __Apr 2018__ --- Paper [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](publications/2018-MBEES) accepted and presented at the [MBEES 2018](https://www.inf.uni-hamburg.de/en/inst/ab/swk/research/events/mbees2018.html){:target="_blank"} workshop in Dagstuhl.
 * __Apr 2018__ --- I joined the PC of the [_2nd Workshop on Model-Driven Engineering Tools (MDETools)_](https://mdetools.github.io/mdetools18/){:target="_blank"} co-located with [MoDELS 2018](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.
-* __Mar 2018__ --- Two papers accepted at [_SEAMS 2018_](http://2018.seams-symposia.org){:target="_blank"}:
+* __Mar 2018__ --- Two papers accepted at [SEAMS 2018](http://2018.seams-symposia.org){:target="_blank"}:
   * [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](publications/2018-SEAMSa)
   * [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](publications/2018-SEAMSb)
 * __Feb 2018__ --- I joined the PC of the [_12th Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS)_](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"}. Consider submitting high-quality papers.

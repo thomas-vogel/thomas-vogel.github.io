@@ -19,6 +19,8 @@ See publications by [type](/publications/type) or at
 
 * Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](2018-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
 
+* Timo Kehrer, Andreas Vogelsang, Thomas Vogel, Heiko Dörr. [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](2018-MBEES). In: Tagungsband des Dagstuhl-Workshops Modellbasierte Entwicklung eingebetteter Systeme XIV. MBEES ’18. pp. 1-6.
+
 ## 2017
 
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. 59--68. _(**Karsten Schwan Best Paper Award**)_.
