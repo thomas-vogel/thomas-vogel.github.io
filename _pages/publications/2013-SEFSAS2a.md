@@ -5,9 +5,11 @@ layout: paper
 ---
 
 ## Reference
-Rogério de Lemos, Holger Giese, Hausi Müller, Mary Shaw, Jesper Andersson, Marin Litoiu, Bradley Schmerl, Gabriel Tamura, Norha M. Villegas, Thomas Vogel, Danny Weyns, Luciano Baresi, Basil Becker, Nelly Bencomo, Yuriy Brun, Bojan Cukic, Ron Desmarais, Schahram Dustdar, Gregor Engels, Kurt Geihs, Karl Goeschka, Alessandra Gorla, Vincenzo Grassi, Paola Inverardi, Gabor Karsai, Jeff Kramer, Antónia Lopes, Jeff Magee, Sam Malek, Serge Mankovskii, Raffaela Mirandola, John Mylopoulos, Oscar Nierstrasz, Mauro Pezzè, Christian Prehofer, Wilhelm Schäfer, Rick Schlichting, Dennis B. Smith, Joao P. Sousa, Ladan Tahvildari, Kenny Wong, and Jochen Wuttke. "Software Engineering for Self-Adaptive Systems: A second Research Roadmap". In: Software Engineering for Self-Adaptive Systems II. Ed. by Rogério de Lemos, Holger Giese, Hausi Müller, and Mary Shaw. Vol. 7475. Lecture Notes in Computer Science (LNCS). Springer, 2013, pp. 1--32.
+Rogério de Lemos, Holger Giese, Hausi Müller, Mary Shaw, Jesper Andersson, Marin Litoiu, Bradley Schmerl, Gabriel Tamura, Norha M. Villegas, Thomas Vogel, Danny Weyns, Luciano Baresi, Basil Becker, Nelly Bencomo, Yuriy Brun, Bojan Cukic, Ron Desmarais, Schahram Dustdar, Gregor Engels, Kurt Geihs, Karl Goeschka, Alessandra Gorla, Vincenzo Grassi, Paola Inverardi, Gabor Karsai, Jeff Kramer, Antónia Lopes, Jeff Magee, Sam Malek, Serge Mankovskii, Raffaela Mirandola, John Mylopoulos, Oscar Nierstrasz, Mauro Pezzè, Christian Prehofer, Wilhelm Schäfer, Rick Schlichting, Dennis B. Smith, Joao P. Sousa, Ladan Tahvildari, Kenny Wong, and Jochen Wuttke. "Software Engineering for Self-Adaptive Systems: A second Research Roadmap". In: Software Engineering for Self-Adaptive Systems II. Ed. by Rogério de Lemos, Holger Giese, Hausi Müller, and Mary Shaw. Vol. 7475. Lecture Notes in Computer Science (LNCS). Springer, 2013, pp. 1--32. DOI: 10.1007/978-3-642-35813-5\_1
 
 ## Links
+[OA Version](https://zenodo.org/record/1248924){:target="_blank"}
+
 [Paper at SpringerLink](https://doi.org/10.1007/978-3-642-35813-5_1){:target="_blank"}
 
 ## Abstract

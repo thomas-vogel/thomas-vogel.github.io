@@ -5,10 +5,10 @@ layout: paper
 ---
 
 ## Reference
-Rogério de Lemos, David Garlan, Carlo Ghezzi, Holger Giese, Jesper Andersson, Marin Litoiu, Bradley Schmerl, Danny Weyns, Luciano Baresi, Nelly Bencomo, Yuriy Brun, Javier Camara, Radu Calinescu, Myra B. Cohen, Alessandra Gorla, Vincenzo Grassi, Lars Grunske, Paola Inverardi, Jean-Marc Jezequel, Sam Malek, Raffaela Mirandola, Marco Mori, Hausi A. Müller, Romain Rouvoy, Cecilia M. F. Rubira, Eric Rutten, Mary Shaw, Giordano Tamburrelli, Gabriel Tamura, Norha M. Villegas, Thomas Vogel, and Franco Zambonelli. "Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances". In: Software Engineering for Self-Adaptive Systems III. Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017, pp. 3--30.
+Rogério de Lemos, David Garlan, Carlo Ghezzi, Holger Giese, Jesper Andersson, Marin Litoiu, Bradley Schmerl, Danny Weyns, Luciano Baresi, Nelly Bencomo, Yuriy Brun, Javier Camara, Radu Calinescu, Myra B. Cohen, Alessandra Gorla, Vincenzo Grassi, Lars Grunske, Paola Inverardi, Jean-Marc Jezequel, Sam Malek, Raffaela Mirandola, Marco Mori, Hausi A. Müller, Romain Rouvoy, Cecilia M. F. Rubira, Eric Rutten, Mary Shaw, Giordano Tamburrelli, Gabriel Tamura, Norha M. Villegas, Thomas Vogel, and Franco Zambonelli. "Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances". In: Software Engineering for Self-Adaptive Systems III. Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017, pp. 3--30. DOI: 10.1007/978-3-319-74183-3\_1
 
 ## Links
-[Preprint (pdf)](https://www.hpi.uni-potsdam.de/giese/public/selfadapt/wp-content/uploads/sites/2/2017/09/SEfSAS3-challenges.pdf){:target="_blank"}
+[OA Version](https://zenodo.org/record/1248952){:target="_blank"}
 
 [Paper at SpringerLink](https://doi.org/10.1007/978-3-319-74183-3_1){:target="_blank"}
 
@@ -17,7 +17,7 @@ The important concern for modern software systems is to become more cost-effecti
 
 ## BibTeX
 <div class="bibtex">
-<pre>@incollection{SEFSAS3-challenges,
+<pre>@incollection{2017-SEFSAS3a,
     author = {de Lemos, Rog\'{e}rio and Garlan, David and Ghezzi, Carlo and Giese, Holger and Andersson, Jesper and Litoiu, Marin and Schmerl, Bradley and Weyns, Danny and Baresi, Luciano and Bencomo, Nelly and Brun, Yuriy and Camara, Javier and Calinescu, Radu and Cohen, Myra B. and Gorla, Alessandra and Grassi, Vincenzo and Grunske, Lars and Inverardi, Paola and Jezequel, Jean-Marc and Malek, Sam and Mirandola, Raffaela and Mori, Marco and M\"{u}ller, Hausi A. and Rouvoy, Romain and Rubira, Cecilia M. F. and Rutten, Eric and Shaw, Mary and Tamburrelli, Giordano and Tamura, Gabriel and Villegas, Norha M. and Vogel, Thomas and Zambonelli, Franco},
     title = {Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances},
     year = {2017},
