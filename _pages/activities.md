@@ -15,7 +15,9 @@ layout: paper
 
 ## Program Committee
 
-* Posters and Demos Track of the 15th International Conference on Autonomic Computing (ICAC) and the 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2018 ([Link](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"})
+* 13th International Workshop on Models@run.time (MRT) at MODELS, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"})
+* Poster and Demo Track of the 15th International Conference on Autonomic Computing (ICAC) and the 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2018 ([Link](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"})
+* 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC) at ICAC/SASO, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18-ICAC/){:target="_blank"})
 * 2nd Workshop on Model-Driven Engineering Tools (MDETools) at MoDELS, 2018 ([Link](https://mdetools.github.io/mdetools18/){:target="_blank"})
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2018 ([Link](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"})
 * 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
@@ -35,6 +37,7 @@ layout: paper
 
 
 ## Journal Reviewing
+([My publons profile](https://publons.com/author/1309009){:target="_blank"})
 
 * IEEE Transactions on Software Engineering (TSE)
 * ACM Transactions on Autonomous and Adaptive Systems (TAAS)
