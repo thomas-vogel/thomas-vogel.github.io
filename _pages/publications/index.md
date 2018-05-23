@@ -8,8 +8,9 @@ See publications by [type](/publications/type) or at
 [![orcid id](/assets/img/iDicon.png) ORCID](http://orcid.org/0000-0002-7127-352X){:target="_blank"},
 <!--[Google Scholar](https://scholar.google.com/citations?user=6OYLxbsAAAAJ){:target="_blank"},-->
 [Google Scholar](https://scholar.google.com/citations?user=BnTgaaIAAAAJ){:target="_blank"},
-[DBLP](https://dblp.uni-trier.de/pers/hd/v/Vogel_0001:Thomas){:target="_blank"}, and
-[ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}.
+[DBLP](https://dblp.uni-trier.de/pers/hd/v/Vogel_0001:Thomas){:target="_blank"},
+[ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}, and
+[arXiv.org](https://arxiv.org/a/vogel_t_2.html){:target="_blank"}.
 
 ## 2018
 

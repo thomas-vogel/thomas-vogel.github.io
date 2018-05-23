@@ -8,6 +8,8 @@ layout: paper
 Thomas Vogel and Holger Giese. "A Language for Feedback Loops in Self-Adaptive Systems: Executable Runtime Megamodels". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’12. IEEE, 2012, pp. 129--138. DOI: 10.1109/SEAMS.2012.6224399 _(selected as one of two best papers)_.
 
 ## Links
+[OA Version](https://arxiv.org/abs/1805.08678){:target="_blank"}
+
 [Paper at ACM DL](http://dl.acm.org/citation.cfm?id=2666816){:target="_blank"}
 
 [Paper at IEEE Xplore](https://doi.org/10.1109/SEAMS.2012.6224399){:target="_blank"}
