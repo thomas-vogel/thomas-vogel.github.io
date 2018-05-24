@@ -8,9 +8,11 @@ layout: paper
 Thomas Vogel. "mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)". In: Dagstuhl Artifacts Series (DARTS) 4.1 (2018), Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, pp. 2:1--2:4. DOI: 10.4230/DARTS.4.1.1
 
 ## Links
-[Artifact at DARTS](https://doi.org/10.4230/DARTS.4.1.1){:target="_blank"}, [direct download](http://drops.dagstuhl.de/opus/volltexte/2018/8710/artifact/DARTS-4-1-1-artifact-1e9de8c6a61c2850006c5f631dcc32a3.tgz)
+[Artifact at DARTS](https://doi.org/10.4230/DARTS.4.1.1){:target="_blank"}, ([direct download](http://drops.dagstuhl.de/opus/volltexte/2018/8710/artifact/DARTS-4-1-1-artifact-1e9de8c6a61c2850006c5f631dcc32a3.tgz))
 
 [Artifact at GitHub](https://github.com/thomas-vogel/mRUBiS){:target="_blank"}
+
+[Related SEAMS 2018 paper](2018-SEAMSa)
 
 
 ## Abstract
@@ -20,15 +22,15 @@ Self-adaptive software systems are often structured into an adaptation engine th
 
 <div class="bibtex">
 <pre>@article{2018-DARTS,
-  author =	{Thomas Vogel},
-  title =	{ {mRUBiS}: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)}},
-  pages =	{2:1--2:4},
-  journal =	{Dagstuhl Artifacts Series},
-  year =	{2018},
-  volume =	{4},
-  number =	{1},
-  publisher =	{Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
-  address =	{Dagstuhl, Germany},
-  doi =		{10.4230/DARTS.4.1.1},
+  author = {Thomas Vogel},
+  title = { {mRUBiS}: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)}},
+  pages = {2:1--2:4},
+  journal = {Dagstuhl Artifacts Series},
+  year = {2018},
+  volume = {4},
+  number = {1},
+  publisher = {Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  address = {Dagstuhl, Germany},
+  doi = {10.4230/DARTS.4.1.1},
 }</pre>
 </div>
