@@ -92,6 +92,10 @@ See publications by [year](/publications) or at
 * Holger Giese, Andreas Seibel, and Thomas Vogel. [_A Model-Driven Configuration Management System for Advanced IT Service Management_](2009-MRTb). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 61--70.
 
 
+## Artifacts
+
+* Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)_](2018-DARTS). In: Dagstuhl Artifacts Series (DARTS) 4.1 (2018), Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, pp. 2:1--2:4.
+
 ## Editorials
 
 * Thomas Vogel, Matthias Tichy, and Alessandra Gorla, eds. [_Report from the GI Dagstuhl Seminar 14433: Software Engineering for Self-Adaptive Systems_](2014-Dagstuhl). Research Reports in Software Engineering and Management 2014:02. Department of Computer Science, Engineering, Chalmers University of Technology, and University of Gothenburg, Sweden. 2014.
