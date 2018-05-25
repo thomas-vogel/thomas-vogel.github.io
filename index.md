@@ -4,8 +4,10 @@ permalink:
 layout: home
 ---
 
-
-<img src="/assets/img/tom.jpg" alt="Me" style="width: 200px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 25px;"/>
+<div style="width: 280px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 20px; margin-top: 5px; font-size: 11px; color:gray;">
+<img src="/assets/img/tom.jpg" alt="Me"/>
+<br>&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
+</div>
 
 I am a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
 Previously, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.

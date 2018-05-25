@@ -7,6 +7,14 @@ layout: page
 <p>Thomas Vogel</p>
 <p>{{site.email}}</p>
 
+<h1>Attribution</h1>
+
+* Portrait photo of Thomas Vogel by &copy; [Sabine Mittermeier](http://sabine-mittermeier.de){:target="_blank"}.
+
+* Icon
+<img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; margin-left: 5px; margin-right: 5px;"/>
+"Push Pin by Nick Bluth from the Noun Project". [https://thenounproject.com/term/push-pin/1353248/](https://thenounproject.com/term/push-pin/1353248/){:target="_blank"}, CC BY 3.0 US [https://creativecommons.org/licenses/by/3.0/us/legalcode](https://creativecommons.org/licenses/by/3.0/us/legalcode){:target="_blank"}
+
 <h1>Haftungsausschluss (Disclaimer)</h1>
 
 <h2>Haftung für Inhalte</h2>
