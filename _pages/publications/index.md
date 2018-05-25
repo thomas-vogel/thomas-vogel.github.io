@@ -16,11 +16,11 @@ See publications by [type](/publications/type) or at
 
 * Thomas Vogel. [_Model-Driven Engineering of Self-Adaptive Software_](phd). PhD Thesis, University of Potsdam, Germany, 2018.
 
-* Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](2018-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
+* Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](2018-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 101--107.
 
 * Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)_](2018-DARTS). In: Dagstuhl Artifacts Series (DARTS) 4.1 (2018), Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, pp. 2:1--2:4.
 
-* Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](2018-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_.
+* Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](2018-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 206--216.
 
 * Timo Kehrer, Andreas Vogelsang, Thomas Vogel, Heiko Dörr. [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](2018-MBEES). In: Tagungsband des Dagstuhl-Workshops Modellbasierte Entwicklung eingebetteter Systeme XIV. MBEES ’18. pp. 1-6.
 

@@ -5,7 +5,7 @@ layout: paper
 ---
 
 ## Reference
-Thomas Vogel. "mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. _tbd_. DOI: 10.1145/3194133.3194161
+Thomas Vogel. "mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 101--107. DOI: 10.1145/3194133.3194161
 
 ## Links
 [OA Version](https://arxiv.org/abs/1804.00954){:target="_blank"}
@@ -27,7 +27,7 @@ Self-adaptive software systems are often structured into an adaptation engine th
     booktitle = {International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
     series = {SEAMS~'18},
     publisher = {ACM},
-    pages = {tba},
+    pages = {101--107},
     doi = {10.1145/3194133.3194161},
 }</pre>
 </div>
