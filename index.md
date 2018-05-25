@@ -6,7 +6,7 @@ layout: home
 
 <div style="width: 280px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 20px; margin-top: 5px; font-size: 11px; color:gray;">
 <img src="/assets/img/tom.jpg" alt="Me"/>
-<br>&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
+<br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
 </div>
 
 I am a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
@@ -19,8 +19,6 @@ My research interests are in the areas of:
 
 -- automated quality assurance of software.
 
-
-<br />
 
 ## Contact
 
