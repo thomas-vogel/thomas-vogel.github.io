@@ -164,6 +164,7 @@ layout: paper
 
 ## Invited Seminars
 
+* [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
 * Dagstuhl Workshop on [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
 *  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
 *  1st  NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'16)_](http://shonan.nii.ac.jp/shonan/blog/2015/05/15/controlled-adaptation-of-self%EF%BC%8Dadaptive-systems-casas-2/){:target="_blank"}, 04/2016.
