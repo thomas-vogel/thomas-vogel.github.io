@@ -48,6 +48,7 @@ My research interests are in the areas of:
 
 * <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>
  __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
+* __Jul 2018__ --- I joined the PC of the [_13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS 2019)_](https://vamos2019.github.io){:target="_blank"}. Consider submitting a paper.
 * __Jun 2018__ --- I will serve as the Social Media Chair of the [_14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2019)_](https://conf.researchr.org/home/seams-2019){:target="_blank"}.
 * __May 2018__ ---The mRUBiS artifact is now published in the [_Dagstuhl Artifact Series_](publications/2018-DARTS).
 * __May 2018__ --- I joined the PC of the [_13th International Workshop on Models@run.time (MRT 2018)_](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"} at [_MODELS 2018_](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.

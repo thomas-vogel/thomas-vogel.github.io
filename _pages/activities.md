@@ -16,6 +16,7 @@ layout: paper
 
 ## Program Committee
 
+* 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), 2019 ([Link](https://vamos2019.github.io){:target="_blank"})
 * 13th International Workshop on Models@run.time (MRT) at MODELS, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"})
 * Poster and Demo Track of the 15th International Conference on Autonomic Computing (ICAC) and the 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2018 ([Link](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"})
 * 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC) at ICAC/SASO, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18-ICAC/){:target="_blank"})
