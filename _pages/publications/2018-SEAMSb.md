@@ -10,6 +10,8 @@ Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio 
 ## Links
 [OA Version](https://arxiv.org/abs/1804.00994){:target="_blank"}
 
+[Paper at ACM DL](https://doi.org/10.1145/3194133.3194147){:target="_blank"}
+
 
 ## Abstract
 The assurance of real-time properties is prone to context variability. Providing such assurance at design time would require to check all the possible context and system variations or to predict which one will be actually used. Both cases are not viable in practice since there are too many possibilities to foresee. Moreover, the knowledge required to fully provide the assurance for self-adaptive systems is only available at runtime and therefore difficult to predict at early development stages. Despite all the efforts on assurances for self-adaptive systems at design or runtime, there is still a gap on verifying and validating real-time constraints accounting for context variability. To fill this gap, we propose a method to provide assurance of self-adaptive systems, at design- and runtime, with special focus on real-time constraints. We combine off-line requirements elicitation and model checking with on-line data collection and data mining to guarantee the system’s goals, both functional and non-functional, with fine tuning of the adaptation policies towards the optimization of quality attributes. We experimentally evaluate our method on a simulated prototype of a Body Sensor Network system (BSN) implemented in OpenDaVINCI. The results of the validation are promising and show that our method is effective in providing evidence that support the provision of assurance.

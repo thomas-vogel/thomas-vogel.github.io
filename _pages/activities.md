@@ -7,6 +7,7 @@ layout: paper
 
 ## Organization Committee
 
+* Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](http://www.dagstuhl.de/19023){:target="_blank"}).
 * Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"}).
 * Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"}).
 * Publicity Co-Chair and Web Chair of the _13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
