@@ -149,6 +149,7 @@ layout: paper
 
 ## Invited Talks
 
+* _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_, [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.
 * _Fitness Landscape Analysis to Improve Search-Based Software Engineering_, Dagstuhl event [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
 * _Fitness Landscape Analysis of Sapienz_, [Facebook, London, UK](https://www.facebook.com/facebooklondon/){:target="_blank"}, 11/2017.
 * _Toward Self-Adaptive Software Employing Model Predictive Control_, NII Shonan Meeting on Controlled Adaptation of Self-adaptive Systems ([CASaS](http://shonan.nii.ac.jp/shonan/blog/2015/05/15/controlled-adaptation-of-self%EF%BC%8Dadaptive-systems-casas-2/){:target="_blank"}), Shonan, Japan, 04/2016 (joint talk with Holger Giese).
