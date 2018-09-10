@@ -3,8 +3,7 @@ title: Home
 permalink:
 layout: home
 ---
-
-<div style="width: 280px; float: left; margin-top: 0em; margin-left: 0em; margin-right: 20px; margin-top: 5px; font-size: 11px; color:gray;">
+<div class="pic">
 <img src="/assets/img/tom.jpg" alt="Me"/>
 <br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
 </div>

@@ -154,6 +154,19 @@ blockquote {
 	}
 }
 
+.pic {
+  width: 280px;
+	float: left;
+	margin-top: 0em;
+	margin-left: 0em;
+	margin-right: 20px;
+	margin-top: 5px;
+	font-size: 11px;
+	color:gray;
+	@media screen and (max-width: $br) {
+		width: 100%;
+	}
+}
 
 .header {
 	display: flex;
