@@ -24,8 +24,9 @@ My research interests are in the areas of:
 
 <section class="vcard">
     <div>
-    <em>Email:</em> {{site.email}}  <br />
+    <em>E-mail:</em> {{site.email}}  <br />
     <em>Phone:</em> +49 (0)30 2093-3153  <br /> <br />
+    <em>Please note that e-mails sent to my @hpi.de/@hpi.uni-potsdam.de address will no longer reach me beginning of Sep 1st 2018.</em> <br /><br />
     </div>
     <div class="contactleft">
     <em>Mail Address</em> <br />
