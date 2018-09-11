@@ -46,6 +46,7 @@ automated quality assurance of software.
 
 * <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>
  __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
+* __Sep 2018__ --- I joined in the PC of the [_14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'19)_](http://2019.seams-symposia.org){:target="_blank"}. Consider submitting high-quality papers.
 * __Aug 2018__ --- Co-organizing the [_GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"} at Schloss Dagstuhl.  
 * __Aug 2018__ --- Attending the [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, and giving a talk on _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_.  
 * __Jul 2018__ --- I joined the PC of the [_13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS 2019)_](https://vamos2019.github.io){:target="_blank"}. Consider submitting a paper.

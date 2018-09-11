@@ -33,7 +33,7 @@ layout: paper
 
 * __Nov 2017__ --- Invited talk on _Fitness Landscape Analysis of Sapienz_ at [Facebook, London, UK](https://www.facebook.com/facebooklondon/){:target="_blank"}.
 
-* __Sep 2017__ --- I am in the PC of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://2018.seams-symposia.org){:target="_blank"}. Consider submitting high-quality papers.
+* __Sep 2017__ --- I joined in the PC of the [_13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'18)_](http://2018.seams-symposia.org){:target="_blank"}. Consider submitting high-quality papers.
 
 * __Sep 2017__ --- Preprint of the paper [_Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances_](publications/2017-SEFSAS3a) is available.
 
@@ -45,13 +45,13 @@ layout: paper
 
 * __May 2017__ --- Our ICAC'17 paper [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) is among the three candidates for the [Karsten Schwan Best Paper Award](http://icac2017.ece.ohio-state.edu/program/program/){:target="_blank"}.
 
-* __May 2017__ --- I am in the PC of the Modellierung 2018 Industry Track. Consider submitting a paper.
+* __May 2017__ --- I joined in the PC of the Modellierung 2018 Industry Track. Consider submitting a paper.
 
-* __May 2017__ --- I am in the PC of two [MODELS'17](http://www.cs.utexas.edu/models2017){:target="_blank"} workshops: [_Model-Driven Engineering Tools (MDETools)_](http://mase.cs.queensu.ca/mdetools/){:target="_blank"} and [_International Workshop on Models@run.time_](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}. Consider submitting papers.
+* __May 2017__ --- I joined in the PC of two [MODELS'17](http://www.cs.utexas.edu/models2017){:target="_blank"} workshops: [_Model-Driven Engineering Tools (MDETools)_](http://mase.cs.queensu.ca/mdetools/){:target="_blank"} and [_International Workshop on Models@run.time_](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}. Consider submitting papers.
 
 * __Apr 2017__ --- Paper accepted at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}: [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC).
 
-* __Mar 2017__ --- I am in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
+* __Mar 2017__ --- I joined in the PC of the [_International Workshop on Models@run.time for Self-aware Computing Systems_](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"} at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}. Consider submitting a paper.
 
 * __Feb 2017__ --- Starting my new position at Humboldt-Universität zu Berlin.
 
