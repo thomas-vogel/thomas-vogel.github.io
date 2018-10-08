@@ -46,6 +46,7 @@ automated quality assurance of software.
 
 * <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>
  __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
+* __Oct 2018__ --- Very happy to receive a [_Facebook Research Award for Testing and Verification_](https://research.fb.com/programs/research-awards/proposals/tavchallenge/){:target="_blank"}. The award comes along with funding for my research project _Self-Adaptive Search for Sapienz_.
 * __Sep 2018__ --- I received the Distinguished PC Member Award of [SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}.
 <a href="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png"><img src="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png" alt="SBCARS Distinguished PC Member Award" style="width: 75%; margin-top: 1em; margin-left: 1em;"/></a>
 * __Sep 2018__ --- Our proposed [_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_](https://www.dagstuhl.de/19023){:target="_blank"} has been accepted and it will be held at Schloss Dagstuhl from January 6th to January 11th, 2019.
