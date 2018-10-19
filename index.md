@@ -8,19 +8,16 @@ layout: home
 <br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
 </div>
 
-I am a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
-Previously, I was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the Hasso Plattner Institute/University of Potsdam.
-
-My research interests are in the areas of
-model-driven engineering of self-adaptive software,
-search-based software engineering, and
-automated quality assurance of software.
-
+Thomas is a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} Group (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
+Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"}/[University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, Germany, where he received his Ph.D. degree with summa cum laude.
+He graduated with a university diploma in Information Systems and with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}, Germany.
+His research interests are in the areas of search-based software engineering, automated quality assurance of software, and model-driven engineering of self-adaptive software, as well as the combination of these areas.
 
 ## Contact
 
 <section class="vcard">
     <div>
+    You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
     <em>E-mail:</em> {{site.email}}  <br />
     <em>Phone:</em> +49 (0)30 2093-3153  <br /> <br />
     <em>Please note that e-mails sent to my @hpi.de/@hpi.uni-potsdam.de address will no longer reach me beginning of Sep 1st 2018.</em> <br /><br />
