@@ -36,6 +36,7 @@ Jump to
 
 ## Program Committee
 
+* Search-Based Software Engineering Track of the Genetic and Evolutionary Computation Conference (GECCO), 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
 * 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](http://2019.seams-symposia.org){:target="_blank"})
 * 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), 2019 ([Link](https://vamos2019.github.io){:target="_blank"})
 * 13th International Workshop on Models@run.time (MRT) at MODELS, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"})

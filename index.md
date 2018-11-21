@@ -43,6 +43,7 @@ His research interests are in the areas of search-based software engineering, au
 
 * <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>
  __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
+* __Nov 2018__ --- I joined in the PC of the Search-Based Software Engineering Track of the [_Genetic and Evolutionary Computation Conference (GECCO 2019)_](https://gecco-2019.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
 * __Oct 2018__ --- Very happy to receive a [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. The award comes along with funding for my research project _Self-Adaptive Search for Sapienz_.
 * __Sep 2018__ --- I received the Distinguished PC Member Award of [SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}.
 <a href="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png"><img src="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png" alt="SBCARS Distinguished PC Member Award" style="width: 75%; margin-top: 1em; margin-left: 1em;"/></a>
