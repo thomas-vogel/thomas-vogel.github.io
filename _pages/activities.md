@@ -172,8 +172,10 @@ Jump to
 
 ## Invited Talks
 
-* _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_, [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.
-* _Fitness Landscape Analysis to Improve Search-Based Software Engineering_, Dagstuhl event [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
+* _Self-Adaptive Search for Sapienz_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2018.
+* _Synopsis of the Recent GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems (SEfIAS)_, [The 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC)](http://st.inf.tu-dresden.de/MRT18-ICAC){:target="_blank"}, Trento, Italy, 09/2018 (joint invitation with Ada Diaconsecu and Simos Gerasimou).
+* _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_, [Search-Based Model Engineering Workshop](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.
+* _Fitness Landscape Analysis to Improve Search-Based Software Engineering_, Dagstuhl event [Research Methods in Software Engineering](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
 * _Fitness Landscape Analysis of Sapienz_, [Facebook, London, UK](https://www.facebook.com/facebooklondon/){:target="_blank"}, 11/2017.
 * _Toward Self-Adaptive Software Employing Model Predictive Control_, NII Shonan Meeting on Controlled Adaptation of Self-adaptive Systems ([CASaS](http://shonan.nii.ac.jp/shonan/blog/2015/05/15/controlled-adaptation-of-self%EF%BC%8Dadaptive-systems-casas-2/){:target="_blank"}), Shonan, Japan, 04/2016 (joint talk with Holger Giese).
 * _Model-Driven Engineering of Self-Adaptive Software_, [Computer Science Colloquium](http://www.cs.uct.ac.za/research/cs-colloquia-and-seminars-and-other-talks){:target="_blank"} at the University of Cape Town, South Africa, 08/2015.
@@ -191,6 +193,7 @@ Jump to
 
 ## Invited Seminars
 
+* _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
 * [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
 * Dagstuhl Workshop on [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
 *  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
