@@ -11,7 +11,7 @@ layout: home
 Thomas is a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} Group (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
 Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"}/[University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, Germany, where he received his Ph.D. degree with summa cum laude.
 He graduated with a university diploma in Information Systems and with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}, Germany.
-His research interests are in the areas of search-based software engineering, automated quality assurance of software, and model-driven engineering of self-adaptive software, as well as the combination of these areas.
+His research interests are in the areas of search-based software engineering, model-driven engineering, self-adaptive software, and automated quality assurance of software as well as the combination of these areas.
 
 ## Contact
 
