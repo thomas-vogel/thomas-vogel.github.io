@@ -7,6 +7,23 @@ layout: paper
 
 ## 2018
 
+* __Sep 2018__ --- I received the Distinguished PC Member Award of [SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}.
+<a href="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png"><img src="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png" alt="SBCARS Distinguished PC Member Award" style="width: 40%; margin-top: 1em; margin-left: 1em;"/></a>
+
+* __Sep 2018__ --- Our proposed [_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_](https://www.dagstuhl.de/19023){:target="_blank"} has been accepted and it will be held at Schloss Dagstuhl from January 6th to January 11th, 2019.
+
+* __Sep 2018__ --- I joined in the PC of the [_14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'19)_](http://2019.seams-symposia.org){:target="_blank"}. Consider submitting high-quality papers.
+
+* __Aug 2018__ --- Co-organizing the [_GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"} at Schloss Dagstuhl.  
+
+* __Aug 2018__ --- Attending the [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, and giving a talk on _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_.  
+
+* __Jul 2018__ --- I joined the PC of the [_13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS 2019)_](https://vamos2019.github.io){:target="_blank"}. Consider submitting a paper.
+
+* __Jun 2018__ --- I will serve as the Social Media Chair of the [_14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2019)_](https://conf.researchr.org/home/seams-2019){:target="_blank"}.
+
+* __May 2018__ ---The mRUBiS artifact is now published in the [_Dagstuhl Artifact Series_](publications/2018-DARTS).
+
 * __May 2018__ --- I joined the PC of the [_13th International Workshop on Models@run.time (MRT 2018)_](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"} at [_MODELS 2018_](https://modelsconf2018.github.io){:target="_blank"}. Consider submitting a paper.
 
 * __May 2018__ --- I joined the PC of the Posters and Demos Track of the [_15th International Conference on Autonomic Computing (ICAC 2018)_](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"} and the [_12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2018)_](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters and demos.
