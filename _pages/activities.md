@@ -36,7 +36,7 @@ Jump to
 
 ## Program Committee
 
-* Search-Based Software Engineering Track of the Genetic and Evolutionary Computation Conference (GECCO), 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
+* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
 * 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](http://2019.seams-symposia.org){:target="_blank"})
 * Posters, Tools, and Demos Track of the 13th European Conference on Software Architecture (ECSA), 2019 ([Link](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"})
 * Poster and Demo Track of the 16th International Conference on Autonomic Computing (ICAC) and the 13th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2019 ([Link](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"})
