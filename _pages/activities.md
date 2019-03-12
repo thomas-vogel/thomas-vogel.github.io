@@ -66,6 +66,7 @@ Jump to
 ([My publons profile](https://publons.com/author/1309009){:target="_blank"})
 
 * IEEE Transactions on Software Engineering (TSE)
+* ACM Transactions on Software Engineering and Methodology (TOSEM)
 * ACM Transactions on Autonomous and Adaptive Systems (TAAS)
 * Software and Systems Modeling (SOSYM)
 * IEEE Software
@@ -85,7 +86,8 @@ Jump to
 ## External Reviewer
 
 * 2019:
-[ICSE](https://conf.researchr.org/home/icse-2019/){:target="_blank"}
+[ICSE](https://conf.researchr.org/home/icse-2019/){:target="_blank"},
+[ESEC/FSE](https://esec-fse19.ut.ee/){:target="_blank"}
 * 2018:
 [ESEC/FSE](https://conf.researchr.org/home/fse-2018){:target="_blank"},
 [ASE](http://www.ase2018.com){:target="_blank"},
