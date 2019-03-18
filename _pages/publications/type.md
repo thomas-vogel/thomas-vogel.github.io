@@ -25,6 +25,9 @@ See publications by [year](/publications) or at
 
 ## Conferences
 
+* Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
+Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
+
 * Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](2018-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 101--107.
 
 * Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems_](2018-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 206--216.
@@ -68,6 +71,8 @@ See publications by [year](/publications) or at
 
 
 ## Workshops
+
+* Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science'19. IEEE, 2019, pp. _tba_.
 
 * Timo Kehrer, Andreas Vogelsang, Thomas Vogel, Heiko Dörr. [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](2018-MBEES). In: Tagungsband des Dagstuhl-Workshops Modellbasierte Entwicklung eingebetteter Systeme XIV. MBEES ’18. pp. 1-6.
 

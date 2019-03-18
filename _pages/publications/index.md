@@ -12,6 +12,13 @@ See publications by [type](/publications/type) or at
 [ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}, and
 [arXiv.org](https://arxiv.org/a/vogel_t_2.html){:target="_blank"}.
 
+## 2019
+
+* Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
+Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
+
+* Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science ’19. IEEE, 2019, pp. _tba_.
+
 ## 2018
 
 * Thomas Vogel. [_Model-Driven Engineering of Self-Adaptive Software_](phd). PhD Thesis, University of Potsdam, Germany, 2018.
