@@ -6,7 +6,7 @@ layout: paper
 
 ## Reference
 
-Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione. "Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
+Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. "Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
 
 ## Links
 _tba_
