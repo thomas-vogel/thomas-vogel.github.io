@@ -1,5 +1,5 @@
 ---
-title: mRUBiS -- An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)
+title: mRUBiS&#058; An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)
 permalink: publications/2018-DARTS.html
 layout: paper
 ---

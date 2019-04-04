@@ -1,5 +1,5 @@
 ---
-title: Taming Uncertainty in the Assurance Process of Self-Adaptive Systems -- a Goal-Oriented Approach
+title: Taming Uncertainty in the Assurance Process of Self-Adaptive Systems&#058; a Goal-Oriented Approach
 permalink: publications/2019-SEAMS.html
 layout: paper
 ---

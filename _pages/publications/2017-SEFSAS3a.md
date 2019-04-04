@@ -1,5 +1,5 @@
 ---
-title: Software Engineering for Self-Adaptive Systems -- Research Challenges in the Provision of Assurances
+title: Software Engineering for Self-Adaptive Systems&#058; Research Challenges in the Provision of Assurances
 permalink: publications/2017-SEFSAS3a.html
 layout: paper
 ---

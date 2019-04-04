@@ -103,6 +103,8 @@ Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International
 
 ## Editorials
 
+* Simos Gerasimou, Thomas Vogel, and Ada Diaconescu, eds. [_Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343_](2019-Dagstuhl). arXiv:1904.01518. 2019.
+
 * Thomas Vogel, Matthias Tichy, and Alessandra Gorla, eds. [_Report from the GI Dagstuhl Seminar 14433: Software Engineering for Self-Adaptive Systems_](2014-Dagstuhl). Research Reports in Software Engineering and Management 2014:02. Department of Computer Science, Engineering, Chalmers University of Technology, and University of Gothenburg, Sweden. 2014.
 
 

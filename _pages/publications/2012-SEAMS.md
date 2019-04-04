@@ -1,5 +1,5 @@
 ---
-title: A language for feedback loops in self-adaptive systems -- Executable runtime megamodels
+title: A language for feedback loops in self-adaptive systems&#058; Executable runtime megamodels
 permalink: publications/2012-SEAMS.html
 layout: paper
 ---

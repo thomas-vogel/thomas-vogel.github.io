@@ -1,5 +1,5 @@
 ---
-title: Software Engineering for Self-Adaptive Systems -- A second Research Roadmap
+title: Software Engineering for Self-Adaptive Systems&#058; A second Research Roadmap
 permalink: publications/2013-SEFSAS2a.html
 layout: paper
 ---
