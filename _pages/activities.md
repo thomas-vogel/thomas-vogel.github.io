@@ -36,6 +36,10 @@ Jump to
 
 ## Program Committee
 
+### 2020
+* 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
+
+### 2019
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
 * 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](http://2019.seams-symposia.org){:target="_blank"})
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2019 ([Link](http://cbsoft2019.ufba.br/#/sbcars){:target="_blank"})
@@ -43,6 +47,7 @@ Jump to
 * Poster and Demo Track of the 16th International Conference on Autonomic Computing (ICAC) and the 13th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2019 ([Link](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"})
 * 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), 2019 ([Link](https://vamos2019.github.io){:target="_blank"})
 
+### 2018
 * 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2018 ([Link](http://cbsoft2018.icmc.usp.br/sbcars.html){:target="_blank"})
 * Modellierung 2018, Industry Track (Praxisforum)
@@ -51,20 +56,22 @@ Jump to
 * 13th International Workshop on Models@run.time (MRT) at MODELS, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"})
 * 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC) at ICAC/SASO, 2018 ([Link](http://st.inf.tu-dresden.de/MRT18-ICAC/){:target="_blank"})
 
+### 2017
 * 1st Workshop on Model-Driven Engineering Tools (MDETools) at MoDELS, 2017 ([Link](http://mase.cs.queensu.ca/mdetools/){:target="_blank"})
 * International Workshop on Models@run.time (MRT) at MoDELS, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"})
 * International Workshop on Models@run.time for Self-aware Computing Systems (MRT-ICAC) at ICAC, 2017 ([Link](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"})
 
+### 2016
 * International Symposium on the Foundations of Software Engineering (FSE), Demo Paper Track, 2016 ([Link](https://www.cs.ucdavis.edu/fse2016/calls/demos/){:target="_blank"})
 * European Conference on Software Architecture (ECSA), Doctoral Symposium, 2016 ([Link](http://ecsa2016.icmc.usp.br/#doctoral){:target="_blank"})
 * International Workshop on Models@run.time (MRT) at MoDELS, 2016 ([Link](http://st.inf.tu-dresden.de/MRT16/){:target="_blank"})
 * International Workshop on Models@run.time for Self-aware Computing Systems (MRT-ICAC) at ICAC, 2016 ([Link](http://st.inf.tu-dresden.de/MRT16-ICAC/){:target="_blank"}{:target="_blank"})
 * Workshop on Open Source Software for Model-Driven Engineering (OSS4MDE) at MoDELS, 2016 ([Link](http://mase.cs.queensu.ca/oss4mde/){:target="_blank"})
 
+### 2015 and before
 * International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), Artifact Evaluation Committee, 2015 ([Link](http://www.disim.univaq.it/seams2015/){:target="_blank"})
 * Workshop on Control Theory for Software Engineering (CTSE) at ESEC/FSE, 2015 ([Link](http://dl.acm.org/citation.cfm?id=2804337){:target="_blank"})
 * International Workshop on Models@run.time (MRT) at MoDELS, 2015 ([Link](https://st.inf.tu-dresden.de/MRT15/){:target="_blank"})
-
 * International Workshop on Models@run.time (MRT) at MoDELS, 2014 ([Link](https://st.inf.tu-dresden.de/MRT14/){:target="_blank"})
 
 
