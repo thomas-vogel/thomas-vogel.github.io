@@ -42,6 +42,7 @@ His research interests are in the areas of search-based software engineering, mo
 
 * <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>
  __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
+* __Apr 2019__ --- Our paper [_Dynamically Discovering Optimal Configurations for Runtime Situations_](publications/2019-SASO) has been accepted at [SASO'19](https://saso2019.cs.umu.se/){:target="_blank"}.
 * __Apr 2019__ --- The report of the GI-Dagstuhl Seminar on [_Software Engineering for Intelligent and Autonomous Systems_](publications/2019-Dagstuhl) has been published.
 * __Mar 2019__ --- Our paper [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](publications/2019-SEAMS) has been accepted at [SEAMS'19](https://conf.researchr.org/home/seams-2019){:target="_blank"}.
 * __Mar 2019__ --- Our paper [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](publications/2019-SE4Science) has been accepted at the ICSE workshop [SE4Science'19](https://se4science.org/workshops/se4science19/){:target="_blank"}.

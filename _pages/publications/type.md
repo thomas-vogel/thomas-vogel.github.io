@@ -25,6 +25,8 @@ See publications by [year](/publications) or at
 
 ## Conferences
 
+* Erik Fredericks, Ilias Gerostathopoulos, Christian Krupitzer, and Thomas Vogel. [_Dynamically Discovering Optimal Configurations for Runtime Situations_](2019-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '19. IEEE, 2019, pp. _tba_.
+
 * Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
 Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
 
