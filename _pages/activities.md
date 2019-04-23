@@ -1,5 +1,5 @@
 ---
-title: Professional Activities
+title: Activities
 permalink: activities.html
 layout: paper
 ---
