@@ -4,8 +4,19 @@ permalink: pastnews.html
 layout: paper
 ---
 
+## 2019
+
+* __Jan 2019__ --- Joel Greenyer, Malte Lochau, and I run the [_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"} at Schloss Dagstuhl. At the seminar I gave a talk on _Explainable Quality Assurance of Behavioral Requirements_ ([Abstract](https://thomas-vogel.github.io/ES4CPS/abstracts/Vogel.pdf){:target="_blank"}).
+
+* __Jan 2019__ --- I joined the PC of the Posters, Tools, and Demos Track of the [_13th European Conference on Software Architecture (ECSA 2019)_](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"} and the PC of the joint Posters and Demos Track of the [_13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2019)_](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"} and the [_16th IEEE International Conference on Autonomic Computing (ICAC 2019)_](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters, tools, and demos.
 
 ## 2018
+
+* __Nov 2018__ --- As a winner of the Facebook Testing and Verification (FaceTAV) Research Award, I gave an invited talk about _Self-Adaptive Search for Sapienz_ at the FaceTAV Challenge Workshop and attended the FaceTAV Symposium at the Facebook offices in London.
+
+* __Nov 2018__ --- I joined in the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2019)_](https://gecco-2019.sigevo.org/){:target="_blank"}, Search-Based Software Engineering Track. Consider submitting high-quality papers.
+
+* __Oct 2018__ --- Very happy to receive a [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. The award comes along with funding for my research project _Self-Adaptive Search for Sapienz_.
 
 * __Sep 2018__ --- I received the Distinguished PC Member Award of [SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}.
 <a href="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png"><img src="/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png" alt="SBCARS Distinguished PC Member Award" style="width: 40%; margin-top: 1em; margin-left: 1em;"/></a>
@@ -29,6 +40,9 @@ layout: paper
 * __May 2018__ --- I joined the PC of the Posters and Demos Track of the [_15th International Conference on Autonomic Computing (ICAC 2018)_](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"} and the [_12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2018)_](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters and demos.
 
 * __May 2018__ --- I joined the PC of the [_1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC 2018)_](http://st.inf.tu-dresden.de/MRT18-ICAC/){:target="_blank"} at [_ICAC 2018_](http://icac2018.informatik.uni-wuerzburg.de){:target="_blank"} / [_SASO 2018_](https://saso2018.fbk.eu/){:target="_blank"}. Consider submitting a paper.
+
+<!--<img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; float: left; margin-right: 5px;"/>-->
+* __Apr 2018__ --- My dissertation entitled [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) and graded _summa cum laude_ is now available online.
 
 * __Apr 2018__ --- Paper [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](publications/2018-MBEES) accepted and presented at the [MBEES 2018](https://www.inf.uni-hamburg.de/en/inst/ab/swk/research/events/mbees2018.html){:target="_blank"} workshop in Dagstuhl.
 
