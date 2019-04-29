@@ -21,6 +21,8 @@ Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International
 
 * Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science ’19. IEEE, 2019, pp. _tba_.
 
+* Joel Greenyer, Malte Lochau, and Thomas Vogel, eds. [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](2019-ES4CPS). 	arXiv:1904.11851. 2019.
+
 * Simos Gerasimou, Thomas Vogel, and Ada Diaconescu, eds. [_Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343_](2019-Dagstuhl). arXiv:1904.01518. 2019.
 
 ## 2018
