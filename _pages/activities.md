@@ -12,6 +12,7 @@ Jump to
 [Book Reviewing](#book-reviewing),
 [External Reviewer](#external-reviewer),
 [Editor](#editor),
+[Accepted Talks](#accepted-talks),
 [Invited Talks](#invited-talks), and
 [Invited Seminars](#invited-seminars).
 
@@ -186,6 +187,10 @@ Jump to
 
 * Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_.
 
+
+## Accepted Talks
+
+* _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_, [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"}, Potsdam, Germany, 06/2019.
 
 ## Invited Talks
 
