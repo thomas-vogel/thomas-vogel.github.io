@@ -41,7 +41,7 @@ His research interests are in the areas of search-based software engineering, mo
 ## Things Happening
 
 * __Apr 2019__ --- The report of the GI-Dagstuhl Seminar on [_Explainable Software for Cyber-Physical Systems (ES4CPS)_](publications/2019-ES4CPS) has been published.
-* __Apr 2019__ --- Our paper [_Dynamically Discovering Optimal Configurations for Runtime Situations_](publications/2019-SASO) has been accepted at [SASO'19](https://saso2019.cs.umu.se/){:target="_blank"}.
+* __Apr 2019__ --- Our paper [_Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations_](publications/2019-SASO) has been accepted at [SASO'19](https://saso2019.cs.umu.se/){:target="_blank"}.
 * __Apr 2019__ --- The report of the GI-Dagstuhl Seminar on [_Software Engineering for Intelligent and Autonomous Systems_](publications/2019-Dagstuhl) has been published.
 * __Mar 2019__ --- Our talk on _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_ has been accepted at [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"} that runs in Potsdam, Germany in June 2019.
 * __Mar 2019__ --- Our paper [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](publications/2019-SEAMS) has been accepted at [SEAMS'19](https://conf.researchr.org/home/seams-2019){:target="_blank"}.
