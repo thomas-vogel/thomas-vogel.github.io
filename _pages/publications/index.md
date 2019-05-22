@@ -19,7 +19,7 @@ See publications by [type](/publications/type) or at
 * Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
 Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. 89--99.
 
-* Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science ’19. IEEE, 2019, pp. _tba_.
+* Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science ’19. IEEE, 2019, pp. 25--32.
 
 * Joel Greenyer, Malte Lochau, and Thomas Vogel, eds. [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](2019-ES4CPS). 	arXiv:1904.11851. 2019.
 
