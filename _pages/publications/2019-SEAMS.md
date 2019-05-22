@@ -6,7 +6,7 @@ layout: paper
 
 ## Reference
 
-Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. "Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
+Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. "Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. 89--99. DOI: 10.1109/SEAMS.2019.00020
 
 ## Links
 [OA Version](https://arxiv.org/abs/1905.02228){:target="_blank"}
@@ -24,7 +24,7 @@ Goals are first-class entities in a self-adaptive system (SAS) as they guide the
     booktitle = {International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
     series = {SEAMS~'19},
     publisher = {IEEE},
-    pages = {},
-    doi = {},
+    pages = {89--99},
+    doi = {10.1109/SEAMS.2019.00020},
 }</pre>
 </div>

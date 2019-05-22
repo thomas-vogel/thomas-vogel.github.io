@@ -17,7 +17,7 @@ See publications by [type](/publications/type) or at
 * Erik Fredericks, Ilias Gerostathopoulos, Christian Krupitzer, and Thomas Vogel. [_Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations_](2019-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '19. IEEE, 2019, pp. _tba_.
 
 * Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
-Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
+Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. 89--99.
 
 * Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science ’19. IEEE, 2019, pp. _tba_.
 

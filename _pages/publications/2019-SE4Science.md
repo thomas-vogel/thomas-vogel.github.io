@@ -5,7 +5,7 @@ layout: paper
 ---
 
 ## Reference
-Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. "Challenges for Verifying and Validating Scientific Software in Computational Materials Science". In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science'19. IEEE, 2019.
+Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. "Challenges for Verifying and Validating Scientific Software in Computational Materials Science". In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science'19. IEEE, 2019, pp. 25--32. DOI: 10.1109/SE4Science.2019.00010
 
 ## Links
 _tba_
@@ -24,7 +24,7 @@ Many fields of science rely on software systems to answer different research que
     booktitle = {International Workshop on Software Engineering for Science},
     series = {SE4Science~'19},
     publisher = {IEEE},
-    pages = {},
-    doi = {},
+    pages = {25--32},
+    doi = {10.1109/SE4Science.2019.00010},
 }</pre>
 </div>

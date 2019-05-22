@@ -28,7 +28,7 @@ See publications by [year](/publications) or at
 * Erik Fredericks, Ilias Gerostathopoulos, Christian Krupitzer, and Thomas Vogel. [_Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations_](2019-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '19. IEEE, 2019, pp. _tba_.
 
 * Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
-Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. _tba_.
+Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’19. IEEE, 2019, pp. 89--99.
 
 * Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization_](2018-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 101--107.
 
@@ -74,7 +74,7 @@ Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International
 
 ## Workshops
 
-* Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science'19. IEEE, 2019, pp. _tba_.
+* Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](2019-SE4Science). In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science'19. IEEE, 2019, pp. 25--32.
 
 * Timo Kehrer, Andreas Vogelsang, Thomas Vogel, and Heiko Dörr. [_Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis_](2018-MBEES). In: Tagungsband des Dagstuhl-Workshops Modellbasierte Entwicklung eingebetteter Systeme XIV. MBEES ’18. pp. 1-6.
 
