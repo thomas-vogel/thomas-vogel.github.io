@@ -47,6 +47,7 @@ Jump to
 * Posters, Tools, and Demos Track of the 13th European Conference on Software Architecture (ECSA), 2019 ([Link](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"})
 * Poster and Demo Track of the 16th International Conference on Autonomic Computing (ICAC) and the 13th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2019 ([Link](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"})
 * 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), 2019 ([Link](https://vamos2019.github.io){:target="_blank"})
+* 1st International Workshop on Explainable Software at ASE, 2019 ([Link](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"})
 
 ### 2018
 * 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})

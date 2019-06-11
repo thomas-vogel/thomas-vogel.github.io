@@ -6,6 +6,12 @@ layout: paper
 
 ## 2019
 
+* __Mar 2019__ --- Our paper [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](publications/2019-SEAMS) has been accepted at [SEAMS'19](https://conf.researchr.org/home/seams-2019){:target="_blank"}.
+
+* __Mar 2019__ --- Our paper [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](publications/2019-SE4Science) has been accepted at the ICSE workshop [SE4Science'19](https://se4science.org/workshops/se4science19/){:target="_blank"}.
+
+* __Feb 2019__ --- Our project [_Fitness Landscape Analysis to improve Search Heuristics (FLASH)_](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se/research/ongoingprojects/flash/flash){:target="_blank"} funded by the German Research Foundation (DFG) has started.
+
 * __Jan 2019__ --- Joel Greenyer, Malte Lochau, and I run the [_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"} at Schloss Dagstuhl. At the seminar I gave a talk on _Explainable Quality Assurance of Behavioral Requirements_ ([Abstract](https://thomas-vogel.github.io/ES4CPS/abstracts/Vogel.pdf){:target="_blank"}).
 
 * __Jan 2019__ --- I joined the PC of the Posters, Tools, and Demos Track of the [_13th European Conference on Software Architecture (ECSA 2019)_](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"} and the PC of the joint Posters and Demos Track of the [_13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2019)_](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"} and the [_16th IEEE International Conference on Autonomic Computing (ICAC 2019)_](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}. Consider submitting posters, tools, and demos.
