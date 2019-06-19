@@ -85,6 +85,7 @@ Jump to
 * ACM Transactions on Autonomous and Adaptive Systems (TAAS)
 * Software and Systems Modeling (SOSYM)
 * IEEE Software
+* PeerJ
 * Journal of Systems and Software (JSS)
 * Journal of Systems and Software (JSS), Special Issue on State of the Art in Self-Adaptive Software Systems
 * Computing
@@ -102,7 +103,8 @@ Jump to
 
 * 2019:
 [ICSE](https://conf.researchr.org/home/icse-2019/){:target="_blank"},
-[ESEC/FSE](https://esec-fse19.ut.ee/){:target="_blank"}
+[ESEC/FSE](https://esec-fse19.ut.ee/){:target="_blank"},
+[ASE](https://2019.ase-conferences.org/){:target="_blank"}
 * 2018:
 [ESEC/FSE](https://conf.researchr.org/home/fse-2018){:target="_blank"},
 [ASE](http://www.ase2018.com){:target="_blank"},
