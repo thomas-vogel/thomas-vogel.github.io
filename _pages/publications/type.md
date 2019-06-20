@@ -25,6 +25,8 @@ See publications by [year](/publications) or at
 
 ## Conferences
 
+* Thomas Vogel, Chinh Tran, and Lars Grunske. [_Does Diversity Improve the Test Suite Generation for Mobile Applications?_](2019-SSBSE). In: 11th International Symposium on Search-Based Software Engineering. SSBSE’19. Springer LNCS, 2019, pp. _tba_.
+
 * Erik Fredericks, Ilias Gerostathopoulos, Christian Krupitzer, and Thomas Vogel. [_Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations_](2019-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '19. IEEE, 2019, pp. _tba_.
 
 * Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of
