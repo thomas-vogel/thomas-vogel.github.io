@@ -10,6 +10,8 @@ Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske
 ## Links
 [Open Access Version](https://arxiv.org/abs/1906.09179){:target="_blank"}
 
+[Paper at ACM DL](https://dl.acm.org/citation.cfm?id=3340902){:target="_blank"}
+
 
 ## Abstract
 Many fields of science rely on software systems to answer different research questions. For valid results researchers need to trust the results scientific software produces, and consequently quality assurance is of utmost importance. In this paper we are investigating the impact of quality assurance in the domain of computational materials science (CMS). Based on our experience in this domain we formulate challenges for validation and verification of scientific software and their results. Furthermore, we describe directions for future research that can potentially help dealing with these challenges.
