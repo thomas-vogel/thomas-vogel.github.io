@@ -12,9 +12,22 @@ See publications by [year](/publications) or at
 [ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}, and
 [arXiv.org](https://arxiv.org/a/vogel_t_2.html){:target="_blank"}.
 
+A list of published (extended) abstracts is available [here](abstracts).
+
+
 ## PhD Thesis
 
 * Thomas Vogel. [_Model-Driven Engineering of Self-Adaptive Software_](phd). PhD Thesis, University of Potsdam, Germany, 2018.
+
+
+## Edited Publications
+
+* Joel Greenyer, Malte Lochau, and Thomas Vogel, eds. [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](2019-ES4CPS). 	arXiv:1904.11851. 2019.
+
+* Simos Gerasimou, Thomas Vogel, and Ada Diaconescu, eds. [_Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343_](2019-Dagstuhl). arXiv:1904.01518. 2019.
+
+* Thomas Vogel, Matthias Tichy, and Alessandra Gorla, eds. [_Report from the GI Dagstuhl Seminar 14433: Software Engineering for Self-Adaptive Systems_](2014-Dagstuhl). Research Reports in Software Engineering and Management 2014:02. Department of Computer Science, Engineering, Chalmers University of Technology, and University of Gothenburg, Sweden. 2014.
+
 
 ## Journals
 
@@ -105,16 +118,10 @@ Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International
 
 * Thomas Vogel. [_mRUBiS: An Exemplar for Model-Based Architectural Self-Healing and Self-Optimization (Artifact)_](2018-DARTS). In: Dagstuhl Artifacts Series (DARTS) 4.1 (2018), Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, pp. 2:1--2:4.
 
-## Editorials
-
-* Joel Greenyer, Malte Lochau, and Thomas Vogel, eds. [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](2019-ES4CPS). 	arXiv:1904.11851. 2019.
-
-* Simos Gerasimou, Thomas Vogel, and Ada Diaconescu, eds. [_Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343_](2019-Dagstuhl). arXiv:1904.01518. 2019.
-
-* Thomas Vogel, Matthias Tichy, and Alessandra Gorla, eds. [_Report from the GI Dagstuhl Seminar 14433: Software Engineering for Self-Adaptive Systems_](2014-Dagstuhl). Research Reports in Software Engineering and Management 2014:02. Department of Computer Science, Engineering, Chalmers University of Technology, and University of Gothenburg, Sweden. 2014.
-
 
 ## Technical Reports
+
+* Javier Camara, David Garlan, Shihong Huang, Masako Kishida, Alberto Leva, Alessandro Vittorio Papadopoulos, Yasuyuki Tahara, Kenji Tei, Thomas Vogel, and Danny Weyns. [_Bridging the Gap between Control and Self- Adaptive System Properties: Identification, Characterization, and Mapping_](2017-CASaS). Report of the 2nd National Institute of Informatics (NII) Shonan Meeting on Controlled Adaptation of Self-Adaptive Systems (CASaS). Tokyo, Japan, 2017.
 
 * Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Adaptation Engines for Self-Adaptive Software: Executable Runtime Megamodels_](2013-TR). Tech. rep. 66. Hasso Plattner Institute at the University of Potsdam, Germany, 2013.
 

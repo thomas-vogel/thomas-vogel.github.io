@@ -12,6 +12,9 @@ See publications by [type](/publications/type) or at
 [ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}, and
 [arXiv.org](https://arxiv.org/a/vogel_t_2.html){:target="_blank"}.
 
+A list of published (extended) abstracts is available [here](abstracts).
+
+
 ## 2019
 
 * Thomas Vogel, Chinh Tran, and Lars Grunske. [_Does Diversity Improve the Test Suite Generation for Mobile Applications?_](2019-SSBSE). In: 11th International Symposium on Search-Based Software Engineering. SSBSE’19. Springer LNCS, 2019, pp. _tba_.
@@ -55,11 +58,11 @@ Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International
 
 * Rogério de Lemos, David Garlan, Carlo Ghezzi, Holger Giese, Jesper Andersson, Marin Litoiu, Bradley Schmerl, Danny Weyns, Luciano Baresi, Nelly Bencomo, Yuriy Brun, Javier Camara, Radu Calinescu, Myra B. Cohen, Alessandra Gorla, Vincenzo Grassi, Lars Grunske, Paola Inverardi, Jean-Marc Jezequel, Sam Malek, Raffaela Mirandola, Marco Mori, Hausi A. Müller, Romain Rouvoy, Cecilia M. F. Rubira, Eric Rutten, Mary Shaw, Giordano Tamburrelli, Gabriel Tamura, Norha M. Villegas, Thomas Vogel, and Franco Zambonelli. [_Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances_](2017-SEFSAS3a). In: Software Engineering for Self-Adaptive Systems III. Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017. pp. 3--30.
 
+* Javier Camara, David Garlan, Shihong Huang, Masako Kishida, Alberto Leva, Alessandro Vittorio Papadopoulos, Yasuyuki Tahara, Kenji Tei, Thomas Vogel, and Danny Weyns. [_Bridging the Gap between Control and Self- Adaptive System Properties: Identification, Characterization, and Mapping_](2017-CASaS). Report of the 2nd National Institute of Informatics (NII) Shonan Meeting on Controlled Adaptation of Self-Adaptive Systems (CASaS). Tokyo, Japan, 2017.
 
 ## 2016
 
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Towards Linking Adaptation Rules to the Utility Function for Dynamic Architectures_](2016-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '16. IEEE, 2016, pp. 142--143.
-
 
 ## 2015
 

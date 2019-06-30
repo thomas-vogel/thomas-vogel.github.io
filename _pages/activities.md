@@ -221,8 +221,8 @@ Jump to
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
 * [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
 * Dagstuhl Workshop on [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
-*  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](http://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
-*  1st  NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'16)_](http://shonan.nii.ac.jp/shonan/blog/2015/05/15/controlled-adaptation-of-self%EF%BC%8Dadaptive-systems-casas-2/){:target="_blank"}, 04/2016.
+*  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](https://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
+*  1st  NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'16)_](https://shonan.nii.ac.jp/seminars/077/){:target="_blank"}, 04/2016.
 * GI Dagstuhl Seminar on [_Control Theory Meets Software Engineering_](http://www.dagstuhl.de/14382){:target="_blank"}, 09/2014.
 * Dagstuhl Seminar on [_Software Engineering for Self-Adaptive Systems: Assurances_](http://www.dagstuhl.de/13511){:target="_blank"}, 12/2013.
 * GI Dagstuhl Seminar on [_Quality-of-Service Attributes in Service- and Cloud-based Systems_](http://www.dagstuhl.de/12211){:target="_blank"}, 05/2012.
