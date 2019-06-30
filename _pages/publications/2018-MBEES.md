@@ -8,7 +8,7 @@ layout: paper
 Timo Kehrer, Andreas Vogelsang, Thomas Vogel, and Heiko Dörr. "Zum fehlenden Architekturverständnis über Implementierungsmodelle multifunktionaler eingebetteter Systeme in der industriellen Praxis". In: Tagungsband des Dagstuhl-Workshops Modellbasierte Entwicklung eingebetteter Systeme XIV. MBEES ’18. pp. 1-6.
 
 ## Links
-[Paper (pdf)](http://download.fortiss.org/public/mbees/mbees2018_proceedings.pdf#page=10){:target="_blank"}
+[Paper (open access, pdf)](http://download.fortiss.org/public/mbees/mbees2018_proceedings.pdf#page=10){:target="_blank"}
 
 
 ## Abstract

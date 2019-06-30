@@ -18,7 +18,7 @@ Jump to
 
 ## Awards
 * [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018)
-* Distinguished PC Member Award of [SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"} (2018)
+* Distinguished PC Member Award of the [12. Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS'18)](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"} (2018)
 *  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"} (2017)
 * Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at SEAMS'12 (2012) (shared with one other paper)
 * Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at Models@run.time'11 (2011)

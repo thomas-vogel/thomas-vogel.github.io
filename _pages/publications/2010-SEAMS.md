@@ -8,7 +8,7 @@ layout: paper
 Thomas Vogel and Holger Giese. "Adaptation and Abstract Runtime Models". In: International Workshop on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’10. ACM, 2010, pp. 39--48. DOI: 10.1145/1808984.1808989
 
 ## Links
-[OA Version](https://arxiv.org/abs/1805.07397){:target="_blank"}
+[Open access version](https://arxiv.org/abs/1805.07397){:target="_blank"}
 
 <p>
 <!-- ACM DL Article: Adaptation and abstract runtime models -->

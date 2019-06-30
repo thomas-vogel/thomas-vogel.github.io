@@ -8,7 +8,7 @@ layout: paper
 Jesper Andersson, Luciano Baresi, Nelly Bencomo, Rogério de Lemos, Alessandra Gorla, Paola Inverardi, and Thomas Vogel. "Software Engineering Processes for Self-Adaptive Systems". In: Software Engineering for Self-Adaptive Systems II. Ed. by Rogério de Lemos, Holger Giese, Hausi Müller, and Mary Shaw. Vol. 7475. Lecture Notes in Computer Science (LNCS). Springer, 2013, pp. 51--75. DOI: 10.1007/978-3-642-35813-5\_3
 
 ## Links
-[OA Version](https://zenodo.org/record/1248929){:target="_blank"}
+[Open access version](https://zenodo.org/record/1248929){:target="_blank"}
 
 [Paper at SpringerLink](https://doi.org/10.1007/978-3-642-35813-5_3){:target="_blank"}
 

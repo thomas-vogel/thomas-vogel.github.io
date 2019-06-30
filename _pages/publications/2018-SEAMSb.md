@@ -8,7 +8,7 @@ layout: paper
 Arthur Rodrigues, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. "A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’18. ACM, 2018, pp. 206--216. DOI: 10.1145/3194133.3194147
 
 ## Links
-[OA Version](https://arxiv.org/abs/1804.00994){:target="_blank"}
+[Open access version](https://arxiv.org/abs/1804.00994){:target="_blank"}
 
 [Paper at ACM DL](https://doi.org/10.1145/3194133.3194147){:target="_blank"}
 

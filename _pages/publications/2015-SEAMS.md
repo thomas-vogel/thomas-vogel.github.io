@@ -8,7 +8,7 @@ layout: paper
 Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. "Software Engineering meets Control Theory". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’15. IEEE, 2015, pp. 71--82. DOI: 10.1109/SEAMS.2015.12
 
 ## Links
-[OA Version](https://hal.inria.fr/hal-01119461/){:target="_blank"}
+[Open access version](https://hal.inria.fr/hal-01119461/){:target="_blank"}
 
 [Paper at IEEE Xplore](https://doi.org/10.1109/SEAMS.2015.12){:target="_blank"}
 

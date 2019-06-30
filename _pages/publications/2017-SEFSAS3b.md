@@ -8,7 +8,7 @@ layout: paper
 Bradley Schmerl, Jesper Andersson, Thomas Vogel, Myra B. Cohen, Cecilia M.F. Rubira, Yuriy Brun, Alessandra Gorla, Franco Zambonelli, and Luciano Baresi. "Challenges in Composing and Decomposing Assurances for Self-Adaptive Systems". In: Software Engineering for Self-Adaptive Systems III. Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017, pp. 64--89. DOI: 10.1007/978-3-319-74183-3\_3
 
 ## Links
-[OA Version](https://zenodo.org/record/1248950){:target="_blank"}
+[Open access version](https://zenodo.org/record/1248950){:target="_blank"}
 
 [Paper at SpringerLink](https://doi.org/10.1007/978-3-319-74183-3_3){:target="_blank"}
 

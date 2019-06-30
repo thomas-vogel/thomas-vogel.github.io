@@ -8,7 +8,7 @@ layout: paper
 Joachim Hänsel, Thomas Vogel, and Holger Giese. "A Testing Scheme for Self-Adaptive Software Systems with Architectural Runtime Models". In: International Conference on Self-Adaptive and Self-Organizing Systems Workshops. SASOW ’15. IEEE, 2015, pp. 134--139. DOI: 10.1109/SASOW.2015.27
 
 ## Links
-[OA Version](https://arxiv.org/abs/1805.07354){:target="_blank"}
+[Open access version](https://arxiv.org/abs/1805.07354){:target="_blank"}
 
 [Paper at IEEE Xplore](https://doi.org/10.1109/SASOW.2015.27){:target="_blank"}
 

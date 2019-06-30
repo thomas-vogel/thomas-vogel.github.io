@@ -8,7 +8,7 @@ layout: paper
 Rogério de Lemos, David Garlan, Carlo Ghezzi, Holger Giese, Jesper Andersson, Marin Litoiu, Bradley Schmerl, Danny Weyns, Luciano Baresi, Nelly Bencomo, Yuriy Brun, Javier Camara, Radu Calinescu, Myra B. Cohen, Alessandra Gorla, Vincenzo Grassi, Lars Grunske, Paola Inverardi, Jean-Marc Jezequel, Sam Malek, Raffaela Mirandola, Marco Mori, Hausi A. Müller, Romain Rouvoy, Cecilia M. F. Rubira, Eric Rutten, Mary Shaw, Giordano Tamburrelli, Gabriel Tamura, Norha M. Villegas, Thomas Vogel, and Franco Zambonelli. "Software Engineering for Self-Adaptive Systems: Research Challenges in the Provision of Assurances". In: Software Engineering for Self-Adaptive Systems III. Assurances. Ed. by Rogério de Lemos, David Garlan, Carlo Ghezzi, and Holger Giese. Vol. 9640. Lecture Notes in Computer Science (LNCS). Springer, 2017, pp. 3--30. DOI: 10.1007/978-3-319-74183-3\_1
 
 ## Links
-[OA Version](https://zenodo.org/record/1248952){:target="_blank"}
+[Open access version](https://zenodo.org/record/1248952){:target="_blank"}
 
 [Paper at SpringerLink](https://doi.org/10.1007/978-3-319-74183-3_1){:target="_blank"}
 

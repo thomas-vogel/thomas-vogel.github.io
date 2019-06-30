@@ -28,7 +28,7 @@ Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International
 
 * Joel Greenyer, Malte Lochau, and Thomas Vogel, eds. [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](2019-ES4CPS). 	arXiv:1904.11851. 2019.
 
-* Simos Gerasimou, Thomas Vogel, and Ada Diaconescu, eds. [_Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343_](2019-Dagstuhl). arXiv:1904.01518. 2019.
+* Simos Gerasimou, Thomas Vogel, and Ada Diaconescu, eds. [_Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343_](2019-SEfIAS). arXiv:1904.01518. 2019.
 
 ## 2018
 

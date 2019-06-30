@@ -8,7 +8,7 @@ layout: paper
 Jens Bruhn, Christian Niklaus, Thomas Vogel, and Guido Wirtz. "Comprehensive support for management of Enterprise Applications". In: International Conference on Computer Systems and Applications. AICCSA ’08. IEEE, 2008, pp. 755--762. DOI: 10.1109/AICCSA.2008.4493612
 
 ## Links
-[OA Version](https://zenodo.org/record/1248449){:target="_blank"}
+[Open access version](https://zenodo.org/record/1248449){:target="_blank"}
 
 [Article at IEEE Xplore](https://doi.org/10.1109/AICCSA.2008.4493612){:target="_blank"}
 
