@@ -30,7 +30,7 @@ Jump to
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"}).
 * Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"}).
 * Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"}).
-* Publicity Co-Chair and Web Chair of the _13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
+* Publicity Co-Chair, Web Chair, and Social Media Chair of the _13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"}).
 * Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems_, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"}).
 * Web Chair of the _Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering_, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"}).
 * Publicity Co-Chair of the _6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"}).
@@ -47,7 +47,7 @@ Jump to
 * Posters, Tools, and Demos Track of the 13th European Conference on Software Architecture (ECSA), 2019 ([Link](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"})
 * Poster and Demo Track of the 16th International Conference on Autonomic Computing (ICAC) and the 13th International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2019 ([Link](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}, [Link](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"})
 * 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), 2019 ([Link](https://vamos2019.github.io){:target="_blank"})
-* 1st International Workshop on Explainable Software at ASE, 2019 ([Link](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"})
+* 1st International Workshop on Explainable Software (EXPLAIN) at ASE, 2019 ([Link](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"})
 
 ### 2018
 * 13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
@@ -206,7 +206,7 @@ Jump to
 * _Model-Driven Engineering of Self-Adaptive Software_, [Computer Science Colloquium](http://www.cs.uct.ac.za/research/cs-colloquia-and-seminars-and-other-talks){:target="_blank"} at the University of Cape Town, South Africa, 08/2015.
 * _Model-Driven Engineering of Self-Adaptive Software with EUREMA_, GI Dagstuhl Seminar on Control Theory Meets Software Engineering, [Seminar 14382](http://www.dagstuhl.de/14382){:target="_blank"}, Schloss Dagstuhl, Germany, 09/2014.
 * _Modeling Self-Adaptive Software_, Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems: Assurances, [Seminar 13511](http://www.dagstuhl.de/13511){:target="_blank"}, Schloss Dagstuhl, Germany, 12/2013.
-* _Engineering Self-Adaptive Software Systems with Runtime Models_, HPI Symposium on Future Trends in Service-Oriented Computing (FutureSOC), Potsdam, Germany, 06/2012.
+* _Engineering Self-Adaptive Software Systems with Runtime Models_, 7th Annual HPI Symposium on Future Trends in Service-Oriented Computing (FutureSOC), Potsdam, Germany, 06/2012 ([Video](https://www.tele-task.de/lecture/video/3336/){:target="_blank"}).
 * _Engineering Self-Adaptive Software Systems with Runtime Models_, GI Dagstuhl Seminar on Quality-of-Service Attributes in Service- and Cloud-based Systems, [Seminar 12211](http://www.dagstuhl.de/12211){:target="_blank"}, Schloss Dagstuhl, Germany, 05/2012.
 * _Models at Runtime for Adaptive and Self-managing Software_, Dagstuhl Seminar on Models@run.time, [Seminar 11481](http://www.dagstuhl.de/11481){:target="_blank"}, Schloss Dagstuhl, Germany, 11/2011 (joint talk with Holger Giese).
 * _Multiple Runtime Models and their Relations for Self-Managing Systems_, HPI-SAP Symposium at SAP St. Leon-Rot, Germany, 12/2010.
@@ -228,3 +228,4 @@ Jump to
 * GI Dagstuhl Seminar on [_Quality-of-Service Attributes in Service- and Cloud-based Systems_](http://www.dagstuhl.de/12211){:target="_blank"}, 05/2012.
 * Dagstuhl Seminar on [_Models@run.time_](http://www.dagstuhl.de/11481){:target="_blank"}, 11/2011.
 * Dagstuhl Seminar on [_Software Engineering for Self-Adaptive Systems_](http://www.dagstuhl.de/10431){:target="_blank"}, 10/2010.
+* _Joint Workshop of the German Research Training Groups in Computer Science_ at Schloss Dagstuhl, 06/2010.
