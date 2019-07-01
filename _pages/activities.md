@@ -209,7 +209,7 @@ Jump to
 * _Engineering Self-Adaptive Software Systems with Runtime Models_, 7th Annual HPI Symposium on Future Trends in Service-Oriented Computing (FutureSOC), Potsdam, Germany, 06/2012 ([Video](https://www.tele-task.de/lecture/video/3336/){:target="_blank"}).
 * _Engineering Self-Adaptive Software Systems with Runtime Models_, GI Dagstuhl Seminar on Quality-of-Service Attributes in Service- and Cloud-based Systems, [Seminar 12211](http://www.dagstuhl.de/12211){:target="_blank"}, Schloss Dagstuhl, Germany, 05/2012.
 * _Models at Runtime for Adaptive and Self-managing Software_, Dagstuhl Seminar on Models@run.time, [Seminar 11481](http://www.dagstuhl.de/11481){:target="_blank"}, Schloss Dagstuhl, Germany, 11/2011 (joint talk with Holger Giese).
-* _Multiple Runtime Models and their Relations for Self-Managing Systems_, HPI-SAP Symposium at SAP St. Leon-Rot, Germany, 12/2010.
+* _Multiple Runtime Models and their Relations for Self-Managing Systems_, SAP, St. Leon-Rot, Germany, 12/2010.
 * _Runtime Models as Interfaces for Adapting Software Systems_, Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, [Seminar 10431](http://www.dagstuhl.de/10431){:target="_blank"}, Schloss Dagstuhl, Germany, 10/2010.
 * _Model-Based Self-Adaptation of Service-Oriented Software Systems_, Joint Workshop of the German Research Training Groups in Computer Science, [Event 10222](http://www.dagstuhl.de/10222){:target="_blank"}, Schloss Dagstuhl, Germany, 05/2010.
 * _A Model-Driven Infrastructure for Self-Adaptive Software Systems_, HPI-UCT Workshop at the University of Cape Town, South Africa, 05/2010.
