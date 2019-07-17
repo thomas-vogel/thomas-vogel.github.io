@@ -40,6 +40,7 @@ His research interests are in the areas of search-based software engineering, mo
 
 ## Things Happening
 
+* __Jul 2019__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) Track_](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"} at the [ICSE 2020](https://conf.researchr.org/home/icse-2020){:target="_blank"}. Consider submitting your innovative ideas and early results.
 * __Jun 2019__ --- Our paper [_Does Diversity Improve the Test Suite Generation for Mobile Applications?_](publications/2019-SSBSE) has been accepted at the [11th International Symposium on Search-Based Software Engineering (SSBSE'19)](http://ssbse19.mines-albi.fr/){:target="_blank"}.
 * __Jun 2019__ --- I joined the PC of the [_1st International Workshop on Explainable Software_](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"}. Consider submitting high-quality papers.
 * __May 2019__ --- Paper [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](publications/2019-SEAMS) has been presented at [SEAMS'19](https://conf.researchr.org/home/seams-2019){:target="_blank"}, and [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](publications/2019-SE4Science) has been presented at [SE4Science'19](https://se4science.org/workshops/se4science19/){:target="_blank"}.
