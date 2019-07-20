@@ -8,7 +8,7 @@ layout: paper
 
 * Thomas Vogel. _Explainable Quality Assurance of Behavioral Requirements_. In: Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl. Vol. abs/1904.11851. CoRR. 2019, pp. 59--60. ([abstract](https://arxiv.org/abs/1904.11851){:target="_blank"})
 
-* Christopher Gerking, Ilias Gerostathopoulos, Jesper Karlsson, Narges Khakpour, Malte Lochau, Lars Luthmann, Mohammad Reza Mousavi, Christoph Sommer, and Thomas Vogel. _Explainable Quality Assurance of Behavioral Requirements_. In: Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl. Vol. abs/1904.11851. CoRR. 2019, pp. 10--14. ([abstract](https://arxiv.org/abs/1904.11851){:target="_blank"})
+* Christopher Gerking, Ilias Gerostathopoulos, Jesper Karlsson, Narges Khakpour, Malte Lochau, Lars Luthmann, Mohammad Reza Mousavi, Christoph Sommer, and Thomas Vogel. _Explainability and Testing_. In: Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl. Vol. abs/1904.11851. CoRR. 2019, pp. 10--14. ([abstract](https://arxiv.org/abs/1904.11851){:target="_blank"})
 
 * Thomas Vogel. _Self-Adaptive Search for Sapienz_. In: Software Engineering for Intelligent and Autonomous Systems: Report from the GI Dagstuhl Seminar 18343. Vol. abs/1904.01518. CoRR. 2019, p. 21. ([abstract](https://arxiv.org/abs/1904.01518){:target="_blank"})
 
