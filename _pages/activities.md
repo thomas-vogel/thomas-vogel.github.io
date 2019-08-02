@@ -17,13 +17,14 @@ Jump to
 [Invited Seminars](#invited-seminars).
 
 ## Awards
-* [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018)
-* Distinguished PC Member Award of the [12. Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS'18)](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"} (2018)
-*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at [ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"} (2017)
-* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at SEAMS'12 (2012) (shared with one other paper)
-* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at Models@run.time'11 (2011)
-* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at Models@run.time'10 (2010)
-* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at Models@run.time'09 (2009)
+* [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
+* Distinguished PC Member Award of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}).
+*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%).
+* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'12).
+* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT'11).
+* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT'10).
+* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT'09).
+
 
 ## Organization Committee
 
