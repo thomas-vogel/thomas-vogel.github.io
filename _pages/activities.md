@@ -216,7 +216,7 @@ Jump to
 * _Die Zukunft mit erfinden? Software entwickeln!_, Vortrag auf dem Schülercampus 2009 in Brandenburg, Europa Universität Viadrina Frankfurt (Oder), Germany, 03/2009.
 
 
-## Invited Seminars
+## Invitations to Seminars and Workshops
 
 *  3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
