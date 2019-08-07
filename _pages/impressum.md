@@ -7,7 +7,7 @@ layout: page
 <p>Thomas Vogel</p>
 <p>{{site.email}}</p>
 
-<h1>Attribution / Bildnachweise</h1>
+<h2>Attribution / Bildnachweise</h2>
 
 * Portrait photo of Thomas Vogel by &copy; [Sabine Mittermeier](http://sabine-mittermeier.de){:target="_blank"}.
 * Icon
