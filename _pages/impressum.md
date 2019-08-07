@@ -8,7 +8,7 @@ layout: page
 <p>{{site.email}}</p>
 
 <h2>Attribution / Bildnachweise</h2>
-
+<br/>
 * Portrait photo of Thomas Vogel by &copy; [Sabine Mittermeier](http://sabine-mittermeier.de){:target="_blank"}.
 * Icon
 <img src="/assets/img/pin.png" alt="pinned news" style="width: 10px; margin-left: 5px; margin-right: 5px;"/>
