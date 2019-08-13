@@ -14,7 +14,7 @@ Jump to
 [Editor](#editor),
 [Accepted Talks](#accepted-talks),
 [Invited Talks](#invited-talks), and
-[Invited Seminars](#invited-seminars).
+[Seminars](#invitations-to-seminars-and-workshops).
 
 ## Awards
 * [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
@@ -40,7 +40,7 @@ Jump to
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
-* 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2020 ([Link](https://conf.researchr.org/home/seams-2020){:target="_blank"}) 
+* 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2020 ([Link](https://conf.researchr.org/home/seams-2020){:target="_blank"})
 
 ### 2019
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
