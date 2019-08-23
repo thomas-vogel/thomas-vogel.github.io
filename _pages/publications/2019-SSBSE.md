@@ -6,10 +6,12 @@ layout: paper
 
 ## Reference
 
-Thomas Vogel, Chinh Tran, and Lars Grunske. "Does Diversity Improve the Test Suite Generation for Mobile Applications?". In: 11th International Symposium on Search-Based Software Engineering. SSBSE’19. Springer LNCS, 2019, pp. _tba_. DOI: _tba_
+Thomas Vogel, Chinh Tran, and Lars Grunske. "Does Diversity Improve the Test Suite Generation for Mobile Applications?". In: 11th International Symposium on Search-Based Software Engineering. SSBSE’19. Springer LNCS, 2019, pp. 58--74. DOI: 10.1007/978-3-030-27455-9_5
 
 ## Links
 [Pre-print](https://arxiv.org/abs/1906.08142){:target="_blank"}
+
+[Paper at SpringerLink](https://doi.org/10.1007/978-3-030-27455-9_5){:target="_blank"}
 
 [Artifact/Code](https://github.com/thomas-vogel/sapienzdiv-ssbse19){:target="_blank"}
 
@@ -23,10 +25,10 @@ In search-based software engineering we often use popular heuristics with defaul
     author = {Vogel, Thomas and Tran, Chinh and Grunske, Lars},
     title = {Does Diversity Improve the Test Suite Generation for Mobile Applications?},
     year = {2019},
-    booktitle = {International Symposium on Search-Based Software Engineering},
+    booktitle = {11th International Symposium on Search-Based Software Engineering},
     series = {SSBSE~'19},
     publisher = {Springer},
-    pages = {},
-    doi = {},
+    pages = {58--74},
+    doi = {10.1007/978-3-030-27455-9_5},
 }</pre>
 </div>
