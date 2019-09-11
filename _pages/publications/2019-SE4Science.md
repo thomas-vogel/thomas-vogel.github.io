@@ -1,17 +1,15 @@
 ---
 title: Challenges for Verifying and Validating Scientific Software in Computational Materials Science
 permalink: publications/2019-SE4Science.html
-layout: paper
+layout: page
 ---
 
 ## Reference
 Thomas Vogel, Stephan Druskat, Markus Scheidgen, Claudia Draxl, and Lars Grunske. "Challenges for Verifying and Validating Scientific Software in Computational Materials Science". In: International Workshop on Software Engineering for Science (co-located with ICSE'19). SE4Science'19. IEEE, 2019, pp. 25--32. DOI: 10.1109/SE4Science.2019.00010
 
 ## Links
-[Open access version](https://arxiv.org/abs/1906.09179){:target="_blank"}
-
-[Paper at ACM DL](https://dl.acm.org/citation.cfm?id=3340902){:target="_blank"}
-
+* [Open access version](https://arxiv.org/abs/1906.09179){:target="_blank"}
+* [Paper at ACM DL](https://dl.acm.org/citation.cfm?id=3340902){:target="_blank"}
 
 ## Abstract
 Many fields of science rely on software systems to answer different research questions. For valid results researchers need to trust the results scientific software produces, and consequently quality assurance is of utmost importance. In this paper we are investigating the impact of quality assurance in the domain of computational materials science (CMS). Based on our experience in this domain we formulate challenges for validation and verification of scientific software and their results. Furthermore, we describe directions for future research that can potentially help dealing with these challenges.

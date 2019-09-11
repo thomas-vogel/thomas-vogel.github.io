@@ -1,7 +1,7 @@
 ---
 title: Activities
 permalink: activities.html
-layout: paper
+layout: page
 ---
 
 Jump to

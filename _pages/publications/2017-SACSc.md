@@ -1,14 +1,14 @@
 ---
 title: State of the Art in Architectures for Self-Aware Computing Systems
 permalink: publications/2017-SACSc.html
-layout: paper
+layout: page
 ---
 
 ## Reference
 Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, Nelly Bencomo, Kurt Geihs, Samuel Kounev, and Kirstie Bellman. "State of the Art in Architectures for Self-Aware Computing Systems". In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 8, pp. 237--275. DOI: 10.1007/978-3-319-47474-8\_8
 
 ## Links
-[Paper at SpringerLink](https://doi.org/10.1007/978-3-319-47474-8_8){:target="_blank"}
+* [Paper at SpringerLink](https://doi.org/10.1007/978-3-319-47474-8_8){:target="_blank"}
 
 ## Abstract
 In this chapter, we review the state of the art in self-aware computing systems with a particular focus on software architectures. Therefore, we compare existing approaches targeting computing systems with similar characteristics as self-aware systems to the architectural concepts for single and collective self-aware systems discussed in the previous chapters. These approaches are particularly reference architectures and architectural frameworks and languages. Based on this comparison, we discuss open challenges for architectures of self-aware computing systems.

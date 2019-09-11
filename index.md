@@ -50,7 +50,8 @@ His research interests are in the areas of (search-based) software engineering, 
 * __Apr 2019__ --- I joined the PC of the [_13th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2019)_](http://cbsoft2019.ufba.br/#/sbcars){:target="_blank"}. Consider submitting high-quality papers.
 * __Mar 2019__ --- Our talk on _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_ has been accepted at [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"} that runs in Potsdam, Germany in June 2019.
 
-## [Things Happened](pastnews)
+## Things Happened
+* [Here](pastnews)
 
 <!--
 <div class="blog">

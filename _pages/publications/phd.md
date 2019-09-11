@@ -1,7 +1,7 @@
 ---
 title: Model-Driven Engineering of Self-Adaptive Software
 permalink: publications/phd.html
-layout: paper
+layout: page
 ---
 
 ## Reference

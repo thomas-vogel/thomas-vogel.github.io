@@ -1,11 +1,10 @@
 ---
 title: A Domain Specific Language to support HAZOP Studies of SysML Models
 permalink: publications/2019-IMBSA.html
-layout: paper
+layout: page
 ---
 
 ## Reference
-
 Arut Prakash Kaleeswaran, Peter Munk, Samir Sarkic, Thomas Vogel, and Arne Nordmann. "A Domain Specific Language to support HAZOP Studies of SysML Models". In: 6th International Symposium on Model-Based Safety and Assessment. IMBSA '19. Springer, 2019, pp. _tbd_. DOI: _tba_. (accepted)
 
 ## Links
