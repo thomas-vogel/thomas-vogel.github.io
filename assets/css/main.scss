@@ -176,7 +176,7 @@ blockquote {
 	display: flex;
 	justify-content: space-between;
 	align-items: baseline;
-	padding-bottom: 50px;
+	padding-bottom: 40px;
 	@media screen and (max-width: $br) {
 		display: block;
 	}
@@ -202,12 +202,12 @@ blockquote {
 	&__title {
 		font-size: 1.6em;
 		font-weight: 600;
-		margin-top: 20px;
+		margin-top: 0px;
 		margin-bottom: 10px;
 		line-height: 120%;
 	}
 	&__content {
-		margin-top: 20px;
+		margin-top: 0px;
 		h1 {
 			font-size: 1.6em;
 			font-weight: 600;

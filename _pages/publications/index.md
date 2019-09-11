@@ -11,7 +11,7 @@ See publications by [type](/publications/type) or at
 [DBLP](https://dblp.uni-trier.de/pers/hd/v/Vogel_0001:Thomas){:target="_blank"},
 [ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"}, and
 [arXiv.org](https://arxiv.org/a/vogel_t_2.html){:target="_blank"}.
-
+<br />
 A list of published (extended) abstracts is available [here](abstracts).
 
 

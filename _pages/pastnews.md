@@ -6,6 +6,8 @@ layout: page
 
 ## 2019
 
+* __Apr 2019__ --- I joined the PC of the [_13th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2019)_](http://cbsoft2019.ufba.br/#/sbcars){:target="_blank"}. Consider submitting high-quality papers.
+* __Mar 2019__ --- Our talk on _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_ has been accepted at [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"} that runs in Potsdam, Germany in June 2019.
 * __Mar 2019__ --- Our paper [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](publications/2019-SEAMS) has been accepted at [SEAMS'19](https://conf.researchr.org/home/seams-2019){:target="_blank"}.
 * __Mar 2019__ --- Our paper [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](publications/2019-SE4Science) has been accepted at the ICSE workshop [SE4Science'19](https://se4science.org/workshops/se4science19/){:target="_blank"}.
 * __Feb 2019__ --- Our project [_Fitness Landscape Analysis to improve Search Heuristics (FLASH)_](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se/research/ongoingprojects/flash/flash){:target="_blank"} funded by the German Research Foundation (DFG) has started.
