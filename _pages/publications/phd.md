@@ -23,8 +23,8 @@ Prof. Samuel Kounev (University of Wuerzburg, Germany)
 (Submitted: 30.01.2017, defended: 19.03.2018, published: 23.04.2018)
 
 ## Links
-* [Publication at the University of Potsdam (open access)](https://nbn-resolving.org/urn:nbn:de:kobv:517-opus4-409755){:target="_blank"}
-* [Direct access to the PDF (open access)](https://publishup.uni-potsdam.de/files/40975/diss_vogel.pdf){:target="_blank"}
+* [Dissertation at the University of Potsdam (open access)](https://nbn-resolving.org/urn:nbn:de:kobv:517-opus4-409755){:target="_blank"}
+* [Direct Download of the Dissertation (open access)](https://publishup.uni-potsdam.de/files/40975/diss_vogel.pdf){:target="_blank"}
 
 
 ## Abstract
