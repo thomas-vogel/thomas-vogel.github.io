@@ -6,7 +6,7 @@ layout: page
 
 <div style="float: right; width: 33%; padding-left: 15px;" >
 <a href="https://publishup.uni-potsdam.de/files/40975/diss_vogel.pdf" target="_blank" title="Dissertation as a PDF">
-<img style="width: 96%; border: 1px solid" src="/assets/img/diss.png" alt="Me"/>
+<img style="width: 96%; border: 1px solid" src="/assets/img/diss.png" alt="Dissertation by Thomas Vogel"/>
 </a>
 </div>
 
