@@ -4,19 +4,27 @@ permalink: publications/phd.html
 layout: page
 ---
 
+<div style="float: right; width: 33%; padding-left: 15px;" >
+<a href="https://publishup.uni-potsdam.de/files/40975/diss_vogel.pdf" target="_blank" title="Dissertation as a PDF">
+<img style="width: 96%; border: 1px solid" src="/assets/img/diss.png" alt="Me"/>
+</a>
+</div>
+
 ## Reference
 Thomas Vogel. "Model-Driven Engineering of Self-Adaptive Software". PhD Thesis, University of Potsdam, Germany, 2018.
 
 Graded _summa cum laude_.
 
-Reviewers: Prof. Holger Giese (University of Potsdam, Germany), Prof. Betty H.C. Cheng (Michigan State University, USA), Prof. Samuel Kounev (University of Wuerzburg, Germany).
+Reviewers: <br />
+Prof. Holger Giese (University of Potsdam, Germany) <br />
+Prof. Betty H.C. Cheng (Michigan State University, USA) <br />
+Prof. Samuel Kounev (University of Wuerzburg, Germany)
 
-(Submitted on 30.01.2017, defended on 19.03.2018, published online on 23.04.2018)
+(Submitted: 30.01.2017, defended: 19.03.2018, published: 23.04.2018)
 
 ## Links
-[Publication at the University of Potsdam (open access)](https://nbn-resolving.org/urn:nbn:de:kobv:517-opus4-409755){:target="_blank"}
-
-[Direct access to the PDF (open access)](https://publishup.uni-potsdam.de/files/40975/diss_vogel.pdf){:target="_blank"}
+* [Publication at the University of Potsdam (open access)](https://nbn-resolving.org/urn:nbn:de:kobv:517-opus4-409755){:target="_blank"}
+* [Direct access to the PDF (open access)](https://publishup.uni-potsdam.de/files/40975/diss_vogel.pdf){:target="_blank"}
 
 
 ## Abstract
