@@ -202,6 +202,8 @@ Jump to
 
 ## Invited Talks
 
+* Upcoming: _Self-Adaptive Search for Sapienz: Results_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2019.
+* Upcoming: _Fitness Landscape Analysis, Diversity, and Search-Based App Testing_, [19th HPI Future SOC Lab Day](https://hpi.de/veranstaltungen/wissenschaftliche-konferenzen/future-soc-lab/2019/19-hpi-future-soc-lab-day-herbst-2019.html), Potsdam, Germany, 11/2019.
 * _Self-Adaptive Search for Sapienz_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2018.
 * _Synopsis of the Recent GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems (SEfIAS)_, [The 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC)](http://st.inf.tu-dresden.de/MRT18-ICAC){:target="_blank"}, Trento, Italy, 09/2018 (joint invitation with Ada Diaconsecu and Simos Gerasimou).
 * _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_, [Search-Based Model Engineering Workshop](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.
@@ -223,7 +225,9 @@ Jump to
 
 ## Invitations to Seminars and Workshops
 
+* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 07/2020.
 *  3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020.
+* _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://fbtavsymposium2019.splashthat.com/){:target="_blank"}, London, UK, 11/2019.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
 * [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
 * Dagstuhl Workshop on [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
