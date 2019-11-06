@@ -30,9 +30,9 @@ The gained understanding could then help in configuring a method to yield better
 * I transferred self-adaptation principles to the generation test suites for mobile applications, particularly by equipping the evolutionary algorithm for generating test suites with a feedback loop that automatically and dynamically adapts the search strategy if the diversity of test suites decreases ([SSBSE'19](publications/2019-SSBSE) and research project [_Self-Adaptive Search for Sapienz_](#projects)).
 
 <br />
-Since the techniques to develop explanations are generic, they can be also applied to optimization problems in self-adaptive software systems such as finding optimal adaptation plans and system configurations. 
+Since the techniques to develop explanations are generic, they can be also applied to optimization problems in self-adaptive software systems such as finding optimal adaptation plans and system configurations.
 
-### (3)  Achieving practical and explainable verification of software systems
+### (3) Practical and explainable verification of software systems
 Given the increasing level of autonomy, large configuration spaces, or uncertainty of software systems, assuring such systems has become a major challenge ([SEfSAS'17a](publications/2017-SEFSAS3a), [SE4Science'19](publications/2019-SE4Science)). The use of formal methods (e.g., model checking), and the interpretation of the results of such methods (e.g., a counterexample) are often difficult, error-prone, and costly. My goal is to make such methods practically usable, for instance by:
 * following a model-based approach to tame the complexity of safety analysis ([IMBSA'19](publications/2019-IMBSA))
 * integrating natural language-based property specification patterns (cf. [Safe.Spec](#projects) project)
