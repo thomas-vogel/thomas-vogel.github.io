@@ -19,7 +19,7 @@ We observe an increasing level of autonomy of self-adaptive systems that operate
 * control to systematically engineer self-adaptive systems with guarantees (see [TAAS'17](publications/2017-TAAS), [CASaS'17](publications/2017-CASaS))
 * architectures for the design of self-aware computing systems  (see [SACS'17a](publications/2017-SACSa), [SACS'17b](publications/2017-SACSb), [SACS'17c](publications/2017-SACSc))
 
-### (2) Understanding intelligent methods and self-adaptive intelligent methods
+### (2) Understanding intelligent methods and making intelligent methods self-adaptive
 Methods from computational and artificial intelligence are typically black-box and therefore arcane for software engineers, which impedes an understanding why certain methods work well and others do not for a specific problem. For this purpose, my goal is to develop explanations that enable such an understanding.
 
 Particularly, I develop explanations of the difficulty of optimization problems in search-based software engineering by analyzing the fitness landscape and thus, the interaction of methods from computational intelligence (esp. evolutionary algorithms) with the related search spaces. The explanations enable a better understanding of the search problems and methods (cf. [FLASH](#projects) project). One example is:
