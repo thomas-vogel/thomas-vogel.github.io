@@ -203,7 +203,7 @@ Jump to
 ## Invited Talks
 
 * Upcoming: _Self-Adaptive Search for Sapienz: Results_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2019.
-* Upcoming: _Fitness Landscape Analysis, Diversity, and Search-Based App Testing_, [19th HPI Future SOC Lab Day](https://hpi.de/veranstaltungen/wissenschaftliche-konferenzen/future-soc-lab/2019/19-hpi-future-soc-lab-day-herbst-2019.html), Potsdam, Germany, 11/2019.
+* _Search-Based App Testing, Fitness Landscape Analysis, and Diversity_ ([video](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}), [19th HPI Future SOC Lab Day](https://hpi.de/en/events/wissenschaftliche-konferenzen/future-soc-lab/2019/19th-hpi-future-soc-lab-day-fall-2019.html){:target="_blank"}, Potsdam, Germany, 11/2019.
 * _Self-Adaptive Search for Sapienz_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2018.
 * _Synopsis of the Recent GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems (SEfIAS)_, [The 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC)](http://st.inf.tu-dresden.de/MRT18-ICAC){:target="_blank"}, Trento, Italy, 09/2018 (joint invitation with Ada Diaconsecu and Simos Gerasimou).
 * _Fitness Landscape Analysis to improve Search Heuristics in Software Engineering_, [Search-Based Model Engineering Workshop](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.
