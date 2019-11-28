@@ -42,6 +42,8 @@ Jump to
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
 * 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2020 ([Link](https://conf.researchr.org/home/seams-2020){:target="_blank"})
+* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2020 ([Link](https://gecco-2020.sigevo.org/){:target="_blank"})
+* The 13th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2020 ([Link](https://sbst20.github.io/){:target="_blank"})
 
 ### 2019
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
@@ -202,7 +204,7 @@ Jump to
 
 ## Invited Talks
 
-* Upcoming: _Self-Adaptive Search for Sapienz: Results_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2019.
+* _Self-Adaptive Search for Sapienz_, [Facebook Testing and Verification (FaceTAV) Challenge Workshop](https://fbtavworkshop2019.splashthat.com/){:target="_blank"}, Facebook, London, UK, 11/2019.
 * _Search-Based App Testing, Fitness Landscape Analysis, and Diversity_ ([video](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}), [19th HPI Future SOC Lab Day](https://hpi.de/en/events/wissenschaftliche-konferenzen/future-soc-lab/2019/19th-hpi-future-soc-lab-day-fall-2019.html){:target="_blank"}, Potsdam, Germany, 11/2019.
 * _Self-Adaptive Search for Sapienz_, Facebook Testing and Verification (FaceTAV) Challenge Workshop, Facebook, London, UK, 11/2018.
 * _Synopsis of the Recent GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems (SEfIAS)_, [The 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems (MRT-SeAC)](http://st.inf.tu-dresden.de/MRT18-ICAC){:target="_blank"}, Trento, Italy, 09/2018 (joint invitation with Ada Diaconsecu and Simos Gerasimou).

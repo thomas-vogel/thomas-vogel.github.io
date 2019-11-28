@@ -40,6 +40,8 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Nov 2019__ --- I joined the PCs of the [_Genetic and Evolutionary Computation Conference (GECCO 2020)_](https://gecco-2020.sigevo.org/){:target="_blank"} and the [_13th International Workshop on Search-Based Software Testing (SBST 2020)_](https://sbst20.github.io/){:target="_blank"}. Consider submitting high-quality papers.
+* __Nov 2019__ --- I gave an invited talk on _Self-Adaptive Search for Sapienz_ at the [Facebook Testing and Verification (FaceTAV) Challenge Workshop](https://fbtavworkshop2019.splashthat.com/){:target="_blank"}.
 * __Nov 2019__ --- I gave an invited talk on _Search-Based App Testing, Fitness Landscape Analysis, and Diversity_ ([video](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}) at the [19th HPI Future SOC Lab Day](https://hpi.de/en/events/wissenschaftliche-konferenzen/future-soc-lab/2019/19th-hpi-future-soc-lab-day-fall-2019.html){:target="_blank"} in Potsdam, Germany.
 * __Oct 2019__ --- I am in the PC of the 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS'20](https://conf.researchr.org/home/seams-2020){:target="_blank"}). Consider submitting high-quality papers.
 * __Aug 2019__ --- At [SSBSE'19](http://ssbse19.mines-albi.fr/){:target="_blank"} I have been elected as a member of the steering committee of the International Symposium on Search-Based Software Engineering (SSBSE).
