@@ -1,5 +1,5 @@
 ---
-title: Software Engineering for Self-Adpaptive Systems&#058; A second Research Roadmap
+title: Software Engineering for Self-Adpaptive Systems&#058; A second Research Roadmap (draft version)
 permalink: publications/2011-Dagstuhl.html
 layout: page
 ---

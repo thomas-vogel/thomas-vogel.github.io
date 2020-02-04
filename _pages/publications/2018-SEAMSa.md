@@ -10,13 +10,8 @@ Thomas Vogel. "mRUBiS: An Exemplar for Model-Based Architectural Self-Healing an
 ## Links
 * [Open access version](https://arxiv.org/abs/1804.00954){:target="_blank"}
 * [Paper at ACM DL](https://doi.org/10.1145/3194133.3194161){:target="_blank"}
-<ul><li>
-<!-- ACM DL Article: mRUBiS: an exemplar for model-based architectural self-healing and self-optimization -->
-<!-- <div class="acmdlitem" id="item3194161"> -->
-<a href="https://dl.acm.org/authorize?N681049" title="mRUBiS: an exemplar for model-based architectural self-healing and self-optimization">Free copy by the ACM DL Author-ize service</a>
-<img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/>
-<!-- </div> -->
-</li></ul>
+* [Paper at IEEE DL](https://www.computer.org/csdl/proceedings-article/seams/2018/571501a101/17D45WwsQ5p){:target="_blank"}
+* [Paper at IEEE Xplore](https://ieeexplore.ieee.org/document/8595386){:target="_blank"}
 * [Related Artifact](2018-DARTS)
 
 ## Abstract

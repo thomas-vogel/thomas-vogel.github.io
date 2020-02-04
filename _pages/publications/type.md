@@ -29,6 +29,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Journals
 
+* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Trans. Auton. Adapt. Syst. (2020), (_accepted_).
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Trans. Auton. Adapt. Syst. 11.4 (2017), 24:1--24:31.
 * Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Trans. Auton. Adapt. Syst. 8.4 (2014), 18:1--18:33.
 

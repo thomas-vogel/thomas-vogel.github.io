@@ -8,7 +8,7 @@ layout: page
 Thomas Vogel, Chinh Tran, and Lars Grunske. "Does Diversity Improve the Test Suite Generation for Mobile Applications?". In: 11th International Symposium on Search-Based Software Engineering. SSBSE '19. LNCS 11664. Springer, 2019, pp. 58--74. DOI: 10.1007/978-3-030-27455-9_5
 
 ## Links
-* [Pre-print](https://arxiv.org/abs/1906.08142){:target="_blank"}
+* [Open access version](https://arxiv.org/abs/1906.08142){:target="_blank"}
 * [Paper at SpringerLink](https://doi.org/10.1007/978-3-030-27455-9_5){:target="_blank"}
 * [Artifact/Code](https://github.com/thomas-vogel/sapienzdiv-ssbse19){:target="_blank"}
 

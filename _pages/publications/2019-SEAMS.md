@@ -9,6 +9,9 @@ Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio P
 
 ## Links
 * [Open access version](https://arxiv.org/abs/1905.02228){:target="_blank"}
+* [Paper at ACM DL](https://dl.acm.org/doi/10.1109/SEAMS.2019.00020){:target="_blank"}
+* [Paper at IEEE DL](https://doi.ieeecomputersociety.org/10.1109/SEAMS.2019.00020){:target="_blank"}
+* [Paper at IEEE Xplore](https://doi.org/10.1109/SEAMS.2019.00020){:target="_blank"}
 * [Artifact (deployed as a web application)](https://seams2019.herokuapp.com/){:target="_blank"}
 * [Code](https://github.com/lesunb/pistarGODA-MDP){:target="_blank"}
 

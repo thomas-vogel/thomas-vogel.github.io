@@ -15,6 +15,11 @@ See publications by [type](/publications/type) or at
 A list of published (extended) abstracts is available [here](abstracts).
 
 
+## 2020
+
+* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Trans. Auton. Adapt. Syst. (2020), (_accepted_).
+
+
 ## 2019
 
 * Thomas Vogel, Chinh Tran, and Lars Grunske. [_Does Diversity Improve the Test Suite Generation for Mobile Applications?_](2019-SSBSE). In: 11th International Symposium on Search-Based Software Engineering. SSBSE '19. LNCS 11664. Springer, 2019, pp. 58--74.
