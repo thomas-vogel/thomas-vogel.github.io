@@ -28,7 +28,7 @@ Jump to
 
 ## Organization Committee
 
-* Steering committee member of the International Symposium on Search-Based Software Engineering (SSBSE, elected for 2019-2022)
+* Steering committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"}).
 * Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"}).
 * Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"}).
