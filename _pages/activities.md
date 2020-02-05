@@ -44,7 +44,8 @@ Jump to
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2020 ([Link](https://gecco-2020.sigevo.org/){:target="_blank"})
 * 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2020 ([Link](https://conf.researchr.org/home/seams-2020){:target="_blank"})
 * 12th International Symposium on Search-Based Software Engineering (SSBSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](http://ssbse2020.di.uniba.it/){:target="_blank"})
-* The 13th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2020 ([Link](https://sbst20.github.io/){:target="_blank"})
+* 13th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2020 ([Link](https://sbst20.github.io/){:target="_blank"})
+* 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Posters and Demos, 2020 ([Link](https://2020.acsos.org/){:target="_blank"})
 
 ### 2019
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering (SBSE) Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
