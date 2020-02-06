@@ -40,18 +40,12 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Feb 2020__ --- I joined the PC of the posters and demos track of the [_1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)_](https://2020.acsos.org/){:target="_blank"}.
+* __Jan 2020__ --- Our paper [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](publications/2020-TAAS) has been accepted for publication in ACM Transactions on Autonomous and Adaptive Systems (TAAS).
+* __Jan 2020__ --- I joined the PC of the NIER track at the [_12th International Symposium on Search-Based Software Engineering (SSBSE 2020)_](http://ssbse2020.di.uniba.it/){:target="_blank"}. Submit your new ideas and emerging results on search-based software engineering.
 * __Nov 2019__ --- I joined the PCs of the [_Genetic and Evolutionary Computation Conference (GECCO 2020)_](https://gecco-2020.sigevo.org/){:target="_blank"} and the [_13th International Workshop on Search-Based Software Testing (SBST 2020)_](https://sbst20.github.io/){:target="_blank"}. Consider submitting high-quality papers.
 * __Nov 2019__ --- I gave an invited talk on _Self-Adaptive Search for Sapienz_ at the [Facebook Testing and Verification (FaceTAV) Challenge Workshop](https://fbtavworkshop2019.splashthat.com/){:target="_blank"}.
 * __Nov 2019__ --- I gave an invited talk on _Search-Based App Testing, Fitness Landscape Analysis, and Diversity_ ([video](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}) at the [19th HPI Future SOC Lab Day](https://hpi.de/en/events/wissenschaftliche-konferenzen/future-soc-lab/2019/19th-hpi-future-soc-lab-day-fall-2019.html){:target="_blank"} in Potsdam, Germany.
-* __Oct 2019__ --- I am in the PC of the 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS'20](https://conf.researchr.org/home/seams-2020){:target="_blank"}). Consider submitting high-quality papers.
-* __Aug 2019__ --- At [SSBSE'19](http://ssbse19.mines-albi.fr/){:target="_blank"} I have been elected as a member of the steering committee of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}).
-* __Jul 2019__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) Track_](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"} at [ICSE 2020](https://conf.researchr.org/home/icse-2020){:target="_blank"}. Consider submitting your innovative ideas and early results.
-* __Jun 2019__ --- Our paper [_Does Diversity Improve the Test Suite Generation for Mobile Applications?_](publications/2019-SSBSE) has been accepted at the [11th International Symposium on Search-Based Software Engineering (SSBSE'19)](http://ssbse19.mines-albi.fr/){:target="_blank"}.
-* __Jun 2019__ --- I joined the PC of the [_1st International Workshop on Explainable Software_](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"}. Consider submitting high-quality papers.
-* __May 2019__ --- Paper [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](publications/2019-SEAMS) has been presented at [SEAMS'19](https://conf.researchr.org/home/seams-2019){:target="_blank"}, and [_Challenges for Verifying and Validating Scientific Software in Computational Materials Science_](publications/2019-SE4Science) has been presented at [SE4Science'19](https://se4science.org/workshops/se4science19/){:target="_blank"}.
-* __Apr 2019__ --- The report of the GI-Dagstuhl Seminar on [_Explainable Software for Cyber-Physical Systems (ES4CPS)_](publications/2019-ES4CPS) has been published.
-* __Apr 2019__ --- Our paper [_Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations_](publications/2019-SASO) has been accepted at [SASO'19](https://saso2019.cs.umu.se/){:target="_blank"}.
-* __Apr 2019__ --- The report of the GI-Dagstuhl Seminar on [_Software Engineering for Intelligent and Autonomous Systems_](publications/2019-SEfIAS) has been published.
 
 
 ## Things Happened
@@ -68,3 +62,12 @@ His research interests are in the areas of (search-based) software engineering, 
     </ul>
 </div>
 -->
+
+## Communities
+
+<section class="vcard" style="margin-left:35px;margin-top:25px;"><div>
+ <a href="https://ssbse.info/" target="_blank"><img src="/assets/img/ssbse.png" alt="SSBSE" style="width: 100px; margin-right: 25px;"/></a>
+ <a href="http://www.self-adaptive.org" target="_blank"><img src="/assets/img/selfadaptive.png" alt="self-adaptive.org" style="width: 300px; margin-right: 25px;"/></a>
+
+<br />
+</div></section>
