@@ -46,7 +46,7 @@ Jump to
 * 12th International Symposium on Search-Based Software Engineering (SSBSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](http://ssbse2020.di.uniba.it/){:target="_blank"})
 * 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Posters and Demos, 2020 ([Link](https://2020.acsos.org/){:target="_blank"})
 * 13th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2020 ([Link](https://sbst20.github.io/){:target="_blank"})
-* 4th Workshop on Self-Aware Computing (SeAC) at ACSOS, 2020 ([Link](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}) 
+* 4th Workshop on Self-Aware Computing (SeAC) at ACSOS, 2020 ([Link](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"})
 * 1st International Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA) at ACSOS, 2020 ([Link](https://cyra2020.github.io/){:target="_blank"})
 
 ### 2019
@@ -231,7 +231,7 @@ Jump to
 
 ## Invitations to Seminars and Workshops
 
-* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 07/2020.
+* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020.
 *  3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://fbtavsymposium2019.splashthat.com/){:target="_blank"}, London, UK, 11/2019.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ & [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
