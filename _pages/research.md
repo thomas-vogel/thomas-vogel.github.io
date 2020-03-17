@@ -14,9 +14,9 @@ Especially in my postdoctoral studies I broadened my research along three lines:
 ### (1) Methods and techniques to cope with the increasing level of autonomy of self-adaptive systems
 We observe an increasing level of autonomy of self-adaptive systems that operate in uncertain environments, which requires novel means to engineer such systems. In this context, I research optimization, learning, assurance, control-inspired, and architectural methods and techniques for self-adaptive systems such as:
 
-* learning and optimization techniques to identify optimal system configurations, adaptation rules, and adaptation decisions ([SASO'19](publications/2019-SASO), [SEAMS'18](publications/2018-SEAMSb), [ICAC'17](publications/2017-ICAC))
+* learning and optimization techniques to identify optimal system configurations, adaptation rules, and adaptation decisions ([TAAS'20](publications/2020-TAAS), [SEAMS'20](publications/2020-SEAMSa), [SASO'19](publications/2019-SASO), [SEAMS'18](publications/2018-SEAMSb), [ICAC'17](publications/2017-ICAC))
 * assurance techniques to validate and verify self-adaptation ([SEAMS'19](publications/2019-SEAMS), [SEAMS'18](publications/2018-SEAMSb), [SEfSAS'17a](publications/2017-SEFSAS3a), [SEfSAS'17b](publications/2017-SEFSAS3b))
-* control to systematically engineer self-adaptive systems with guarantees (see [TAAS'17](publications/2017-TAAS), [CASaS'17](publications/2017-CASaS))
+* control to systematically engineer self-adaptive systems with guarantees ([SEAMS'20a](publications/2020-SEAMSa), [SEAMS'20b](publications/2020-SEAMSb), [TAAS'17](publications/2017-TAAS), [CASaS'17](publications/2017-CASaS))
 * architectures for the design of self-aware computing systems  (see [SACS'17a](publications/2017-SACSa), [SACS'17b](publications/2017-SACSb), [SACS'17c](publications/2017-SACSc))
 
 ### (2) Understanding intelligent methods and making intelligent methods self-adaptive
