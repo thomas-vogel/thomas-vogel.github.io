@@ -17,8 +17,9 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## 2020
 
-* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Trans. Auton. Adapt. Syst. (2020), (_accepted_).
-
+* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 14.3 (2020), 12:1--12:41.
+* Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, _(accepted)_.
+* Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](2020-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, _(accepted)_.
 
 ## 2019
 
@@ -43,7 +44,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 ## 2017
 
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. 59--68. _(**Karsten Schwan Best Paper Award**)_.
-* Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Trans. Auton. Adapt. Syst. 11.4 (2017), 24:1--24:31.
+* Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 11.4 (2017), 24:1--24:31.
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, and Samuel Kounev. [_Architectural Concepts for Self-Aware Computing Systems_](2017-SACSa). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 5, pp. 109--147.
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, and Kirstie Bellman. [_Generic Architectures for Individual Self-Aware Computing Systems_](2017-SACSb). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 6, pp. 149--189.
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, Nelly Bencomo, Kurt Geihs, Samuel Kounev, and Kirstie Bellman. [_State of the Art in Architectures for Self-Aware Computing Systems_](2017-SACSc). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 8, pp. 237--275.
@@ -66,7 +67,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## 2014
 
-* Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Trans. Auton. Adapt. Syst. 8.4 (2014), 18:1--18:33.
+* Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 8.4 (2014), 18:1--18:33.
 * Thomas Vogel and Holger Giese. [_On Unifying Development Models and Runtime Models_](2014-MRT). In: International Workshop on Models@run.time. Vol. 1270. CEUR Workshop Proceedings. CEUR-WS.org, 2014, pp. 5--10.
 * Amel Bennaceur, Robert B. France, Giordano Tamburrelli, Thomas Vogel, Pieter J. Mosterman, Walter Cazzola, Fábio M. Costa, Alfonso Pierantonio, Matthias Tichy, Mehmet Aksit, Pär Emmanuelson, Huang Gang, Nikolaos Georgantas, and David Redlich. [_Mechanisms for Leveraging Models at Runtime in Self-adaptive Software_](2014-MART). In: Models@run.time. Ed. by Nelly Bencomo, Robert B. France, Betty H. Cheng, and Uwe Assmann. Vol. 8378. Lecture Notes in Computer Science (LNCS). Springer, 2014, pp. 19--46.
 * Thomas Vogel, Matthias Tichy, and Alessandra Gorla, eds. [_Report from the GI Dagstuhl Seminar 14433: Software Engineering for Self-Adaptive Systems_](2014-Dagstuhl). Research Reports in Software Engineering and Management 2014:02. Department of Computer Science, Engineering, Chalmers University of Technology, and University of Gothenburg, Sweden. 2014.

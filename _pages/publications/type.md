@@ -29,13 +29,15 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Journals
 
-* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Trans. Auton. Adapt. Syst. (2020), (_accepted_).
-* Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Trans. Auton. Adapt. Syst. 11.4 (2017), 24:1--24:31.
-* Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Trans. Auton. Adapt. Syst. 8.4 (2014), 18:1--18:33.
+* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 14.3 (2020), 12:1--12:41.
+* Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 11.4 (2017), 24:1--24:31.
+* Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 8.4 (2014), 18:1--18:33.
 
 
 ## Conferences
 
+* Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, _(accepted)_.
+* Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](2020-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, _(accepted)_.
 * Thomas Vogel, Chinh Tran, and Lars Grunske. [_Does Diversity Improve the Test Suite Generation for Mobile Applications?_](2019-SSBSE). In: 11th International Symposium on Search-Based Software Engineering. SSBSE '19. LNCS 11664. Springer, 2019, pp. 58--74.
 * Erik Fredericks, Ilias Gerostathopoulos, Christian Krupitzer, and Thomas Vogel. [_Planning as Optimization: Dynamically Discovering Optimal Configurations for Runtime Situations_](2019-SASO). In: International Conference on Self-Adaptive and Self-Organizing Systems. SASO '19. IEEE, 2019, pp. 1--10.
 * Gabriela Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach_](2019-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '19. IEEE, 2019, pp. 89--99.
