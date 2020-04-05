@@ -4,7 +4,7 @@ permalink: publications/type.html
 layout: page
 ---
 
-See publications by [year](/publications) or at
+See [my publications by year](/publications) or at
 [![orcid id](/assets/img/iDicon.png) ORCID](http://orcid.org/0000-0002-7127-352X){:target="_blank"},
 <!--[Google Scholar](https://scholar.google.com/citations?user=6OYLxbsAAAAJ){:target="_blank"},-->
 [Google Scholar](https://scholar.google.com/citations?user=BnTgaaIAAAAJ){:target="_blank"},
