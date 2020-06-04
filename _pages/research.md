@@ -4,6 +4,11 @@ permalink: research.html
 layout: page
 ---
 
+<div style="float: right; width: 20%; padding-left: 15px;" >
+<a href="publications/phd" title="My Ph.D. Thesis">
+<img style="width: 95%; border: 1px solid" src="/assets/img/diss.png" alt="Dissertation by Thomas Vogel"/>
+</a>
+</div>
 My research focuses on developing methods and techniques that support understanding, engineering, and assuring intelligent/autonomous software systems, especially systems that act upon themselves or the environment based on automated decisions (cf. self-aware and self-adaptive software systems).
 In my work, I combine software engineering research with model-driven engineering, control theory, artificial and computational intelligence, and (mathematical) optimization.
 
