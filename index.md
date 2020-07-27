@@ -40,6 +40,13 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Jul 2020__ --- Our paper [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](publications/2020-ACSOSC) has been accepted to the [ACSOS 2020](https://conf.researchr.org/home/acsos-2020){:target="_blank"} workshop on [_Self-Aware Computing_](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}.
+* __Jul 2020__ --- Two papers accepted at [SSBSE 2020](http://ssbse2020.di.uniba.it/){:target="_blank"}:
+  * [_Evolutionary Grammar-Based Fuzzing_](publications/2020-SSBSEa)
+  * [_Bet and Run for Test Case Generation_](publications/2020-SSBSEb)
+* __Jul 2020__ --- Our paper [_Counterexample Interpretation for Contract-Based Design_](publications/2020-IMBSA) has been accepted at [IMBSA 2020](http://easyconferences.eu/imbsa2020/){:target="_blank"}.
+* __Jul 2020__ --- I joined the PC of the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
+* __Jun 2020__ --- I will be the Program Committee Chair of the Artifacts track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Mar 2020__ --- Two papers accepted at [SEAMS 2020](https://conf.researchr.org/home/seams-2020){:target="_blank"}:
   * [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](publications/2020-SEAMSa)
   * [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](publications/2020-SEAMSb)
