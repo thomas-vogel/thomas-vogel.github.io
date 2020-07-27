@@ -25,6 +25,6 @@ Control theoretical techniques have been successfully adopted as methods for sel
     publisher = {ACM},
     pages = {},
     doi = {10.1145/3387939.3391595},
-    note = {\textit{(accepted)}},
+    note = {(accepted)},
 }</pre>
 </div>

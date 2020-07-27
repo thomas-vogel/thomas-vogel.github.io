@@ -25,6 +25,6 @@ Two of the main paradigms used to build adaptive software employ different types
     publisher = {ACM},
     pages = {},
     doi = {10.1145/3387939.3391568},
-    note = {\textit{(accepted)}},
+    note = {(accepted)},
 }</pre>
 </div>
