@@ -8,6 +8,7 @@ layout: page
 Sebastian Müller, Thomas Vogel, and Lars Grunske. "Bet and Run for Test Case Generation". In: 12th International Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, _(accepted)_.
 
 ## Links
+* [Open access version](https://arxiv.org/abs/2008.01172){:target="_blank"}
 * [Artifact/Code](https://www.doi.org/10.5281/zenodo.3903206){:target="_blank"}
 
 ## Abstract

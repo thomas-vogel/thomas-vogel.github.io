@@ -8,6 +8,7 @@ layout: page
 Martin Eberlein, Yannic Noller, Thomas Vogel, and Lars Grunske. "Evolutionary Grammar-Based Fuzzing". In: 12th International Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, _(accepted)_.
 
 ## Links
+* [Open access version](https://arxiv.org/abs/2008.01150){:target="_blank"}
 * [Artifact/Code](https://doi.org/10.5281/zenodo.3961374){:target="_blank"}
 
 ## Abstract
