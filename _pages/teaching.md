@@ -8,6 +8,10 @@ layout: page
 
 For details, please see the [teaching websites of our research group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se/teaching/teachingSS20?set_language=en){:target="_blank"}.
 
+### Winter 2020
+
+* Software Engineering
+
 ### Summer 2020
 
 * Software Verification

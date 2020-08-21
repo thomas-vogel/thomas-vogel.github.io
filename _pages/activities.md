@@ -28,6 +28,7 @@ Jump to
 
 ## Organization Committee
 
+* Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * Steering committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"}).
 * Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"}).
@@ -38,6 +39,9 @@ Jump to
 * Publicity Co-Chair of the _6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"}).
 
 ## Program Committee
+
+### 2021
+* 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
@@ -50,7 +54,7 @@ Jump to
 * 1st International Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA) at ACSOS, 2020 ([Link](https://cyra2020.github.io/){:target="_blank"})
 
 ### 2019
-* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering (SBSE) Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
+* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
 * 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](http://2019.seams-symposia.org){:target="_blank"})
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2019 ([Link](http://cbsoft2019.ufba.br/#/sbcars){:target="_blank"})
 * Posters, Tools, and Demos Track of the 13th European Conference on Software Architecture (ECSA), 2019 ([Link](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"})
@@ -199,7 +203,7 @@ Jump to
 
 ## Editor
 
-* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_.
+* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_ (since 2014).
 
 
 ## Accepted Talks

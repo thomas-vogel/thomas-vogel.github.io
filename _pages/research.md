@@ -19,10 +19,10 @@ Especially in my postdoctoral studies I broadened my research along three lines:
 ### (1) Methods and techniques to cope with the increasing level of autonomy of self-adaptive systems
 We observe an increasing level of autonomy of self-adaptive systems that operate in uncertain environments, which requires novel means to engineer such systems. In this context, I research optimization, learning, assurance, control-inspired, and architectural methods and techniques for self-adaptive systems such as:
 
-* learning and optimization techniques to identify optimal system configurations, adaptation rules, and adaptation decisions ([TAAS'20](publications/2020-TAAS), [SEAMS'20](publications/2020-SEAMSa), [SASO'19](publications/2019-SASO), [SEAMS'18](publications/2018-SEAMSb), [ICAC'17](publications/2017-ICAC))
+* learning and optimization techniques to identify optimal system configurations, adaptation rules, and adaptation decisions ([TAAS'20](publications/2020-TAAS), [SEAMS'20a](publications/2020-SEAMSa), [SASO'19](publications/2019-SASO), [SEAMS'18](publications/2018-SEAMSb), [ICAC'17](publications/2017-ICAC))
 * assurance techniques to validate and verify self-adaptation ([SEAMS'19](publications/2019-SEAMS), [SEAMS'18](publications/2018-SEAMSb), [SEfSAS'17a](publications/2017-SEFSAS3a), [SEfSAS'17b](publications/2017-SEFSAS3b))
 * control to systematically engineer self-adaptive systems with guarantees ([SEAMS'20a](publications/2020-SEAMSa), [SEAMS'20b](publications/2020-SEAMSb), [TAAS'17](publications/2017-TAAS), [CASaS'17](publications/2017-CASaS))
-* architectures for the design of self-aware computing systems  (see [SACS'17a](publications/2017-SACSa), [SACS'17b](publications/2017-SACSb), [SACS'17c](publications/2017-SACSc))
+* architectures for the design of self-aware computing systems  (see [SACS'17a](publications/2017-SACSa), [SACS'17b](publications/2017-SACSb), [SACS'17c](publications/2017-SACSc), [ACSOSC'20](publications/2020-ACSOSC))
 
 ### (2) Understanding intelligent methods and making intelligent methods self-adaptive
 Methods from computational and artificial intelligence are typically black-box and therefore arcane for software engineers, which impedes an understanding why certain methods work well and others do not for a specific problem. For this purpose, my goal is to develop explanations that enable such an understanding.
@@ -37,18 +37,23 @@ The gained understanding could then help in configuring a method to yield better
 <br />
 Since the techniques to develop explanations are generic, they can be also applied to optimization problems in self-adaptive software systems such as finding optimal adaptation plans and system configurations.
 
+Besides aiming for a better understanding of intelligent methods, I am interesting in applying such methods to search-based software engineering problems such as testing and fuzzing (see [SSBSE'20a](publications/2020-SSBSEa) and [SSBSE'20b](publications/2020-SSBSEb)).
+
 ### (3) Practical and explainable verification of software systems
 Given the increasing level of autonomy, large configuration spaces, or uncertainty of software systems, assuring such systems has become a major challenge ([SEfSAS'17a](publications/2017-SEFSAS3a), [SE4Science'19](publications/2019-SE4Science)). The use of formal methods (e.g., model checking), and the interpretation of the results of such methods (e.g., a counterexample) are often difficult, error-prone, and costly. My goal is to make such methods practically usable, for instance by:
 * following a model-based approach to tame the complexity of safety analysis ([IMBSA'19](publications/2019-IMBSA))
 * integrating natural language-based property specification patterns (cf. [Safe.Spec](#projects) project)
-* improving the explainability of counterexamples (cf. project on [_Specification and Verification of Requirements and Safety Contracts_](#projects))
+* improving the explainability and interpretation of counterexamples ([IMBSA'20](publications/2020-IMBSA))
 
 
 # Projects
 
+## Deriving Trust Levels for Multi-Choice Data Analysis Workflows
+A subproject of the [DFG Collaborative Research Center 1404 "FONDA -- Foundations of Workflows for Large-Scale Scientific Data Analysis"](https://fonda.hu-berlin.de/){:target="_blank"}, to which I contribute. The goal of the subproject is to improve the dependability of data analysis workflows in computational materials science by sampling configurations of such workflows and testing based on the NOMAD repository.
+
 ## Self-Adaptive Search for Sapienz
 Transferring self-adaptation principles to the search process of Sapienz, a search-based test suite generation tool for
-mobile applications (funded by the 2018 Facebook Testing and Verification Research Award).
+mobile applications (funded by the 2018 Facebook Testing and Verification Research Award). For further details, please have a look at the following presentation: [Search-Based App Testing, Fitness Landscape Analysis, and Diversity](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}.
 
 ## FLASH: Fitness landscape analysis to improve search-based software engineering
 Analyzing and understanding the search space and search methods for software engineering problems to improve state-of-the-art search
