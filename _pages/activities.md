@@ -235,8 +235,8 @@ Jump to
 
 ## Invitations to Seminars and Workshops
 
-* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020.
-*  3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
+* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (postponed due to COVID-19).
+* 3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
 * _Facebook Testing and Verification (FaceTAV) Challenge_ [_Workshop_](https://fbtavworkshop2019.splashthat.com/){:target="_blank"} and [_Symposium_](https://fbtavsymposium2019.splashthat.com/){:target="_blank"}, London, UK, 11/2019.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
 * [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
