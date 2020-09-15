@@ -40,6 +40,7 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Sep 2020__ --- I will be the Program Committee Co-Chair of the Gender Diversity Track at the 15th European Conference on Software Architecture (ECSA'21).
 * __Jul 2020__ --- Our paper [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](publications/2020-ACSOSC) has been accepted to the [ACSOS 2020](https://conf.researchr.org/home/acsos-2020){:target="_blank"} workshop on [_Self-Aware Computing_](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}.
 * __Jul 2020__ --- Two papers accepted at [SSBSE 2020](http://ssbse2020.di.uniba.it/){:target="_blank"}:
   * [_Evolutionary Grammar-Based Fuzzing_](publications/2020-SSBSEa)
