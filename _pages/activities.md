@@ -28,7 +28,7 @@ Jump to
 
 ## Organization Committee
 
-* Program Committee Co-Chair of the Gender Diversity Track at the 15th European Conference on Software Architecture (ECSA), 2021.
+* Program Committee Co-Chair of the Gender Diversity Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
 * Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * Steering committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"}).
