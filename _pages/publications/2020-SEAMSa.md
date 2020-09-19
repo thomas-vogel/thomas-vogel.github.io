@@ -5,10 +5,11 @@ layout: page
 ---
 
 ## Reference
-Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. "A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, DOI: 	10.1145/3387939.3391595, _(accepted)_.
+Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. “A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems”. In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 9--19. DOI: 10.1145/3387939.3391595.
 
 ## Links
 * [Open access version](https://arxiv.org/abs/2004.11793){:target="_blank"}
+* [Paper at ACM DL](https://doi.org/10.1145/3387939.3391595){:target="_blank"}
 * [Video of the presentation](https://www.youtube.com/watch?v=Q10mg29anG0){:target="_blank"}
 
 ## Abstract
@@ -21,11 +22,10 @@ Control theoretical techniques have been successfully adopted as methods for sel
     author = {Caldas, Ricardo D. and Rodrigues, Arthur and Gil, Eric B. and Rodrigues, Genaína N. and Vogel, Thomas and Pelliccione, Patrizio},
     title = {A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems},
     year = {2020},
-    booktitle = {International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
+    booktitle = {15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
     series = {SEAMS~'20},
     publisher = {ACM},
-    pages = {},
+    pages = {9--19},
     doi = {10.1145/3387939.3391595},
-    note = {(accepted)},
 }</pre>
 </div>

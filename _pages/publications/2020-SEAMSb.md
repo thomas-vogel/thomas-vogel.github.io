@@ -5,10 +5,11 @@ layout: page
 ---
 
 ## Reference
-Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. “Towards Bridging the Gap between Control and Self-Adaptive System Properties”. In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, DOI: 10.1145/3387939.3391568, _(accepted)_.
+Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. “Towards Bridging the Gap between Control and Self-Adaptive System Properties”. In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 78--84. DOI: 10.1145/3387939.3391568.
 
 ## Links
 * [Open access version](https://arxiv.org/abs/2004.11846){:target="_blank"}
+* [Paper at ACM DL](https://doi.org/10.1145/3387939.3391568){:target="_blank"}
 * [Video of the presentation](https://www.youtube.com/watch?v=YJfujWMQp9g){:target="_blank"}
 
 ## Abstract
@@ -21,11 +22,10 @@ Two of the main paradigms used to build adaptive software employ different types
     author = {Cámara, Javier and Papadopoulos, Alessandro V. and Vogel, Thomas and Weyns, Danny and Garlan, David and Huang, Shihong and Tei, Kenji},
     title = {Towards Bridging the Gap between Control and Self-Adaptive System Properties},
     year = {2020},
-    booktitle = {International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
+    booktitle = {15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
     series = {SEAMS~'20},
     publisher = {ACM},
-    pages = {},
+    pages = {78--84},
     doi = {10.1145/3387939.3391568},
-    note = {(accepted)},
 }</pre>
 </div>

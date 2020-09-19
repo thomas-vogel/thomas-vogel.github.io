@@ -18,12 +18,12 @@ A list of published (extended) abstracts is available [here](abstracts).
 ## 2020
 
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 14.3 (2020), 12:1--12:41.
-* Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, _(accepted)_.
-* Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](2020-SEAMSb). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, _(accepted)_.
+* Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 9--19.
+* Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](2020-SEAMSb). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 78--84.
 * Martin Eberlein, Yannic Noller, Thomas Vogel, and Lars Grunske. [_Evolutionary Grammar-Based Fuzzing_](2020-SSBSEa). In: 12th International Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, _(accepted)_.
 * Sebastian Müller, Thomas Vogel, and Lars Grunske. [_Bet and Run for Test Case Generation_](2020-SSBSEb). In: 12th International Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, _(accepted)_.
-* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_Counterexample Interpretation for Contract-Based Design_](2020-IMBSA). In: 7th International Symposium on Model-Based Safety and Assessment. IMBSA '20. Springer, 2020, _(accepted)_.
-* Bento R. Siqueira, Fabiano C. Ferrari, Thomas Vogel, and Rogério de Lemos. [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](2020-ACSOSC). In: 1st International Conference on Autonomic Computing and Self-Organizing Systems Companion. ACSOS-C '20. IEEE, 2020, _(accepted)_.
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_Counterexample Interpretation for Contract-Based Design_](2020-IMBSA). In: 7th International Symposium on Model-Based Safety and Assessment. IMBSA ’20. Springer, 2020, pp. 99--114.
+* Bento R. Siqueira, Fabiano C. Ferrari, Thomas Vogel, and Rogério de Lemos. [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](2020-ACSOSC). In: 1st International Conference on Autonomic Computing and Self-Organizing Systems Companion. ACSOS-C ’20. IEEE, 2020, pp. 188--193.
 
 ## 2019
 

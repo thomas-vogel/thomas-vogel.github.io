@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Reference
-Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. "Counterexample Interpretation for Contract-Based Design". In: 7th International Symposium on Model-Based Safety and Assessment. IMBSA '20. Springer, 2020, _(accepted)_.
+Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. “Counterexample Interpretation for Contract-Based Design”. In: 7th International Symposium on Model-Based Safety and Assessment. IMBSA ’20. Springer, 2020, pp. 99--114. DOI: 10.1007/978-3-030-58920-2_7.
 
 ## Links
 * [Paper at SpringerLink](https://doi.org/10.1007/978-3-030-58920-2_7){:target="_blank"}
@@ -24,8 +24,7 @@ Contract-based design~(CBD) is an emerging paradigm for complex systems, specify
  booktitle = {7th International Symposium on Model-Based Safety and Assessment},
  series = {IMBSA~'20},
  publisher = {Springer},
- pages = {},
- doi = {},
- note = {(accepted)},
+ pages = {99--114},
+ doi = {10.1007/978-3-030-58920-2_7},
 }</pre>
 </div>
