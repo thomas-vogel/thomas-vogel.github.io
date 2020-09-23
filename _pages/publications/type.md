@@ -29,6 +29,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Journals
 
+* Thomas Vogel, Chinh Tran, and Lars Grunske. [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](2020-IST). In: Information and Software Technology (2020). _(in print)_.
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 14.3 (2020), 12:1--12:41.
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 11.4 (2017), 24:1--24:31.
 * Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 8.4 (2014), 18:1--18:33.
