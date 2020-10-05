@@ -5,10 +5,11 @@ layout: page
 ---
 
 ## Reference
-Martin Eberlein, Yannic Noller, Thomas Vogel, and Lars Grunske. "Evolutionary Grammar-Based Fuzzing". In: 12th International Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, _(accepted)_.
+Martin Eberlein, Yannic Noller, Thomas Vogel, and Lars Grunske. "Evolutionary Grammar-Based Fuzzing". In: 12th Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, pp. 105--120. DOI: 10.1007/978-3-030-59762-7_8.
 
 ## Links
 * [Open access version](https://arxiv.org/abs/2008.01150){:target="_blank"}
+* [Paper at SpringerLink](https://doi.org/10.1007/978-3-030-59762-7_8){:target="_blank"}
 * [Artifact/Code](https://doi.org/10.5281/zenodo.3961374){:target="_blank"}
 
 ## Abstract
@@ -25,8 +26,7 @@ A fuzzer provides randomly generated inputs to a targeted software to expose err
  booktitle = {12th International Symposium on Search-Based Software Engineering},
  series = {SSBSE~'20},
  publisher = {Springer},
- pages = {},
- doi = {},
- note = {(accepted)},
+ pages = {105--120},
+ doi = {10.1007/978-3-030-59762-7_8},
 }</pre>
 </div>

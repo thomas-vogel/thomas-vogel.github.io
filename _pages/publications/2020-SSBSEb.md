@@ -5,10 +5,11 @@ layout: page
 ---
 
 ## Reference
-Sebastian Müller, Thomas Vogel, and Lars Grunske. "Bet and Run for Test Case Generation". In: 12th International Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, _(accepted)_.
+Sebastian Müller, Thomas Vogel, and Lars Grunske. "Bet and Run for Test Case Generation". In: 12th Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, pp. 204--219. DOI: 10.1007/978-3-030-59762-7_15.
 
 ## Links
 * [Open access version](https://arxiv.org/abs/2008.01172){:target="_blank"}
+* [Paper at SpringerLink](https://doi.org/10.1007/978-3-030-59762-7_15){:target="_blank"}
 * [Artifact/Code](https://www.doi.org/10.5281/zenodo.3903206){:target="_blank"}
 
 ## Abstract
@@ -24,8 +25,8 @@ Anyone working in the technology sector is probably familiar with the question: 
  booktitle = {12th International Symposium on Search-Based Software Engineering},
  series = {SSBSE~'20},
  publisher = {Springer},
- pages = {},
- doi = {},
+ pages = {204--219},
+ doi = {10.1007/978-3-030-59762-7_15},
  note = {(accepted)},
 }</pre>
 </div>
