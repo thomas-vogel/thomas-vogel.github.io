@@ -38,6 +38,20 @@ His research interests are in the areas of (search-based) software engineering, 
 </section>
 
 
+## Call for Papers and Artifacts
+
+
+<section class="vcard">
+    <div style="width: 70%; float: left;">
+      <a href="https://conf.researchr.org/home/seams-2021" target="_blank">
+        <img style="width: 95%;" src="https://conf.researchr.org/getImage/seams-2021/orig/logoseams4.png" alt="SEAMS 2021">
+      </a>
+    </div>
+    <div style="margin-left: 0%;">
+      Consider submitting your work on self-adaptive software systems to <a href="https://conf.researchr.org/home/seams-2021" target="_blank">SEAMS 2021</a>. I am chairing the <a href="https://conf.researchr.org/track/seams-2021/seams-2021-papers#Call-for-Artifacts" target="_blank">Artifacts track</a> and welcome your submission. Do not hesitate to contact me if you have any questions about this track.
+    </div>
+</section>
+
 ## Things Happening
 
 * __Sep 2020__ --- Our article [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](publications/2020-IST) has been accepted for publication in the _Information and Software Technology_ journal and it is available [online](publications/2020-IST).
