@@ -42,6 +42,7 @@ Jump to
 ## Program Committee
 
 ### 2021
+* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
 * 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 
 ### 2020
