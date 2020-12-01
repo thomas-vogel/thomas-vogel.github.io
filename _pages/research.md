@@ -48,8 +48,10 @@ Given the increasing level of autonomy, large configuration spaces, or uncertain
 
 # Projects
 
-### Deriving Trust Levels for Multi-Choice Data Analysis Workflows
-A subproject of the [DFG Collaborative Research Center 1404 "FONDA -- Foundations of Workflows for Large-Scale Scientific Data Analysis"](https://fonda.hu-berlin.de/){:target="_blank"}, to which I contribute. The goal of the subproject is to improve the dependability of data analysis workflows in computational materials science by sampling configurations of such workflows and testing based on the NOMAD repository.
+### FONDA -- Foundations of Workflows for Large-Scale Scientific Data Analysis
+As part of the [DFG Collaborative Research Center 1404 "FONDA -- Foundations of Workflows for Large-Scale Scientific Data Analysis"](https://fonda.hu-berlin.de/){:target="_blank"}, I contribute to two subprojects:
+* **Deriving Trust Levels for Multi-Choice Data Analysis Workflows:** The goal of this subproject is to improve the dependability of data analysis workflows in computational materials science by sampling configurations of such workflows and testing based on the NOMAD repository.
+* **Distributed Run-Time Monitoring and Control of Data Analysis Workflows:** The goal of this subproject is to improve the dependability of data analysis workflows by monitoring and controlling such workflows at run-time.
 
 ### Self-Adaptive Search for Sapienz
 Transferring self-adaptation principles to the search process of Sapienz, a search-based test suite generation tool for
