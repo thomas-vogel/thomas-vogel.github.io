@@ -44,18 +44,31 @@ His research interests are in the areas of (search-based) software engineering, 
 <section class="vcard">
     <div style="width: 70%; float: left;">
       <a href="https://conf.researchr.org/home/seams-2021" target="_blank">
-        <img style="width: 95%;" src="https://conf.researchr.org/getImage/seams-2021/orig/logoseams4.png" alt="SEAMS 2021">
+        <img style="width: 95%;" src="https://conf.researchr.org/getImage/seams-2021/orig/logoseams7.png" alt="SEAMS 2021">
       </a>
     </div>
-    <div style="margin-left: 0%;">
+    <div style="margin-left: 0%; margin-bottom: 20px;">
       Consider submitting your work on self-adaptive software systems to <a href="https://conf.researchr.org/home/seams-2021" target="_blank">SEAMS 2021</a>. I am chairing the <a href="https://conf.researchr.org/track/seams-2021/seams-2021-papers#Call-for-Artifacts" target="_blank">Artifacts track</a> and welcome your submission. Do not hesitate to contact me if you have any questions about this track.
     </div>
 </section>
 
+<section class="vcard">
+    <div style="width: 70%; float: left;">
+      <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">
+        <img style="width: 95%;" src="https://conf.researchr.org/getImage/ecsa-2021/orig/logobar-v4.png" alt="ECSA 2021">
+      </a>
+    </div>
+    <div style="margin-left: 0%;">
+      Consider submitting your work on <a href="https://conf.researchr.org/track/ecsa-2021/ecsa-2021-gender-diversity-in-sa" target="_blank">Diversity, Equity and Inclusion (DE&I)</a> in software engineering/architecture to <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">ECSA 2021</a>. I am co-chairing the DE&I track and welcome your submission. Do not hesitate to contact me if you have any questions about this track.
+    </div>
+</section>
+
+
+
 ## Things Happening
 
 * __Sep 2020__ --- Our article [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](publications/2020-IST) has been accepted for publication in the _Information and Software Technology_ journal and it is available [online](publications/2020-IST).
-* __Sep 2020__ --- I will be the Program Committee Co-Chair of the Gender Diversity Track at the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
+* __Sep 2020__ --- I will be the Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
 * __Jul 2020__ --- Our paper [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](publications/2020-ACSOSC) has been accepted to the [ACSOS 2020](https://conf.researchr.org/home/acsos-2020){:target="_blank"} workshop on [_Self-Aware Computing_](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}.
 * __Jul 2020__ --- Two papers accepted at [SSBSE 2020](http://ssbse2020.di.uniba.it/){:target="_blank"}:
   * [_Evolutionary Grammar-Based Fuzzing_](publications/2020-SSBSEa)
