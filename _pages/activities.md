@@ -28,7 +28,7 @@ Jump to
 
 ## Organization Committee
 
-* Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
+* Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"}).
 * Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * Steering committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"}).
@@ -45,6 +45,8 @@ Jump to
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
 * 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 * 15th European Conference on Software Architecture (ECSA), Doctoral Symposium, 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"})
+* Annual Modeling and Simulation Conference (ANNSIM), Theory and Foundations of Modeling and Simulation (TMS) track, 2021 ([Link](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"})
+* 14th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2021 ([Link](https://sbst21.github.io/){:target="_blank"})
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
