@@ -14,10 +14,13 @@ See [my publications by type](/publications/type) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
+## 2021
+
+* Thomas Vogel, Chinh Tran, and Lars Grunske. [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](2020-IST). In: Information and Software Technology (2021). _(Available online 25 September 2020)_.
+
 
 ## 2020
 
-* Thomas Vogel, Chinh Tran, and Lars Grunske. [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](2020-IST). In: Information and Software Technology (2020). _(in print, available online)_.
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 14.3 (2020), 12:1--12:41.
 * Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 9--19.
 * Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](2020-SEAMSb). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 78--84.
