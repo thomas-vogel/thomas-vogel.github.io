@@ -4,8 +4,20 @@ permalink: pastnews.html
 layout: page
 ---
 
+## 2020
+
+* __Mar 2020__ --- Two papers accepted at [SEAMS 2020](https://conf.researchr.org/home/seams-2020){:target="_blank"}:
+  * [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](publications/2020-SEAMSa)
+  * [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](publications/2020-SEAMSb)
+* __Feb 2020__ --- I joined the PCs of the posters and demos track of the [_1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)_](https://2020.acsos.org/){:target="_blank"} and of two ACSOS 2020 workshops: [_4th Workshop on Self-Aware Computing (SeAC)_](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"} and [_1st International Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA)_](https://cyra2020.github.io/){:target="_blank"}.
+* __Jan 2020__ --- Our paper [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](publications/2020-TAAS) has been accepted for publication in ACM Transactions on Autonomous and Adaptive Systems (TAAS).
+* __Jan 2020__ --- I joined the PC of the NIER track at the [_12th International Symposium on Search-Based Software Engineering (SSBSE 2020)_](http://ssbse2020.di.uniba.it/){:target="_blank"}. Submit your new ideas and emerging results on search-based software engineering.
+
 ## 2019
 
+* __Nov 2019__ --- I joined the PCs of the [_Genetic and Evolutionary Computation Conference (GECCO 2020)_](https://gecco-2020.sigevo.org/){:target="_blank"} and the [_13th International Workshop on Search-Based Software Testing (SBST 2020)_](https://sbst20.github.io/){:target="_blank"}. Consider submitting high-quality papers.
+* __Nov 2019__ --- I gave an invited talk on _Self-Adaptive Search for Sapienz_ at the [2019 Facebook Testing and Verification (FaceTAV) Challenge Workshop](https://fbtavworkshop2019.splashthat.com/){:target="_blank"}.
+* __Nov 2019__ --- I gave an invited talk on _Search-Based App Testing, Fitness Landscape Analysis, and Diversity_ ([video](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}) at the [19th HPI Future SOC Lab Day](https://hpi.de/en/events/wissenschaftliche-konferenzen/future-soc-lab/2019/19th-hpi-future-soc-lab-day-fall-2019.html){:target="_blank"} in Potsdam, Germany.
 * __Oct 2019__ --- I am in the PC of the 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2020](https://conf.researchr.org/home/seams-2020){:target="_blank"}). Consider submitting high-quality papers.
 * __Aug 2019__ --- At [SSBSE 2019](http://ssbse19.mines-albi.fr/){:target="_blank"} I have been elected as a member of the steering committee of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}).
 * __Jul 2019__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) Track_](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"} at [ICSE 2020](https://conf.researchr.org/home/icse-2020){:target="_blank"}. Consider submitting your innovative ideas and early results.
