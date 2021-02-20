@@ -47,6 +47,7 @@ Jump to
 * 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 * 15th European Conference on Software Architecture (ECSA), Doctoral Symposium, 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"})
 * Annual Modeling and Simulation Conference (ANNSIM), Theory and Foundations of Modeling and Simulation (TMS) track, 2021 ([Link](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"})
+* 2nd International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Posters and Demo Track, 2021 ([Link](https://conf.researchr.org/track/acsos-2021/acsos-2021-posters-and-demos){:target="_blank"})
 * 14th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2021 ([Link](https://sbst21.github.io/){:target="_blank"})
 
 ### 2020
