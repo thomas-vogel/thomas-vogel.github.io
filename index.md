@@ -67,9 +67,8 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Feb 2021__ --- I joined the PC of the [_2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2021)_](https://conf.researchr.org/home/acsos-2021){:target="_blank"}. Consider submitting high-quality papers.
-* __Dec 2020__ --- I joined the PC of the [_14th International Workshop on Search-Based Software Testing (SBST 2021)_](https://sbst21.github.io/){:target="_blank"}. Consider submitting high-quality papers.
-* __Dec 2020__ --- I joined the PC of the track on [_Theory and Foundations of Modeling and Simulation (TMS 2021)_](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"}, part of the Annual Modeling and Simulation Conference, ANNSIM 2021
 * __Nov 2020__ --- I joined the PC of the [_Doctoral Symposium at the 15th European Conference on Software Architecture (ECSA 2021)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}.
 * __Nov 2020__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2021)_](https://gecco-2021.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
 * __Sep 2020__ --- Our article [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](publications/2020-IST) has been accepted for publication in the _Information and Software Technology_ journal and it is available [online](publications/2020-IST).
@@ -78,10 +77,6 @@ His research interests are in the areas of (search-based) software engineering, 
 * __Jul 2020__ --- Two papers accepted at [SSBSE 2020](http://ssbse2020.di.uniba.it/){:target="_blank"}:
   * [_Evolutionary Grammar-Based Fuzzing_](publications/2020-SSBSEa)
   * [_Bet and Run for Test Case Generation_](publications/2020-SSBSEb)
-* __Jul 2020__ --- Our paper [_Counterexample Interpretation for Contract-Based Design_](publications/2020-IMBSA) has been accepted at [IMBSA 2020](http://easyconferences.eu/imbsa2020/){:target="_blank"}.
-* __Jul 2020__ --- I joined the PC of the [_16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2021)_](https://conf.researchr.org/home/seams-2021){:target="_blank"}.
-* __Jul 2020__ --- The collaborative research center ["FONDA: Foundations of Workflows for Large-Scale Scientific Data Analysis"](https://fonda.hu-berlin.de/){:target="_blank"} funded by the German Research Foundation (DFG) has started. I am involved in the subprojects "Deriving Trust Levels for Multi-Choice Data Analysis Workflows" and "Distributed Run-Time Monitoring and Control of Data Analysis Workflows".
-* __Jun 2020__ --- I will be the Program Committee Chair of the Artifacts track at the [_16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2021)_](https://conf.researchr.org/home/seams-2021){:target="_blank"}.
 
 
 ## Things Happened

@@ -6,6 +6,12 @@ layout: page
 
 ## 2020
 
+* __Dec 2020__ --- I joined the PC of the [_14th International Workshop on Search-Based Software Testing (SBST 2021)_](https://sbst21.github.io/){:target="_blank"}. Consider submitting high-quality papers.
+* __Dec 2020__ --- I joined the PC of the track on [_Theory and Foundations of Modeling and Simulation (TMS 2021)_](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"}, part of the Annual Modeling and Simulation Conference, ANNSIM 2021.
+* __Jul 2020__ --- Our paper [_Counterexample Interpretation for Contract-Based Design_](publications/2020-IMBSA) has been accepted at [IMBSA 2020](http://easyconferences.eu/imbsa2020/){:target="_blank"}.
+* __Jul 2020__ --- I joined the PC of the [_16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2021)_](https://conf.researchr.org/home/seams-2021){:target="_blank"}.
+* __Jul 2020__ --- The collaborative research center ["FONDA: Foundations of Workflows for Large-Scale Scientific Data Analysis"](https://fonda.hu-berlin.de/){:target="_blank"} funded by the German Research Foundation (DFG) has started. I am involved in the subprojects "Deriving Trust Levels for Multi-Choice Data Analysis Workflows" and "Distributed Run-Time Monitoring and Control of Data Analysis Workflows".
+* __Jun 2020__ --- I will be the Program Committee Chair of the Artifacts track at the [_16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2021)_](https://conf.researchr.org/home/seams-2021){:target="_blank"}.
 * __Mar 2020__ --- Two papers accepted at [SEAMS 2020](https://conf.researchr.org/home/seams-2020){:target="_blank"}:
   * [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](publications/2020-SEAMSa)
   * [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](publications/2020-SEAMSb)
