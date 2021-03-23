@@ -16,10 +16,13 @@ His research interests are in the areas of (search-based) software engineering, 
 ## Contact
 
 <section class="vcard">
+    <div style="margin-bottom: 10px">
+    <i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>
+    </div>
     <div>
       You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
       <em>E-mail:</em> {{site.email}}  <br />
-      <em>Phone:</em> +49 (0)30 2093-3153 -- Please contact me by e-mail, I am currently working mostly from home. <br /> <br /> 
+      <em>Phone:</em> +49 (0)30 2093-3153 <br /> <br />
     </div>
     <div class="contactleft">
       <em>Mail Address</em> <br />
