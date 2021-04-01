@@ -51,7 +51,7 @@ His research interests are in the areas of (search-based) software engineering, 
     </div>
     <div style="margin-left: 0%; margin-bottom: 20px;">
       Consider attending <a href="https://conf.researchr.org/home/seams-2021" target="_blank">SEAMS 2021</a>.
-
+      <br />
       I am chairing the <a href="https://conf.researchr.org/track/seams-2021/seams-2021-papers#Call-for-Artifacts" target="_blank">Artifacts track</a> to which four artifacts have been accepted.
       These artifacts are listed at the <a href="https://zenodo.org/communities/seams" target="_blank">SEAMS community at Zenodo</a>.
     </div>
@@ -72,6 +72,7 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Apr 2021__ ---  I joined the PC of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
 * __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Feb 2021__ --- I joined the PC of the [_2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2021)_](https://conf.researchr.org/home/acsos-2021){:target="_blank"}. Consider submitting high-quality papers.
 * __Nov 2020__ --- I joined the PC of the [_Doctoral Symposium at the 15th European Conference on Software Architecture (ECSA 2021)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}.
