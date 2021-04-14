@@ -50,6 +50,7 @@ Jump to
 * Annual Modeling and Simulation Conference (ANNSIM), Theory and Foundations of Modeling and Simulation (TMS) track, 2021 ([Link](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"})
 * 2nd International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Posters and Demo Track, 2021 ([Link](https://conf.researchr.org/track/acsos-2021/acsos-2021-posters-and-demos){:target="_blank"})
 * 14th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2021 ([Link](https://sbst21.github.io/){:target="_blank"})
+* 5th Workshop on Self-Aware Computing (SeAC) at ACSOS, 2021 ([Link](http://seac2021.informatik.uni-wuerzburg.de/){:target="_blank"})
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
