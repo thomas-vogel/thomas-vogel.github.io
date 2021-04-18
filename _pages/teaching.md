@@ -11,7 +11,7 @@ For details, please see the [teaching websites of our research group](https://ww
 ### Summer 2021
 
 * Software Engineering II
-* Model-Based Software Engineering of Embedded Systems
+* Model-Based Software Engineering for Embedded Systems
 
 ### Winter 2020
 
