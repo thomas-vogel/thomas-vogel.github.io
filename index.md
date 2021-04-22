@@ -72,7 +72,7 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
-* __Apr 2021__ ---  I joined the PC of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
+* __Apr 2021__ ---  I joined the PCs of the Research Papers Track and New Ideas and Emerging Results (NIER) Track of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
 * __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Feb 2021__ --- I joined the PC of the [_2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2021)_](https://conf.researchr.org/home/acsos-2021){:target="_blank"}. Consider submitting high-quality papers.
 * __Nov 2020__ --- I joined the PC of the [_Doctoral Symposium at the 15th European Conference on Software Architecture (ECSA 2021)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}.
