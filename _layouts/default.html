@@ -35,6 +35,30 @@
       gtag('config', 'G-L6XK6C29QF');
     </script>
 
+    <!-- ip -->
+    <script>
+    //If the following doesn't work anymore your website is probably blocked because of usage, get the Pro Package at extreme-ip-lookup.com
+     function getIP2(json) {
+       if (json) {
+       	EIPL=json;
+       }
+       if (EIPL.org) {
+       	if (typeof ga === 'function' && typeof ga.getAll === 'function') {
+    		ga(ga.getAll()[0].get('name')+'.send', {
+    		  hitType: 'event',
+    		  dimension1: EIPL.org,
+    		  nonInteraction: true
+    		});
+    	}
+    	else {
+    		setTimeout(function() {getIP2();}, 200);
+    	}
+       }
+     }
+    </script>
+    <script src="//extreme-ip-lookup.com/json/?callback=getIP2" async defer></script>
+    <!-- ip end -->
+
 </head>
 
 <body>
