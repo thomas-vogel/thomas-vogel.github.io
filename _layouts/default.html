@@ -35,6 +35,30 @@
       gtag('config', 'G-L6XK6C29QF');
     </script>
 
+    <!-- ip -->
+    <script>
+     function getIP1(json) {
+       if (json) {
+       	EIPL=json;
+       }
+       if (EIPL.org) {
+       	if (typeof ga === 'function' && typeof ga.getAll === 'function') {
+    		ga(ga.getAll()[0].get('name')+'.send', {
+    		  hitType: 'event',
+    		  eventCategory: 'eXTReMe-IP-Lookup.com',
+    		  eventAction: 'ISP',
+    		  eventLabel: EIPL.org,
+    		  nonInteraction: true
+    		});
+    	}
+    	else {
+    		setTimeout(function() {getIP1();}, 200);
+    	}
+       }
+     }
+    </script>
+    <script src="//extreme-ip-lookup.com/json/?callback=getIP1" async defer></script>
+    <!-- ip end -->
 </head>
 
 <body>
