@@ -52,6 +52,7 @@ Jump to
 * 2nd International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Posters and Demo Track, 2021 ([Link](https://conf.researchr.org/track/acsos-2021/acsos-2021-posters-and-demos){:target="_blank"})
 * 14th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2021 ([Link](https://sbst21.github.io/){:target="_blank"})
 * 5th Workshop on Self-Aware Computing (SeAC) at ACSOS, 2021 ([Link](http://seac2021.informatik.uni-wuerzburg.de/){:target="_blank"})
+* Special Session on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA) as part of the 3rd International Workshop on Self-Protecting Systems (SPS) at ACSOS, 2021 ([Link](https://sites.google.com/view/sps21/cyra-special-session){:target="_blank"})
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
