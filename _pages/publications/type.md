@@ -37,7 +37,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Conferences
 
-* Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. [_How do we Evaluate Self-adaptive Software Systems?_](2021-SEAMS) In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’21. ACM, 2021.
+* Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. [_How do we Evaluate Self-adaptive Software Systems?_](2021-SEAMS) In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '21. IEEE, 2021, pp. 59--70.
 * Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 9--19.
 * Javier Cámara, Alessandro V. Papadopoulos, Thomas Vogel, Danny Weyns, David Garlan, Shihong Huang, and Kenji Tei. [_Towards Bridging the Gap between Control and Self-Adaptive System Properties_](2020-SEAMSb). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 78--84.
 * Martin Eberlein, Yannic Noller, Thomas Vogel, and Lars Grunske. [_Evolutionary Grammar-Based Fuzzing_](2020-SSBSEa). In: 12th Symposium on Search-Based Software Engineering. SSBSE '20. Springer, 2020, pp. 105--120.

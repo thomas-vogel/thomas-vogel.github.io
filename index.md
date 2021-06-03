@@ -72,17 +72,14 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
-* __Apr 2021__ ---  I joined the PCs of the Research Papers Track and New Ideas and Emerging Results (NIER) Track of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
+* __May 2021__ --- Paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been presented at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
+* __Apr 2021__ --- I joined the PCs of the Research Papers Track and New Ideas and Emerging Results (NIER) Track of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
 * __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Feb 2021__ --- I joined the PC of the [_2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2021)_](https://conf.researchr.org/home/acsos-2021){:target="_blank"}. Consider submitting high-quality papers.
 * __Nov 2020__ --- I joined the PC of the [_Doctoral Symposium at the 15th European Conference on Software Architecture (ECSA 2021)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}.
 * __Nov 2020__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2021)_](https://gecco-2021.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
 * __Sep 2020__ --- Our article [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](publications/2020-IST) has been accepted for publication in the _Information and Software Technology_ journal and it is available [online](publications/2020-IST).
 * __Sep 2020__ --- I will be the Program Committee Co-Chair of the [_Diversity, Equity and Inclusion (DE&I)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"} track at the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
-* __Jul 2020__ --- Our paper [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](publications/2020-ACSOSC) has been accepted to the [ACSOS 2020](https://conf.researchr.org/home/acsos-2020){:target="_blank"} workshop on [_Self-Aware Computing_](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}.
-* __Jul 2020__ --- Two papers accepted at [SSBSE 2020](http://ssbse2020.di.uniba.it/){:target="_blank"}:
-  * [_Evolutionary Grammar-Based Fuzzing_](publications/2020-SSBSEa)
-  * [_Bet and Run for Test Case Generation_](publications/2020-SSBSEb)
 
 
 ## Things Happened

@@ -5,10 +5,11 @@ layout: page
 ---
 
 ## Reference
-Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. "How do we Evaluate Self-adaptive Software Systems?" In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’21. ACM, 2021.
+Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. “How do we Evaluate Self-adaptive Software Systems?” In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '21. IEEE, 2021, pp. 59--70. DOI: 10.1109/SEAMS51251.2021.00018.
 
 ## Links
 * [Open access version](https://arxiv.org/abs/2103.11481){:target="_blank"}
+* [Paper at IEEE DL](https://doi.ieeecomputersociety.org/10.1109/SEAMS51251.2021.00018){:target="_blank"}
 * [Protocol and data set of the mapping study](https://doi.org/10.5281/zenodo.4622749){:target="_blank"}
 
 ## Abstract
@@ -18,13 +19,13 @@ With the increase of research in self-adaptive systems, there is a need to bette
 
 <div class="bibtex">
 <pre>@inproceedings{2021-SEAMS,
-  author = {Ilias Gerostathopoulos and \textbf{Thomas Vogel} and Danny Weyns and Patricia Lago},
+  author = {Gerostathopoulos, Ilias and Vogel, Thomas and Weyns, Danny and Lago, Patricia},
   title = {How do we Evaluate Self-adaptive Software Systems?},
   year = {2021},
   booktitle = {16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
   series = {SEAMS~'21},
-  publisher = {ACM},
-  pages = {},
-  doi = {},
+  publisher = {IEEE},
+  pages = {59--70},
+  doi = {10.1109/SEAMS51251.2021.00018},
 }</pre>
 </div>
