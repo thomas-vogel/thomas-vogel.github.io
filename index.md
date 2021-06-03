@@ -22,7 +22,7 @@ His research interests are in the areas of (search-based) software engineering, 
     <div>
       You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
       <em>E-mail:</em> {{site.email}}  <br />
-      <em>Phone:</em> +49 (0)30 2093-3153 <br /> <br />
+      <em>Phone:</em> +49 (0)30 2093-41145 <br /> <br />
     </div>
     <div class="contactleft">
       <em>Mail Address</em> <br />
