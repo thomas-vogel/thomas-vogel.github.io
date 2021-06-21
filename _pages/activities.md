@@ -41,6 +41,9 @@ Jump to
 
 ## Program Committee
 
+### 2022
+* 17th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2022 ([Link](https://conf.researchr.org/home/seams-2022){:target="_blank"})
+
 ### 2021
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
 * 2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS), 2021 ([Link](https://conf.researchr.org/home/acsos-2021){:target="_blank"})
@@ -54,7 +57,6 @@ Jump to
 * 5th Workshop on Self-Aware Computing (SeAC) at ACSOS, 2021 ([Link](http://seac2021.informatik.uni-wuerzburg.de/){:target="_blank"})
 * Special Session on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA) as part of the 3rd International Workshop on Self-Protecting Systems (SPS) at ACSOS, 2021 ([Link](https://sites.google.com/view/sps21/cyra-special-session){:target="_blank"})
 * 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/index.shtml){:target="_blank"})
-
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
