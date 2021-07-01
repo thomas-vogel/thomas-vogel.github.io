@@ -43,6 +43,7 @@ Jump to
 
 ### 2022
 * 17th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2022 ([Link](https://conf.researchr.org/home/seams-2022){:target="_blank"})
+* 16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS), 2022 ([Link](https://vamos2022.isti.cnr.it/){:target="_blank"})
 
 ### 2021
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
