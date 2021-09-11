@@ -8,6 +8,7 @@ layout: page
 
 * __Dec 2020__ --- I joined the PC of the [_14th International Workshop on Search-Based Software Testing (SBST 2021)_](https://sbst21.github.io/){:target="_blank"}. Consider submitting high-quality papers.
 * __Dec 2020__ --- I joined the PC of the track on [_Theory and Foundations of Modeling and Simulation (TMS 2021)_](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"}, part of the Annual Modeling and Simulation Conference, ANNSIM 2021.
+* __Sep 2020__ --- I will be the Program Committee Co-Chair of the [_Diversity, Equity and Inclusion (DE&I)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"} track at the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
 * __Jul 2020__ --- Our paper [_Micro-controllers: Promoting Structurally Flexible Controllers in Self-Aware Computing Systems_](publications/2020-ACSOSC) has been accepted to the [ACSOS 2020](https://conf.researchr.org/home/acsos-2020){:target="_blank"} workshop on [_Self-Aware Computing_](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}.
 * __Jul 2020__ --- Two papers accepted at [SSBSE 2020](http://ssbse2020.di.uniba.it/){:target="_blank"}:
   * [_Evolutionary Grammar-Based Fuzzing_](publications/2020-SSBSEa)

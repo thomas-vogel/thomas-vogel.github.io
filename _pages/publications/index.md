@@ -18,6 +18,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 * Thomas Vogel, Chinh Tran, and Lars Grunske. [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](2020-IST). In: Information and Software Technology (2021). _(Available online 25 September 2020)_.
 * Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. [_How do we Evaluate Self-adaptive Software Systems?_](2021-SEAMS) In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '21. IEEE, 2021, pp. 59--70.
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation_](2021-ICSME-RR). In: Registered Reports Track at the 37th International Conference on Software Maintenance and Evolution (ICSME). ICSME RR '21. 2021.
 
 ## 2020
 

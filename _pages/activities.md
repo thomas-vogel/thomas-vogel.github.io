@@ -30,6 +30,7 @@ Jump to
 
 * Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"}).
 * Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
+* Co-Organizer of the 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
 * Steering committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"}).
 * Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"}).
@@ -42,6 +43,7 @@ Jump to
 ## Program Committee
 
 ### 2022
+* 15th International Conference on Software Testing, Verification and Validation (ICST), 2022 ([Link](https://icst2022.vrain.upv.es/){:target="_blank"})
 * 17th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2022 ([Link](https://conf.researchr.org/home/seams-2022){:target="_blank"})
 * 16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS), 2022 ([Link](https://vamos2022.isti.cnr.it/){:target="_blank"})
 

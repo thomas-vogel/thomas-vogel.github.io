@@ -43,20 +43,6 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Call for Participation, Papers, and Artifacts
 
-<section class="vcard">
-    <div style="width: 64%; float: left;">
-      <a href="https://conf.researchr.org/home/seams-2021" target="_blank">
-        <img style="width: 95%;" src="https://conf.researchr.org/getImage/seams-2021/orig/logoseams7.png" alt="SEAMS 2021">
-      </a>
-    </div>
-    <div style="margin-left: 0%; margin-bottom: 20px;">
-      Consider attending <a href="https://conf.researchr.org/home/seams-2021" target="_blank">SEAMS 2021</a>.
-      <br />
-      I am chairing the <a href="https://conf.researchr.org/track/seams-2021/seams-2021-papers#Call-for-Artifacts" target="_blank">Artifacts track</a> to which four artifacts have been accepted.
-      These artifacts are listed at the <a href="https://zenodo.org/communities/seams" target="_blank">SEAMS community at Zenodo</a>.
-    </div>
-</section>
-
 <section class="vcard" style="margin-top: 10px">
     <div style="width: 64%; float: left;">
       <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">
@@ -64,14 +50,16 @@ His research interests are in the areas of (search-based) software engineering, 
       </a>
     </div>
     <div style="margin-left: 0%;">
-      Consider submitting your work on <a href="https://conf.researchr.org/track/ecsa-2021/ecsa-2021-gender-diversity-in-sa" target="_blank">Diversity, Equity and Inclusion (DE&I)</a> in software architecture to <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">ECSA 2021</a>. I am co-chairing the DE&I track and welcome your submission.
+      Consider attending the <a href="https://conf.researchr.org/track/ecsa-2021/ecsa-2021-gender-diversity-in-sa" target="_blank">Diversity, Equity and Inclusion (DE&I)</a> track as part of <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">ECSA 2021</a>. I am co-chairing the DE&I track and looking forward to your participation.
     </div>
 </section>
 
+[Past calls](pastcalls)
 
 
 ## Things Happening
 
+* __Aug 2021__ --- Our registered report [_A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation_](publications/2021-ICSME-RR) has been accepted to the  [Registered Reports Track](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html){:target="_blank"} at the 37th International Conference on Software Maintenance and Evolution (ICSME 2021).
 * __May 2021__ --- Paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been presented at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Apr 2021__ --- I joined the PCs of the Research Papers Track and New Ideas and Emerging Results (NIER) Track of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
 * __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
@@ -79,8 +67,6 @@ His research interests are in the areas of (search-based) software engineering, 
 * __Nov 2020__ --- I joined the PC of the [_Doctoral Symposium at the 15th European Conference on Software Architecture (ECSA 2021)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}.
 * __Nov 2020__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2021)_](https://gecco-2021.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
 * __Sep 2020__ --- Our article [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](publications/2020-IST) has been accepted for publication in the _Information and Software Technology_ journal and it is available [online](publications/2020-IST).
-* __Sep 2020__ --- I will be the Program Committee Co-Chair of the [_Diversity, Equity and Inclusion (DE&I)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"} track at the 15th European Conference on Software Architecture ([ECSA 2021](https://conf.researchr.org/home/ecsa-2021){:target="_blank"}).
-
 
 ## Things Happened
 * [Here](pastnews)
