@@ -17,7 +17,7 @@ Context: The complexity of modern safety-critical systems in industries keep on 
 
 <div class="bibtex">
 <pre>@inproceedings{2021-ICSME-RR,
- author = {Arut Prakash Kaleeswaran and Arne Nordmann and Thomas Vogel and Lars Grunske},
+ author = {Kaleeswaran, Arut Prakash and Nordmann, Arne and Vogel, Thomas and Grunske, Lars},
  title = {A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation},
  year = {2021},
  booktitle = {Registered Reports Track at the 37th International Conference on Software Maintenance and Evolution (ICSME)},
