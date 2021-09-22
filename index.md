@@ -44,17 +44,24 @@ His research interests are in the areas of (search-based) software engineering, 
 ## Call for Participation, Papers, and Artifacts
 
 <section class="vcard" style="margin-top: 10px">
-    <div style="width: 64%; float: left;">
-      <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">
-        <img style="width: 95%;" src="https://conf.researchr.org/getImage/ecsa-2021/orig/logobar-v4.png" alt="ECSA 2021">
+    <div style="width: 12%; float: left;">
+      <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">
+        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2021">
       </a>
     </div>
     <div style="margin-left: 0%;">
-      Consider attending the <a href="https://conf.researchr.org/track/ecsa-2021/ecsa-2021-gender-diversity-in-sa" target="_blank">Diversity, Equity and Inclusion (DE&I)</a> track as part of <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">ECSA 2021</a>. I am co-chairing the DE&I track and looking forward to your participation.
+      Consider attending the <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">13th Symposium on Search-Based Software Engineering (SSBSE 2021)</a>. Registration is free for all authors and attendants! The registration deadline is Sunday October 3 (midnight UTC).
     </div>
 </section>
 
-[Past calls](pastcalls)
+<BR />
+<section class="vcard" style="margin-top: 25px;">
+<div style="width: 100%;">
+<a href="pastcalls.html">Past Calls</a>
+</div>
+</section>
+
+
 
 
 ## Things Happening
