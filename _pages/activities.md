@@ -4,17 +4,17 @@ permalink: activities.html
 layout: page
 ---
 
-Jump to
-[Awards](#awards),
-[Organization Committee](#organization-committee),
-[Program Committee](#program-committee),
-[Journal Reviewing](#journal-reviewing),
-[Book Reviewing](#book-reviewing),
-[External Reviewer](#external-reviewer),
-[Editor](#editor),
-[Accepted Talks](#accepted-talks),
-[Invited Talks](#invited-talks), and
-[Seminars](#invitations-to-seminars-and-workshops).
+**Contents** <br />
+[- Awards](#awards) <br />
+[- Editor](#editor) <br />
+[- Organization Committee](#organization-committee) <br />
+[- Program Committee](#program-committee) <br />
+[- Journal Reviewing](#journal-reviewing) <br />
+[- Book Reviewing](#book-reviewing) <br />
+[- External Reviewer](#external-reviewer) <br />
+[- Accepted Talks](#accepted-talks) <br />
+[- Invited Talks](#invited-talks) <br />
+[- Invitations to Seminars](#invitations-to-seminars-and-workshops)
 
 ## Awards
 * [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
@@ -24,6 +24,10 @@ Jump to
 * Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT'11).
 * Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT'10).
 * Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT'09).
+
+## Editor
+
+* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Symposium on Adaptive and Self-Managing Systems (SEAMS).
 
 
 ## Organization Committee
@@ -46,6 +50,8 @@ Jump to
 * 15th International Conference on Software Testing, Verification and Validation (ICST), 2022 ([Link](https://icst2022.vrain.upv.es/){:target="_blank"})
 * 17th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2022 ([Link](https://conf.researchr.org/home/seams-2022){:target="_blank"})
 * 16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS), 2022 ([Link](https://vamos2022.isti.cnr.it/){:target="_blank"})
+* 19th Workshop Automotive Software Engineering (ASE) at SE, 2022 ([Link](https://ase-workshop.github.io/2022/){:target="_blank"})
+<!-- * 15th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2022 ([Link](https://sbst22.github.io/){:target="_blank"})-->
 
 ### 2021
 * Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
@@ -217,11 +223,6 @@ Jump to
 [MISE](http://dl.acm.org/citation.cfm?id=1564600){:target="_blank"},
 [SOAR](https://distrinet.cs.kuleuven.be/events/soar/2009/){:target="_blank"},
 [WADS](https://www.cs.kent.ac.uk/events/conf/2009/wads/){:target="_blank"}
-
-
-## Editor
-
-* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"}, webpage of the research community on _Software Engineering for Self-Adaptive Systems_ (since 2014).
 
 
 ## Accepted Talks
