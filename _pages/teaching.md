@@ -4,7 +4,14 @@ permalink: teaching.html
 layout: page
 ---
 
-## Recent Courses at HU Berlin
+## Current Courses at Paderborn University
+
+### Winter 2021
+
+* Requirements Engineering and Software Architecture (lecture, Bachelor)
+* Software Engineering for Self-Adaptive Systems (lecture, Master)
+
+## Past Courses at HU Berlin
 
 For details, please see the [teaching websites of our research group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se/teaching/teachingSS20?set_language=en){:target="_blank"}.
 
