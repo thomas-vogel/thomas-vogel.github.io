@@ -25,15 +25,24 @@ His research interests are in the areas of (search-based) software engineering, 
       <em>E-mail: </em> {{site.email}}  <br />
       <em>Phone:</em> +49 (0)30 2093-41145 (Berlin)<br /> <br />
     </div>
+    <div class="">
+      <em>Visitor/Mail Address in Paderborn</em> <br />
+      Paderborn University <br />
+      Department of Computer Science <br />
+      Office: ZM2.A.02.09. <br />
+      Zukunftsmeile 2 <br />
+      33102 Paderborn
+    </div>
+    <br />
     <div class="contactleft">
-      <em>Mail Address</em> <br />
+      <em>Mail Address in Berlin</em> <br />
       Humboldt-Universität zu Berlin <br />
       Department of Computer Science <br />
       Unter den Linden 6 <br />
       10099 Berlin
     </div>
     <div class="contactright">
-      <em>Visitor Address</em> <br />
+      <em>Visitor Address in Berlin</em> <br />
       Johann von Neumann-Haus <br />
       House IV, 4th floor, room IV.414 <br />
       Rudower Chaussee 25 <br />
