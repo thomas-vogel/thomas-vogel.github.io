@@ -5,6 +5,19 @@ layout: page
 ---
 
 <section class="vcard" style="margin-top: 10px">
+    <div style="width: 12%; float: left;">
+      <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">
+        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2021">
+      </a>
+    </div>
+    <div style="margin-left: 0%;">
+      Consider attending the <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">13th Symposium on Search-Based Software Engineering (SSBSE 2021)</a>. Registration is free for all authors and attendants! The registration deadline is Sunday October 3 (midnight UTC).
+    </div>
+</section>
+
+<BR />
+
+<section class="vcard" style="margin-top: 10px">
     <div style="width: 64%; float: left;">
       <a href="https://conf.researchr.org/home/ecsa-2021" target="_blank">
         <img style="width: 95%;" src="https://conf.researchr.org/getImage/ecsa-2021/orig/logobar-v4.png" alt="ECSA 2021">

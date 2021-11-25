@@ -51,18 +51,10 @@ His research interests are in the areas of (search-based) software engineering, 
 </section>
 
 
+<!--
 ## Call for Participation, Papers, and Artifacts
 
-<section class="vcard" style="margin-top: 10px">
-    <div style="width: 12%; float: left;">
-      <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">
-        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2021">
-      </a>
-    </div>
-    <div style="margin-left: 0%;">
-      Consider attending the <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">13th Symposium on Search-Based Software Engineering (SSBSE 2021)</a>. Registration is free for all authors and attendants! The registration deadline is Sunday October 3 (midnight UTC).
-    </div>
-</section>
+
 
 <BR />
 <section class="vcard" style="margin-top: 25px;">
@@ -70,22 +62,18 @@ His research interests are in the areas of (search-based) software engineering, 
 <a href="pastcalls.html">Past Calls</a>
 </div>
 </section>
-
+-->
 
 
 
 ## Things Happening
 
+* __Nov 2021__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2022)_](https://gecco-2022.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
+* __Nov 2021__ --- I joined the PC of the [_15th International Workshop on Search-Based Software Testing (SBST 2022)_](https://sbst22.github.io/){:target="_blank"}. Consider submitting high-quality papers.
 * __Oct 2021__ --- Starting a new position as stand-in professor for software engineering at [Paderborn University](https://www.uni-paderborn.de/en/){:target="_blank"}.
 * __Sep 2021__ --- I joined the PC of the Research Papers Track of the [_15th International Conference on Software Testing, Verification and Validation (ICST 2022)_](https://icst2022.vrain.upv.es/track/icst-2022-papers){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Aug 2021__ --- Our registered report [_A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation_](publications/2021-ICSME-RR) has been accepted to the  [Registered Reports Track](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html){:target="_blank"} at the 37th International Conference on Software Maintenance and Evolution (ICSME 2021).
 * __May 2021__ --- Paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been presented at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
-* __Apr 2021__ --- I joined the PCs of the Research Papers Track and New Ideas and Emerging Results (NIER) Track of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
-* __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
-* __Feb 2021__ --- I joined the PC of the [_2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2021)_](https://conf.researchr.org/home/acsos-2021){:target="_blank"}. Consider submitting high-quality papers.
-* __Nov 2020__ --- I joined the PC of the [_Doctoral Symposium at the 15th European Conference on Software Architecture (ECSA 2021)_](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}.
-* __Nov 2020__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2021)_](https://gecco-2021.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
-* __Sep 2020__ --- Our article [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](publications/2020-IST) has been accepted for publication in the _Information and Software Technology_ journal and it is available [online](publications/2020-IST).
 
 ## Things Happened
 * [Here](pastnews)

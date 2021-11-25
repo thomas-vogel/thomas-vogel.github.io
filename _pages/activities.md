@@ -47,14 +47,15 @@ layout: page
 ## Program Committee
 
 ### 2022
+* 24th Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2022 ([Link](https://gecco-2022.sigevo.org/){:target="_blank"})
 * 15th International Conference on Software Testing, Verification and Validation (ICST), 2022 ([Link](https://icst2022.vrain.upv.es/){:target="_blank"})
 * 17th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2022 ([Link](https://conf.researchr.org/home/seams-2022){:target="_blank"})
 * 16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS), 2022 ([Link](https://vamos2022.isti.cnr.it/){:target="_blank"})
 * 19th Workshop Automotive Software Engineering (ASE) at SE, 2022 ([Link](https://ase-workshop.github.io/2022/){:target="_blank"})
-<!-- * 15th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2022 ([Link](https://sbst22.github.io/){:target="_blank"})-->
+* 15th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2022 ([Link](https://sbst22.github.io/){:target="_blank"})
 
 ### 2021
-* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
+* 23rd Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2021 ([Link](https://gecco-2021.sigevo.org/){:target="_blank"})
 * 2nd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS), 2021 ([Link](https://conf.researchr.org/home/acsos-2021){:target="_blank"})
 * 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 * 13th International Symposium on Search-Based Software Engineering (SSBSE), Research Papers Track, 2021 ([Link](https://conf.researchr.org/home/ssbse-2021){:target="_blank"})
@@ -69,7 +70,7 @@ layout: page
 
 ### 2020
 * 42th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
-* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2020 ([Link](https://gecco-2020.sigevo.org/){:target="_blank"})
+* 22nd Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2020 ([Link](https://gecco-2020.sigevo.org/){:target="_blank"})
 * 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2020 ([Link](https://conf.researchr.org/home/seams-2020){:target="_blank"})
 * 12th International Symposium on Search-Based Software Engineering (SSBSE), New Ideas and Emerging Results (NIER) Track, 2020 ([Link](http://ssbse2020.di.uniba.it/){:target="_blank"})
 * 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Posters and Demos, 2020 ([Link](https://2020.acsos.org/){:target="_blank"})
@@ -78,7 +79,7 @@ layout: page
 * 1st International Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA) at ACSOS, 2020 ([Link](https://cyra2020.github.io/){:target="_blank"})
 
 ### 2019
-* Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
+* 21st Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2019 ([Link](https://gecco-2019.sigevo.org/){:target="_blank"})
 * 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](http://2019.seams-symposia.org){:target="_blank"})
 * Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS), 2019 ([Link](http://cbsoft2019.ufba.br/#/sbcars){:target="_blank"})
 * Posters, Tools, and Demos Track of the 13th European Conference on Software Architecture (ECSA), 2019 ([Link](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos){:target="_blank"})
