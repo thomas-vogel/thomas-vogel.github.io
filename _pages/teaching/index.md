@@ -1,17 +1,23 @@
 ---
 title: Teaching
-permalink: teaching.html
+permalink: teaching/index.html
 layout: page
 ---
 
-## Current Courses at Paderborn University
+## Courses at Paderborn University
+
+### Summer 2022
+
+* Software Quality Assurance (SQA)
+* [Learning, Optimization, and Assurances for Self-Adaptive Systems (Seminar)](2022S-LOASAS)
+* [Search-Based Software Engineering (Proseminar)](2022S-SBSE)
 
 ### Winter 2021
 
 * Requirements Engineering and Software Architecture (lecture, Bachelor)
 * Software Engineering for Self-Adaptive Systems (lecture, Master)
 
-## Past Courses at HU Berlin
+## Courses at HU Berlin
 
 For details, please see the [teaching websites of our research group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se/teaching/teachingSS20?set_language=en){:target="_blank"}.
 
