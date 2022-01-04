@@ -30,7 +30,9 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Journals
 
-* Thomas Vogel, Chinh Tran, and Lars Grunske. [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](2020-IST). In: Information and Software Technology (2021). _(Available online 25 September 2020)_.
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [A Systematic Literature Review on Counterexample Explanation](2022-ISTa). In: Information and Software Technology (2022), p. 106800. _(Available online 30 December 2021)_.
+* Laura Wartschinski, Yannic Noller, Thomas Vogel, Timo Kehrer, and Lars Grunske. [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](2022-ISTb). In: Information and Software Technology (2022), p. 106809. _(Available online 01 January 2022)_.
+* Thomas Vogel, Chinh Tran, and Lars Grunske. [_A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_](2020-IST). In: Information and Software Technology 130 (2021), p. 106436. _(Available online 25 September 2020)_.
 * Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures_](2020-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 14.3 (2020), 12:1--12:41.
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 11.4 (2017), 24:1--24:31.
 * Thomas Vogel and Holger Giese. [_Model-Driven Engineering of Self-Adaptive Software with EUREMA_](2014-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 8.4 (2014), 18:1--18:33.

@@ -68,12 +68,13 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Jan 2022__ --- Our article [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](publications/2022-ISTb) accepted at the Information and Software Technology journal is available online.
+* __Dec 2021__ --- Our article [_A Systematic Literature Review on Counterexample Explanation_](publications/2022-ISTa) accepted at the Information and Software Technology journal is available online.
 * __Nov 2021__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2022)_](https://gecco-2022.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
 * __Nov 2021__ --- I joined the PC of the [_15th International Workshop on Search-Based Software Testing (SBST 2022)_](https://sbst22.github.io/){:target="_blank"}. Consider submitting high-quality papers.
 * __Oct 2021__ --- Starting a new position as stand-in professor for software engineering at [Paderborn University](https://www.uni-paderborn.de/en/){:target="_blank"}.
 * __Sep 2021__ --- I joined the PC of the Research Papers Track of the [_15th International Conference on Software Testing, Verification and Validation (ICST 2022)_](https://icst2022.vrain.upv.es/track/icst-2022-papers){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Aug 2021__ --- Our registered report [_A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation_](publications/2021-ICSME-RR) has been accepted to the  [Registered Reports Track](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html){:target="_blank"} at the 37th International Conference on Software Maintenance and Evolution (ICSME 2021).
-* __May 2021__ --- Paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been presented at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 
 ## Things Happened
 * [Here](pastnews)
