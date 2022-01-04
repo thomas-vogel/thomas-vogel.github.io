@@ -23,16 +23,17 @@ We observe an increasing level of autonomy of self-adaptive systems that operate
 * assurance techniques to validate and verify self-adaptation ([SEAMS'19](publications/2019-SEAMS), [SEAMS'18](publications/2018-SEAMSb), [SEfSAS'17a](publications/2017-SEFSAS3a), [SEfSAS'17b](publications/2017-SEFSAS3b))
 * control to systematically engineer self-adaptive systems with guarantees ([SEAMS'20a](publications/2020-SEAMSa), [SEAMS'20b](publications/2020-SEAMSb), [TAAS'17](publications/2017-TAAS), [CASaS'17](publications/2017-CASaS))
 * architectures for the design of self-aware computing systems  (see [SACS'17a](publications/2017-SACSa), [SACS'17b](publications/2017-SACSb), [SACS'17c](publications/2017-SACSc), [ACSOSC'20](publications/2020-ACSOSC))
+* evaluation of self-adaptive software systems research ([SEAMS'21](publications/2021-SEAMS))
 
 ### (2) Understanding intelligent methods and making intelligent methods self-adaptive
 Methods from computational and artificial intelligence are typically black-box and therefore arcane for software engineers, which impedes an understanding why certain methods work well and others do not for a specific problem. For this purpose, my goal is to develop explanations that enable such an understanding.
 
 Particularly, I develop explanations of the difficulty of optimization problems in search-based software engineering by analyzing the fitness landscape and thus, the interaction of methods from computational intelligence (esp. evolutionary algorithms) with the related search spaces. The explanations enable a better understanding of the search problems and methods (cf. [FLASH](#projects) project). One example is:
-* a fitness landscape analysis for the search problem of generating test suites for mobile applications, which is solved by evolutionary algorithms, which identified a lack of diversity of test suites during the search potentially causing a stagnation of the search process ([SSBSE'19](publications/2019-SSBSE)).
+* a fitness landscape analysis for the search problem of generating test suites for mobile applications, which is solved by evolutionary algorithms, which identified a lack of diversity of test suites during the search potentially causing a stagnation of the search process ([SSBSE'19](publications/2019-SSBSE), [IST'21](publications/2020-IST)).
 
 <br />
 The gained understanding could then help in configuring a method to yield better results for a specific problem. In this context, I envision _self-adaptive intelligent methods_ that automatically and dynamically configure themselves at run-time. For instance:
-* I transferred self-adaptation principles to the generation test suites for mobile applications, particularly by equipping the evolutionary algorithm for generating test suites with a feedback loop that automatically and dynamically adapts the search strategy if the diversity of test suites decreases ([SSBSE'19](publications/2019-SSBSE) and research project [_Self-Adaptive Search for Sapienz_](#projects)).
+* I transferred self-adaptation principles to the generation test suites for mobile applications, particularly by equipping the evolutionary algorithm for generating test suites with a feedback loop that automatically and dynamically adapts the search strategy if the diversity of test suites decreases ([SSBSE'19](publications/2019-SSBSE), [IST'21](publications/2020-IST) and research project [_Self-Adaptive Search for Sapienz_](#projects)).
 
 <br />
 Since the techniques to develop explanations are generic, they can be also applied to optimization problems in self-adaptive software systems such as finding optimal adaptation plans and system configurations.
@@ -43,7 +44,7 @@ Besides aiming for a better understanding of intelligent methods, I am interesti
 Given the increasing level of autonomy, large configuration spaces, or uncertainty of software systems, assuring such systems has become a major challenge ([SEfSAS'17a](publications/2017-SEFSAS3a), [SE4Science'19](publications/2019-SE4Science)). The use of formal methods (e.g., model checking), and the interpretation of the results of such methods (e.g., a counterexample) are often difficult, error-prone, and costly. My goal is to make such methods practically usable, for instance by:
 * following a model-based approach to tame the complexity of safety analysis ([IMBSA'19](publications/2019-IMBSA))
 * integrating natural language-based property specification patterns (cf. [Safe.Spec](#projects) project)
-* improving the explainability and interpretation of counterexamples ([IMBSA'20](publications/2020-IMBSA))
+* improving the explainability and interpretation of counterexamples ([IMBSA'20](publications/2020-IMBSA), [ICSME-RR'21](publications/2021-ICSME-RR), [IST'22a](publications/2022-ISTa))
 
 
 # Projects
