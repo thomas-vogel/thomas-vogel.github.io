@@ -9,9 +9,9 @@ layout: home
 </div>
 
 Thomas is currently [stand-in professor for empirical software engineering at Paderborn University](https://www.uni-paderborn.de/person/92621){:target="_blank"}, Germany and on leave from his position as a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany.
-Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"}/[University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, Germany, where he received his [Ph.D.](publications/phd) degree with summa cum laude.
+Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"}/ [University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, Germany, where he received his [Ph.D.](publications/phd) degree with summa cum laude.
 He graduated with a university diploma in Information Systems and with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}, Germany.
-His research interests are in the areas of (search-based) software engineering, model-driven engineering, self-adaptive and intelligent/autonomous software systems, and automated quality assurance of software as well as the combination of these areas.
+His research interests are in the areas of (search-based) software engineering, model-driven engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
 ## Contact
 
@@ -19,17 +19,18 @@ His research interests are in the areas of (search-based) software engineering, 
     <div style="margin-bottom: 10px">
     <!--<i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>-->
     </div>
-    <div>
+    <div class="contactleft">
+    <em>Twitter, e-mail, and phone</em><br />
       You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
       <em>E-mail: </em> thomas.vogel (at) uni-paderborn.de <br />
       <em>E-mail: </em> {{site.email}}  <br />
       <em>Phone:</em> +49 (0)30 2093-41145 (Berlin)<br /> <br />
     </div>
-    <div class="">
+    <div class="contactright">
       <em>Visitor/Mail Address in Paderborn</em> <br />
       Paderborn University <br />
       Department of Computer Science <br />
-      Office: ZM2.A.02.09. <br />
+      Office: ZM2.A.02.09 <br />
       Zukunftsmeile 2 <br />
       33102 Paderborn
     </div>
