@@ -16,9 +16,9 @@ His research interests are in the areas of (search-based) software engineering, 
 ## Contact
 
 <section class="vcard">
-    <div style="margin-bottom: 10px">
-    <!--<i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>-->
-    </div>
+    <!--<div style="margin-bottom: 10px">
+    <i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>
+    </div>-->
     <div class="contactleft">
     <em>Twitter, e-mail, and phone</em><br />
       You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
@@ -69,6 +69,9 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Jan 2022__ --- Happy to receive a _2021 Best Reviewer Award_ of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}). I am among the "Top 1% of SoSyM Reviewers" for 2021.
+
+<a href="/assets/img/2021-SoSyM-ReviewAward.png"><img src="/assets/img/2021-SoSyM-ReviewAward.png" alt="SySyM Best Reviewer Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
 * __Jan 2022__ --- Our article [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](publications/2022-ISTb) accepted at the Information and Software Technology journal is available online.
 * __Dec 2021__ --- Our article [_A Systematic Literature Review on Counterexample Explanation_](publications/2022-ISTa) accepted at the Information and Software Technology journal is available online.
 * __Nov 2021__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2022)_](https://gecco-2022.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
