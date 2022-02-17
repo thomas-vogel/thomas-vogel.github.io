@@ -33,6 +33,7 @@ layout: page
 
 ## Organization Committee
 
+* Workshop Co-Chair of the Gesellschaft für Informatik (GI) conference on Software Engineering (SE), 2023
 * Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"}).
 * Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * Co-Organizer of the 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
