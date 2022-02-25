@@ -49,6 +49,7 @@ layout: page
 ## Program Committee
 
 ### 2022
+* 37th International Conference on Automated Software Engineering (ASE), New Ideas and Emerging Results (NIER) track, 2022 ([Link](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"})
 * 24th Genetic and Evolutionary Computation Conference (GECCO), Search-Based Software Engineering Track, 2022 ([Link](https://gecco-2022.sigevo.org/){:target="_blank"})
 * 15th International Conference on Software Testing, Verification and Validation (ICST), 2022 ([Link](https://icst2022.vrain.upv.es/){:target="_blank"})
 * 3rd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS), 2022 ([Link](https://conf.researchr.org/home/acsos-2022){:target="_blank"})
@@ -258,7 +259,7 @@ layout: page
 
 ## Invitations to Seminars and Workshops
 
-* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (postponed due to COVID-19).
+* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (postponed to 07/2023 due to COVID-19).
 * 3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
 * _Facebook Testing and Verification (FaceTAV) Challenge_ [_Workshop_](https://fbtavworkshop2019.splashthat.com/){:target="_blank"} and [_Symposium_](https://fbtavsymposium2019.splashthat.com/){:target="_blank"}, London, UK, 11/2019.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
