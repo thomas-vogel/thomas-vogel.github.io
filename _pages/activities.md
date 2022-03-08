@@ -127,6 +127,7 @@ layout: page
 * ACM Transactions on Autonomous and Adaptive Systems (TAAS)
 * Software and Systems Modeling (SOSYM)
 * IEEE Software
+* Automated Software Engineering
 * PeerJ
 * Journal of Systems and Software (JSS)
 * Journal of Systems and Software (JSS), Special Issue on State of the Art in Self-Adaptive Software Systems
