@@ -10,7 +10,7 @@ layout: page
 
 * Software Quality Assurance (lecture, Bachelor)
 * [Learning, Optimization, and Assurances for Self-Adaptive Systems (Seminar, Master)](2022S-LOASAS)
-* [Search-Based Software Engineering (Seminar, Bachelor)](2022S-SBSE)
+* [L.079.07501 Proseminar: Search-Based Software Engineering (Bachelor)](2022S-SBSE)
 
 ### Winter 2021
 
