@@ -8,9 +8,9 @@ layout: page
 
 ### Summer 2022
 
-* Software Quality Assurance (SQA)
-* [Learning, Optimization, and Assurances for Self-Adaptive Systems (Seminar)](2022S-LOASAS)
-* [Search-Based Software Engineering (Proseminar)](2022S-SBSE)
+* Software Quality Assurance (lecture, Bachelor)
+* [Learning, Optimization, and Assurances for Self-Adaptive Systems (Seminar, Master)](2022S-LOASAS)
+* [Search-Based Software Engineering (Seminar, Bachelor)](2022S-SBSE)
 
 ### Winter 2021
 
