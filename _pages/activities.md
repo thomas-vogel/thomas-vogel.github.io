@@ -138,6 +138,7 @@ layout: page
 
 ## Book Reviewing
 
+* LNCS Book _ECSA 2021 Post-proceedings_
 * [Springer Book on _Self-Aware Computing Systems_](https://doi.org/10.1007/978-3-319-47474-8){:target="_blank"}
 * [LNCS Book _Models@run.time_](https://doi.org/10.1007/978-3-319-08915-7){:target="_blank"}
 
