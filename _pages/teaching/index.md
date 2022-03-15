@@ -8,14 +8,14 @@ layout: page
 
 ### Summer 2022
 
-* Software Quality Assurance (lecture, Bachelor)
-* [Learning, Optimization, and Assurances for Self-Adaptive Systems (Seminar, Master)](2022S-LOASAS)
-* [L.079.07501 Proseminar: Search-Based Software Engineering (Bachelor)](2022S-SBSE)
+* [L.079.05805 Software Quality Assurance (Lecture, Master)](2022S-SQA)
+* [L.079.07501 Search-Based Software Engineering (Proseminar, Bachelor)](2022S-SBSE)
+* [L.079.08007 Learning, Optimization, and Assurances for Self-Adaptive Systems (Seminar, Master)](2022S-LOASAS)
 
 ### Winter 2021
 
-* Requirements Engineering and Software Architecture (lecture, Bachelor)
-* Software Engineering for Self-Adaptive Systems (lecture, Master)
+* [L.079.05544 Requirements Engineering and Software Architecture (Lecture, Bachelor)](2021W-RESA)
+* [L.079.05796 Software Engineering for Self-Adaptive Systems (Lecture, Master)](2021W-SEfSAS)
 
 ## Courses at HU Berlin
 

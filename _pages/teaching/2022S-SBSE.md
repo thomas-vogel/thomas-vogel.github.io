@@ -1,5 +1,5 @@
 ---
-title: L.079.07501 Proseminar&#58; Search-Based Software Engineering
+title: L.079.07501 Search-Based Software Engineering
 permalink: teaching/2022S-SBSE.html
 layout: page
 ---
