@@ -9,10 +9,10 @@ Proseminar, Summer 2022, Bachelor Studies, University of Paderborn
 [Course in PANDA](https://panda.uni-paderborn.de/course/view.php?id=33922){:target="_blank"}
 
 ## Description
-In _search-based software engineering (SBSE)_, we aim to automate the solving of software engineering problems. For this purpose, a software engineering problem is reformulated as a search problem, in which optimal or near-optimal solutions should be found in a search space of candidate solutions. To realize the search, technqiues from operations research, search-based optimization, and computational intelligence (evolutionarly algorithms) are used.
+In _search-based software engineering (SBSE)_, we aim to automate the solving of software engineering problems. For this purpose, a software engineering problem is reformulated as a search problem, in which optimal or near-optimal solutions should be found in a search space of candidate solutions. To realize the search, techniques from operations research, search-based optimization, and computational intelligence (evolutionary algorithms) are used.
 
-In this seminar we will discuss fundamentals of SBSE and different problem areas such as automated design, test generation, test prioritization, crash reproduction, and program repair, as well as genetic programming.
-Besides learning fundamentals of SBSE and specific techniques for different problem areas, you will gain practical experience in using search-based tools.
+In this seminar, we will discuss the fundamentals of SBSE and different problem areas such as automated design, test generation, test prioritization, crash reproduction, program repair, as well as genetic programming.
+Besides learning the fundamentals of SBSE and specific techniques for different problem areas, you will gain practical experience in using search-based tools.
 
 Topics will be announced in PANDA.
 
