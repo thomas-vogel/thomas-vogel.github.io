@@ -7,6 +7,8 @@ layout: page
 
 ## 2021
 
+* __Sep 2021__ --- I joined the PC of the Research Papers Track of the [_15th International Conference on Software Testing, Verification and Validation (ICST 2022)_](https://icst2022.vrain.upv.es/track/icst-2022-papers){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
+* __Aug 2021__ --- Our registered report [_A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation_](publications/2021-ICSME-RR) has been accepted to the  [Registered Reports Track](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html){:target="_blank"} at the 37th International Conference on Software Maintenance and Evolution (ICSME 2021).
 * __May 2021__ --- Paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been presented at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
 * __Apr 2021__ --- I joined the PCs of the Research Papers Track and New Ideas and Emerging Results (NIER) Track of the [_13th International Symposium on Search-Based Software Engineering (SSBSE 2021)_](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}. Consider submitting high-quality SBSE papers.
 * __Mar 2021__ --- Our paper [_How do we Evaluate Self-adaptive Software Systems?_](publications/2021-SEAMS) has been accepted at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2021](https://conf.researchr.org/home/seams-2021){:target="_blank"}).
