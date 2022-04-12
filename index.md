@@ -77,9 +77,6 @@ His research interests are in the areas of (search-based) software engineering, 
 <a href="/assets/img/2021-SoSyM-ReviewAward.png"><img src="/assets/img/2021-SoSyM-ReviewAward.png" alt="SySyM Best Reviewer Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
 * __Jan 2022__ --- Our article [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](publications/2022-ISTb) accepted at the Information and Software Technology journal is available online.
 * __Dec 2021__ --- Our article [_A Systematic Literature Review on Counterexample Explanation_](publications/2022-ISTa) accepted at the Information and Software Technology journal is available online.
-* __Nov 2021__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2022)_](https://gecco-2022.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
-* __Nov 2021__ --- I joined the PC of the [_15th International Workshop on Search-Based Software Testing (SBST 2022)_](https://sbst22.github.io/){:target="_blank"}. Consider submitting high-quality papers.
-* __Oct 2021__ --- Starting a new position as stand-in professor for empirical software engineering at [Paderborn University](https://www.uni-paderborn.de/en/){:target="_blank"}.
 
 ## Things Happened
 * [Here](pastnews)
