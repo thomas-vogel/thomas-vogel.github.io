@@ -20,11 +20,10 @@ His research interests are in the areas of (search-based) software engineering, 
     <i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>
     </div>-->
     <div class="contactleft">
-    <em>Twitter, e-mail, and phone</em><br />
+    <em>Twitter and e-mail</em><br />
       You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
       <em>E-mail: </em> thomas.vogel (at) uni-paderborn.de <br />
-      <em>E-mail: </em> {{site.email}}  <br />
-      <em>Phone:</em> +49 (0)30 2093-41145 (Berlin)<br /> <br />
+      <em>E-mail: </em> {{site.email}}  <br /> <br />
     </div>
     <div class="contactright">
       <em>Visitor/Mail Address in Paderborn</em> <br />
