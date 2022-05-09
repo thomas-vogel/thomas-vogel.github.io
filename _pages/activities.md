@@ -55,6 +55,7 @@ layout: page
 * 15th International Conference on Software Testing, Verification and Validation (ICST), 2022 ([Link](https://icst2022.vrain.upv.es/){:target="_blank"})
 * 3rd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS), 2022 ([Link](https://conf.researchr.org/home/acsos-2022){:target="_blank"})
 * 17th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2022 ([Link](https://conf.researchr.org/home/seams-2022){:target="_blank"})
+* 14th International Symposium on Search-Based Software Engineering (SSBSE), Research Papers Track, 2022 ([Link](https://conf.researchr.org/home/ssbse-2022){:target="_blank"})
 * 16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS), 2022 ([Link](https://vamos2022.isti.cnr.it/){:target="_blank"})
 * 19th Workshop Automotive Software Engineering (ASE) at SE, 2022 ([Link](https://ase-workshop.github.io/2022/){:target="_blank"})
 * 15th International Workshop on Search-Based Software Testing (SBST), co-located with ICSE, 2022 ([Link](https://sbst22.github.io/){:target="_blank"})
