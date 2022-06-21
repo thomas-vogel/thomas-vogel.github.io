@@ -50,10 +50,19 @@ His research interests are in the areas of (search-based) software engineering, 
 </section>
 
 
-<!--
-## Call for Participation, Papers, and Artifacts
 
+## Call for Papers
 
+<section class="vcard" style="margin-top: 10px">
+    <div style="width: 12%; float: left;">
+      <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">
+        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2022 Challenge Track">
+      </a>
+    </div>
+    <div style="margin-left: 0%;">
+      Consider submitting to the <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">Challenge Track of the 14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. All accepted submissions will compete for cash prizes totalling up to €1000. The submission deadline is Fri 22 July 2022.
+    </div>
+</section>
 
 <BR />
 <section class="vcard" style="margin-top: 25px;">
@@ -61,8 +70,6 @@ His research interests are in the areas of (search-based) software engineering, 
 <a href="pastcalls.html">Past Calls</a>
 </div>
 </section>
--->
-
 
 
 ## Things Happening
