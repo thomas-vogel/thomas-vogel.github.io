@@ -8,8 +8,8 @@ layout: home
 <br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
 </div>
 
-Thomas is currently [stand-in professor for Empirical Software Engineering at Paderborn University](https://www.uni-paderborn.de/en/person/92621){:target="_blank"}, Germany. Previously, he was a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}, Germany, after being a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"}/ [University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, Germany, where he received his [Ph.D.](publications/phd) degree with summa cum laude.
-He graduated with a university diploma in Information Systems and with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}, Germany.
+Thomas is currently a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} (Prof. Lars Grunske) at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}. From 10/2021 to 09/2022, he was a [stand-in professor for Empirical Software Engineering at Paderborn University](https://www.uni-paderborn.de/en/person/92621){:target="_blank"}. Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} (Prof. Holger Giese) at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"}/[University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, where he received his [Ph.D.](publications/phd) degree with summa cum laude in 2018.
+He graduated with a university diploma in Information Systems and with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
 His research interests are in the areas of (search-based) software engineering, model-driven engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
 ## Contact
@@ -21,16 +21,17 @@ His research interests are in the areas of (search-based) software engineering, 
     <div class="contactleft">
     <em>Twitter and e-mail</em><br />
       You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
-      <em>E-mail: </em> thomas.vogel (at) uni-paderborn.de <br />
-      <em>E-mail: </em> {{site.email}}  <br /> <br />
+      <em>E-mail: </em> {{site.email}}  <br />
+      <em>E-mail: </em> thomas.vogel (at) uni-paderborn.de <br /> <br />
     </div>
     <div class="contactright">
-      <em>Visitor/Mail Address in Paderborn</em> <br />
+      <!--<em>Visitor/Mail Address in Paderborn</em> <br />
       Paderborn University <br />
       Department of Computer Science <br />
       Office: ZM2.A.02.09 <br />
       Zukunftsmeile 2 <br />
-      33102 Paderborn
+      33102 Paderborn -->
+      <BR /><BR /><BR /><BR />
     </div>
     <br />
     <div class="contactleft">
@@ -51,7 +52,7 @@ His research interests are in the areas of (search-based) software engineering, 
 
 
 
-## Call for Papers
+## Calls
 
 <section class="vcard" style="margin-top: 10px">
     <div style="width: 12%; float: left;">
@@ -60,7 +61,7 @@ His research interests are in the areas of (search-based) software engineering, 
       </a>
     </div>
     <div style="margin-left: 0%;">
-      Consider submitting to the <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">Challenge Track of the 14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. All accepted submissions will compete for cash prizes totalling up to €1000. The submission deadline is Fri 22 July 2022.
+      Consider attending the <a href="https://conf.researchr.org/home/ssbse-2022" target="_blank">14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. It will be co-located with ESEC/FSE in Singapore and there will be an online program.
     </div>
 </section>
 
@@ -72,7 +73,7 @@ His research interests are in the areas of (search-based) software engineering, 
         <img style="width: 95%;" src="https://se-2023.gi.de/fileadmin/_processed_/1/0/csm_Header_orange_f6fc661cbe.png" alt="SE 2023">
       </a>
       <BR />
-      Consider submitting a <a href="https://se-2023.gi.de/calls/workshop-vorschlaege" target="_blank">workshop proposal</a> to the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in February 2023. As a workshop co-chair, I am looking forward to your proposals.
+      Consider attending the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in 02/2023.
     </div>
 </section>
 
@@ -86,6 +87,9 @@ His research interests are in the areas of (search-based) software engineering, 
 
 ## Things Happening
 
+* __Oct 2022__ --- Our article [_Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation_](publications/2022-SEN) has been published in the SIGSOFT Software Engineering Notes.
+* __Sep 2022__ --- I joined the PC of the [_18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)_](https://conf.researchr.org/home/seams-2023){:target="_blank"}.
+* __Jul 2022__ --- I joined the PC of the Research Papers Track of the [_16th International Conference on Software Testing, Verification and Validation (ICST 2023)_](https://conf.researchr.org/home/icst-2023){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Apr 2022__ --- The summer semester is starting and I will offer a lecture on _Software Quality Assurance_ and two seminars, one on _Learning, Optimization, and Assurances for Self-Adaptive Systems_ and one on _Search-Based Software Engineering_. See my [teaching page](teaching) for details.
 * __Mar 2022__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) track_](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"} of the [_37th International Conference on Automated Software Engineering (ASE 2022)_](https://conf.researchr.org/home/ase-2022){:target="_blank"}. Consider submitting your new ideas and emerging results on automated software engineering.
 * __Feb 2022__ --- I joined the PC of the [3rd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2022)](https://conf.researchr.org/home/acsos-2022){:target="_blank"}. Consider submitting your research results on self-adaptive systems.

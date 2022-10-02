@@ -16,8 +16,9 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## 2022
 
-* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [A Systematic Literature Review on Counterexample Explanation](2022-ISTa). In: Information and Software Technology 145 (2022), p. 106800. _(Available online 30 December 2021)_.
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A Systematic Literature Review on Counterexample Explanation_](2022-ISTa). In: Information and Software Technology 145 (2022), p. 106800. _(Available online 30 December 2021)_.
 * Laura Wartschinski, Yannic Noller, Thomas Vogel, Timo Kehrer, and Lars Grunske. [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](2022-ISTb). In: Information and Software Technology 144 (2022), p. 106809. _(Available online 01 January 2022)_.
+* Danny Weyns, Ilias Gerostathopoulos, Barbora Buhnova, Nicolás Cardozo, Emilia Cioroaica, Ivana Dusparic, Lars Grunske, Pooyan Jamshidi, Christine Julien, Judith Michael, Gabriel Moreno, Shiva Nejati, Patrizio Pelliccione, Federico Quin, Genaina Rodrigues, Bradley Schmerl, Marco Vieira, Thomas Vogel, and Rebekka Wohlrab. [_Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation_](2022-SEN). In: SIGSOFT Softw. Eng. Notes 47.4 (2022), pp. 18--24.
 
 
 ## 2021

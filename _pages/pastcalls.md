@@ -6,6 +6,31 @@ layout: page
 
 <section class="vcard" style="margin-top: 10px">
     <div style="width: 12%; float: left;">
+      <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">
+        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2022 Challenge Track">
+      </a>
+    </div>
+    <div style="margin-left: 0%;">
+      Consider submitting to the <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">Challenge Track of the 14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. All accepted submissions will compete for cash prizes totalling up to €1000. The submission deadline is Fri 22 July 2022.
+    </div>
+</section>
+
+<BR />
+
+<section class="vcard" style="margin-top: 10px;">
+    <div style="width: 100%; float: left; margin-bottom: 25px;">
+      <a href="https://se-2023.gi.de/" target="_blank">
+        <img style="width: 95%;" src="https://se-2023.gi.de/fileadmin/_processed_/1/0/csm_Header_orange_f6fc661cbe.png" alt="SE 2023">
+      </a>
+      <BR />
+      Consider submitting a <a href="https://se-2023.gi.de/calls/workshop-vorschlaege" target="_blank">workshop proposal</a> to the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in February 2023. As a workshop co-chair, I am looking forward to your proposals.
+    </div>
+</section>
+
+<BR />
+
+<section class="vcard" style="margin-top: 10px">
+    <div style="width: 12%; float: left;">
       <a href="https://conf.researchr.org/home/ssbse-2021" target="_blank">
         <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2021">
       </a>
