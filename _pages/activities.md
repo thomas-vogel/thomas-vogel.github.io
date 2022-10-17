@@ -49,11 +49,15 @@ layout: page
 
 ## Program Committee
 
+### 2024
+* 46th Intl. Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})
+
 ### 2023
 * 16th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2023){:target="_blank"})
-* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"})
+* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Research Track
+* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
+* 20th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2023/){:target="_blank"}) at SE
 * Software Engineering im Unterricht der Hochschulen ([SEUH](https://www.seuh.org/seuh2023/){:target="_blank"})
-
 
 ### 2022
 * 37th Intl. Conference on Automated Software Engineering (ASE), New Ideas and Emerging Results ([NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"})
