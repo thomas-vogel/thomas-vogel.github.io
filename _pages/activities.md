@@ -18,7 +18,7 @@ layout: page
 
 ## Awards
 *  [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
-* [_Facebook Testing and Verification Research Award_](https://research.fb.com/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
+* [_Facebook Testing and Verification Research Award_](https://research.facebook.com/blog/2018/10/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
 * [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}).
 *  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%).
 * Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'12).
@@ -277,8 +277,8 @@ layout: page
 
 * NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (postponed to 07/2023 due to COVID-19).
 * 3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
-* _Facebook Testing and Verification (FaceTAV) Challenge_ [_Workshop_](https://fbtavworkshop2019.splashthat.com/){:target="_blank"} and [_Symposium_](https://fbtavsymposium2019.splashthat.com/){:target="_blank"}, London, UK, 11/2019.
-* _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://facebooktestingverificationsum.splashthat.com/){:target="_blank"}, London, UK, 11/2018.
+* _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://research.facebook.com/blog/2019/12/facebook-hosts-third-annual-testing-and-verification-symposium-in-london/){:target="_blank"}, London, UK, 11/2019.
+* _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://research.facebook.com/blog/2018/11/testing-and-verification-symposium-2018/){:target="_blank"}, London, UK, 11/2018.
 * [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
 * Dagstuhl Workshop on [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
 *  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](https://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
