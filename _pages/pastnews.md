@@ -7,6 +7,7 @@ layout: page
 
 ## 2021
 
+* __Dec 2021__ --- Our article [_A Systematic Literature Review on Counterexample Explanation_](publications/2022-ISTa) accepted at the Information and Software Technology journal is available online.
 * __Nov 2021__ --- I joined the PC of the [_Genetic and Evolutionary Computation Conference (GECCO 2022)_](https://gecco-2022.sigevo.org/){:target="_blank"}. Consider submitting high-quality papers.
 * __Nov 2021__ --- I joined the PC of the [_15th International Workshop on Search-Based Software Testing (SBST 2022)_](https://sbst22.github.io/){:target="_blank"}. Consider submitting high-quality papers.
 * __Oct 2021__ --- Starting a new position as stand-in professor for empirical software engineering at [Paderborn University](https://www.uni-paderborn.de/en/){:target="_blank"}.
