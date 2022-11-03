@@ -43,7 +43,7 @@ Besides aiming for a better understanding of intelligent methods, I am interesti
 ### (3) Practical and explainable verification of software systems
 Given the increasing level of autonomy, large configuration spaces, or uncertainty of software systems, assuring such systems has become a major challenge ([SEfSAS'17a](publications/2017-SEFSAS3a), [SE4Science'19](publications/2019-SE4Science)). The use of formal methods (e.g., model checking), and the interpretation of the results of such methods (e.g., a counterexample) are often difficult, error-prone, and costly. My goal is to make such methods practically usable, for instance by:
 * following a model-based approach to tame the complexity of safety analysis ([IMBSA'19](publications/2019-IMBSA))
-* integrating natural language-based property specification patterns (cf. [Safe.Spec](#projects) project)
+* integrating natural language-based property specification patterns ([IST'22c](publications/2022-ISTc))
 * improving the explainability and interpretation of counterexamples ([IMBSA'20](publications/2020-IMBSA), [ICSME-RR'21](publications/2021-ICSME-RR), [IST'22a](publications/2022-ISTa))
 
 
