@@ -1,14 +1,56 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,300,600"');
-
 /*
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,300,600"');
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif');
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,700,300italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Inconsolata:400,700);
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 */
+
+/* Serve Google fonts locally. Font files can be loaded down once from https://google-webfonts-helper.herokuapp.com/fonts and stored on local server. */
+/* raleway-300 - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/raleway-v28-latin-300.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/raleway-v28-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/raleway-v28-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/raleway-v28-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/raleway-v28-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/raleway-v28-latin-300.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-regular - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/raleway-v28-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/raleway-v28-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/raleway-v28-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/raleway-v28-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/raleway-v28-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/raleway-v28-latin-regular.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-600 - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/raleway-v28-latin-600.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/raleway-v28-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/raleway-v28-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/raleway-v28-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/raleway-v28-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/raleway-v28-latin-600.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* end of fonts */
+
 /* @import "reset"; */
 /* http://meyerweb.com/eric/tools/css/reset/ */
 
