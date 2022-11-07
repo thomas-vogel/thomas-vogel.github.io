@@ -87,7 +87,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## Things Happening
 
-* __Nov 2022__ --- Our article [_A property specification pattern catalog for real-time system verification with UPPAAL_](publications/2022-ISTc) accepted at the Information and Software Technology journal is available online.
+* __Nov 2022__ --- Our article [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](publications/2022-ISTc) accepted at the Information and Software Technology journal is available online.
 * __Oct 2022__ --- I joined the PC of the Technical Track of the [_46th International Conference on Software Engineering (ICSE 2024)_](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"}.
 * __Oct 2022__ --- Our article [_Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation_](publications/2022-SEN) has been published in the SIGSOFT Software Engineering Notes.
 * __Sep 2022__ --- I joined the PC of the [_18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)_](https://conf.researchr.org/home/seams-2023){:target="_blank"}.
