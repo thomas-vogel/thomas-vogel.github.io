@@ -53,9 +53,11 @@ layout: page
 * 46th Intl. Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})
 
 ### 2023
+* 25th Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
 * 16th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2023){:target="_blank"})
 * 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Research Track
 * 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
+* 16th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft23.github.io/){:target="_blank"}) at ICSE
 * 20th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2023/){:target="_blank"}) at SE
 * Software Engineering im Unterricht der Hochschulen ([SEUH](https://www.seuh.org/seuh2023/){:target="_blank"})
 
@@ -67,8 +69,8 @@ layout: page
 * 17th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2022){:target="_blank"})
 * 14th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2022){:target="_blank"}), Research Paper Track
 * 16th Intl. Working Conference on Variability Modelling of Software-Intensive Systems ([VaMoS](https://vamos2022.isti.cnr.it/){:target="_blank"})
-* 19th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2022/){:target="_blank"}) at SE
 * 15th Intl. Workshop on Search-Based Software Testing ([SBST](https://sbst22.github.io/){:target="_blank"}) at ICSE
+* 19th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2022/){:target="_blank"}) at SE
 
 ### 2021
 * 23rd Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2021.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
