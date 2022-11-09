@@ -15,6 +15,8 @@ url: "https://thomas-vogel.github.io"
 repository: "thomas-vogel/thomas-vogel.github.io"
 twitter: "https://twitter.com/tomvog"
 twitter_handle: "@tomvog"
+mastodon: "https://fediscience.org/@tomvog"
+mastodon_handle: "fediscience.org/@tomvog"
 
 # File management
 include:

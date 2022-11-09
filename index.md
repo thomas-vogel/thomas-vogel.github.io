@@ -18,9 +18,10 @@ His research interests are in the areas of (search-based and model-driven) softw
     <!--<div style="margin-bottom: 10px">
     <i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>
     </div>-->
-    <div class="contactleft">
-    <em>Twitter and e-mail</em><br />
-      You can follow me on Twitter via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
+    <div class="contactleft" style="width=100%">
+    <em>Mastodon, Twitter, and e-mail</em><br />
+      Mastodon: <em><a rel="me" href="https://fediscience.org/@tomvog" target="_blank">fediscience.org/@tomvog</a></em>. <br />
+      Twitter: <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
       <em>E-mail: </em> {{site.email}}  <br />
       <em>E-mail: </em> thomas.vogel (at) uni-paderborn.de <br /> <br />
     </div>
@@ -31,7 +32,7 @@ His research interests are in the areas of (search-based and model-driven) softw
       Office: ZM2.A.02.09 <br />
       Zukunftsmeile 2 <br />
       33102 Paderborn -->
-      <BR /><BR /><BR /><BR />
+      <BR /><BR /><BR /><BR /><BR />
     </div>
     <br />
     <div class="contactleft">
