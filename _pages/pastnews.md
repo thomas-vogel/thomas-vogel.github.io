@@ -4,6 +4,16 @@ permalink: pastnews.html
 layout: page
 ---
 
+## 2022
+
+* __Apr 2022__ --- The summer semester is starting and I will offer a lecture on _Software Quality Assurance_ and two seminars, one on _Learning, Optimization, and Assurances for Self-Adaptive Systems_ and one on _Search-Based Software Engineering_. See my [teaching page](teaching) for details.
+* __Mar 2022__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) track_](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"} of the [_37th International Conference on Automated Software Engineering (ASE 2022)_](https://conf.researchr.org/home/ase-2022){:target="_blank"}. Consider submitting your new ideas and emerging results on automated software engineering.
+* __Feb 2022__ --- I joined the PC of the [_3rd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2022)_](https://conf.researchr.org/home/acsos-2022){:target="_blank"}. Consider submitting your research results on self-adaptive systems.
+* __Jan 2022__ --- Happy to receive a _2021 Best Reviewer Award_ of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}). I am among the "Top 1% of SoSyM Reviewers" for 2021.
+
+<a href="/assets/img/2021-SoSyM-ReviewAward.png"><img src="/assets/img/2021-SoSyM-ReviewAward.png" alt="SySyM Best Reviewer Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
+* __Jan 2022__ --- Our article [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](publications/2022-ISTb) accepted at the Information and Software Technology journal is available online.
+
 
 ## 2021
 

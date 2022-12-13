@@ -11,6 +11,19 @@ layout: page
       </a>
     </div>
     <div style="margin-left: 0%;">
+      Consider attending the <a href="https://conf.researchr.org/home/ssbse-2022" target="_blank">14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. It will be co-located with ESEC/FSE in Singapore and there will be an online program.
+    </div>
+</section>
+
+<BR />
+
+<section class="vcard" style="margin-top: 10px">
+    <div style="width: 12%; float: left;">
+      <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">
+        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2022 Challenge Track">
+      </a>
+    </div>
+    <div style="margin-left: 0%;">
       Consider submitting to the <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">Challenge Track of the 14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. All accepted submissions will compete for cash prizes totalling up to €1000. The submission deadline is Fri 22 July 2022.
     </div>
 </section>

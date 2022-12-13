@@ -20,10 +20,10 @@ His research interests are in the areas of (search-based and model-driven) softw
     </div>-->
     <div class="contactleft" style="width=100%">
     <em>Mastodon, Twitter, and e-mail</em><br />
-      Mastodon: <em><a rel="me" href="https://fediscience.org/@tomvog" target="_blank">fediscience.org/@tomvog</a></em>. <br />
-      Twitter: <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
-      <em>E-mail: </em> {{site.email}}  <br />
-      <em>E-mail: </em> thomas.vogel (at) uni-paderborn.de <br /> <br />
+      Mastodon: <a rel="me" href="https://fediscience.org/@tomvog" target="_blank">fediscience.org/@tomvog</a> <br />
+      Twitter: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a> <br />
+      E-mail: {{site.email}}  <br />
+      E-mail: thomas.vogel (at) uni-paderborn.de <br /> <br />
     </div>
     <div class="contactright">
       <!--<em>Visitor/Mail Address in Paderborn</em> <br />
@@ -55,19 +55,6 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## Calls
 
-<section class="vcard" style="margin-top: 10px">
-    <div style="width: 12%; float: left;">
-      <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">
-        <img style="width: 95%;" src="/assets/img/ssbse.png" alt="SSBSE 2022 Challenge Track">
-      </a>
-    </div>
-    <div style="margin-left: 0%;">
-      Consider attending the <a href="https://conf.researchr.org/home/ssbse-2022" target="_blank">14th Symposium on Search-Based Software Engineering (SSBSE 2022)</a>. It will be co-located with ESEC/FSE in Singapore and there will be an online program.
-    </div>
-</section>
-
-<BR />
-
 <section class="vcard" style="margin-top: 10px;">
     <div style="width: 100%; float: left; margin-bottom: 25px;">
       <a href="https://se-2023.gi.de/" target="_blank">
@@ -88,18 +75,12 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## Things Happening
 
+* __Dec 2022__ --- We will present our work on [<span style="font-variant:small-caps;">Vudenc</span>](publications/2022-ISTb) and [<span style="font-variant:small-caps;">Sapienz</span><span style="font-style: italic;font-size:70%;vertical-align:super;">div</span>](publications/2020-IST) as well as our [survey on counterexample explanation](publications/2022-ISTa) at the German Software Engineering conference ([SE 2023](https://se-2023.gi.de/){:target="_blank"}).
 * __Nov 2022__ --- Our article [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](publications/2022-ISTc) accepted at the Information and Software Technology journal is available online.
 * __Oct 2022__ --- I joined the PC of the Technical Track of the [_46th International Conference on Software Engineering (ICSE 2024)_](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"}.
 * __Oct 2022__ --- Our article [_Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation_](publications/2022-SEN) has been published in the SIGSOFT Software Engineering Notes.
 * __Sep 2022__ --- I joined the PC of the [_18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)_](https://conf.researchr.org/home/seams-2023){:target="_blank"}.
 * __Jul 2022__ --- I joined the PC of the Research Papers Track of the [_16th International Conference on Software Testing, Verification and Validation (ICST 2023)_](https://conf.researchr.org/home/icst-2023){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
-* __Apr 2022__ --- The summer semester is starting and I will offer a lecture on _Software Quality Assurance_ and two seminars, one on _Learning, Optimization, and Assurances for Self-Adaptive Systems_ and one on _Search-Based Software Engineering_. See my [teaching page](teaching) for details.
-* __Mar 2022__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) track_](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"} of the [_37th International Conference on Automated Software Engineering (ASE 2022)_](https://conf.researchr.org/home/ase-2022){:target="_blank"}. Consider submitting your new ideas and emerging results on automated software engineering.
-* __Feb 2022__ --- I joined the PC of the [_3rd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2022)_](https://conf.researchr.org/home/acsos-2022){:target="_blank"}. Consider submitting your research results on self-adaptive systems.
-* __Jan 2022__ --- Happy to receive a _2021 Best Reviewer Award_ of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}). I am among the "Top 1% of SoSyM Reviewers" for 2021.
-
-<a href="/assets/img/2021-SoSyM-ReviewAward.png"><img src="/assets/img/2021-SoSyM-ReviewAward.png" alt="SySyM Best Reviewer Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
-* __Jan 2022__ --- Our article [_<span style="font-variant:small-caps;">Vudenc</span>: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_](publications/2022-ISTb) accepted at the Information and Software Technology journal is available online.
 
 ## Things Happened
 * [Here](pastnews)
