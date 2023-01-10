@@ -19,22 +19,14 @@ His research interests are in the areas of (search-based and model-driven) softw
     <i><strong>Please contact me by e-mail since I am currently working mostly from home. Postal mails to my university's address currently do not reach me.</strong></i>
     </div>-->
     <div class="contactleft" style="width=100%">
-    <em>Mastodon, Twitter, and e-mail</em><br />
-      Mastodon: <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a> <br />
-      Twitter: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a> <br />
       E-mail: {{site.email}}  <br />
-      E-mail: thomas.vogel (at) uni-paderborn.de <br /> <br />
+      E-mail: thomas.vogel (at) uni-paderborn.de
     </div>
     <div class="contactright">
-      <!--<em>Visitor/Mail Address in Paderborn</em> <br />
-      Paderborn University <br />
-      Department of Computer Science <br />
-      Office: ZM2.A.02.09 <br />
-      Zukunftsmeile 2 <br />
-      33102 Paderborn -->
-      <BR /><BR /><BR /><BR /><BR />
+      Mastodon: <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a> <br />
+      Twitter: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a>
     </div>
-    <br />
+    <br /><br class="mobile-break"><br class="mobile-break">
     <div class="contactleft">
       <em>Mail Address in Berlin</em> <br />
       Humboldt-Universität zu Berlin <br />

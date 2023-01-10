@@ -116,13 +116,16 @@ $br: 600px;
 	line-height: 150%;
 }
 .contactleft {
-    width: 50%;
-    float: left;
+  width: 48%;
+  float: left;
 }
 .contactright {
-    margin-left: 60%;
+  margin-left: 50%;
 }
 
+@media screen and (min-width: 600px)  {
+  .mobile-break { display: none; }
+}
 
 body {
 	color: $color-black;
