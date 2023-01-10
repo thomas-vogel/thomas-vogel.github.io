@@ -17,7 +17,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 ## 2023
 
 * Thomas Vogel, Marc Carwehl, Genaína Nunes Rodrigues, and Lars Grunske. [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](2022-ISTc). In: Information and Software Technology 154 (2023), p. 107100. _(Available online 01 November 2022)_.
-
+* Holger Schlingloff, Andrzej Skowron, and Thomas Vogel, eds. [_Concurrency, Specification and Programming – Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P’21), Berlin, Germany_](2023-CS&P-BOOK). Series: Studies in Computational Intelligence. Springer Cham, 2023.
 
 ## 2022
 

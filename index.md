@@ -20,7 +20,7 @@ His research interests are in the areas of (search-based and model-driven) softw
     </div>-->
     <div class="contactleft" style="width=100%">
     <em>Mastodon, Twitter, and e-mail</em><br />
-      Mastodon: <a rel="me" href="https://fediscience.org/@tomvog" target="_blank">fediscience.org/@tomvog</a> <br />
+      Mastodon: <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a> <br />
       Twitter: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a> <br />
       E-mail: {{site.email}}  <br />
       E-mail: thomas.vogel (at) uni-paderborn.de <br /> <br />
