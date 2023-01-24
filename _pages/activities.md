@@ -55,8 +55,8 @@ layout: page
 ### 2023
 * 25th Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
 * 16th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2023){:target="_blank"})
-* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Research Track
-* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
+* 4th Intl. Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2023){:target="_blank"})
+* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Research Paper Track and Artifact Track
 * 16th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft23.github.io/){:target="_blank"}) at ICSE
 * 20th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2023/){:target="_blank"}) at SE
 * Software Engineering im Unterricht der Hochschulen ([SEUH](https://www.seuh.org/seuh2023/){:target="_blank"})
