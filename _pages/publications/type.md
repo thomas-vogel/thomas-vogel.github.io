@@ -22,6 +22,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Edited Publications
 
+* Iris Groher and Thomas Vogel, eds. [_Joint Proceedings of the Software Engineering 2023 Workshops_](2023-SEWS). Digital Library of the Gesellschaft für Informatik (GI), 2023.
 * Holger Schlingloff, Andrzej Skowron, and Thomas Vogel, eds. [_Concurrency, Specification and Programming – Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P’21), Berlin, Germany_](2023-CS&P-BOOK). Series: Studies in Computational Intelligence. Springer Cham, 2023.
 * Holger Schlingloff and Thomas Vogel, eds. [_Proceedings of the 29th International Workshop on Concurrency, Specification and Programming (CS&P 2021)_](2021-CS&P). Vol. 2951. CEUR-WS.org. 2021.
 * Joel Greenyer, Malte Lochau, and Thomas Vogel, eds. [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](2019-ES4CPS). arXiv:1904.11851. 2019.
