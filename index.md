@@ -53,7 +53,7 @@ His research interests are in the areas of (search-based and model-driven) softw
         <img style="width: 95%;" src="https://se-2023.gi.de/fileadmin/_processed_/1/0/csm_Header_orange_f6fc661cbe.png" alt="SE 2023">
       </a>
       <BR />
-      Consider attending the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in 02/2023.
+      Consider attending the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in 02/2023!
     </div>
 </section>
 
