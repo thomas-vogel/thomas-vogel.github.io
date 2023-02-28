@@ -250,6 +250,9 @@ layout: page
 
 ## Accepted Talks
 
+* _A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
+* _VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
+* _A Systematic Literature Review on Counterexample Explanation_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
 * _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_, [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"}, Potsdam, Germany, 06/2019.
 
 ## Invited Talks

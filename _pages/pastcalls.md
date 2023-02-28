@@ -4,6 +4,18 @@ permalink: pastcalls.html
 layout: page
 ---
 
+<section class="vcard" style="margin-top: 10px;">
+    <div style="width: 100%; float: left; margin-bottom: 25px;">
+      <a href="https://se-2023.gi.de/" target="_blank">
+        <img style="width: 95%;" src="https://se-2023.gi.de/fileadmin/_processed_/1/0/csm_Header_orange_f6fc661cbe.png" alt="SE 2023">
+      </a>
+      <BR />
+      Consider attending the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in 02/2023.
+    </div>
+</section>
+
+<BR />
+
 <section class="vcard" style="margin-top: 10px">
     <div style="width: 12%; float: left;">
       <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">

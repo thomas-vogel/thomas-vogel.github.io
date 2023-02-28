@@ -44,26 +44,15 @@ His research interests are in the areas of (search-based and model-driven) softw
 </section>
 
 
-
+<!--
 ## Calls
 
-<section class="vcard" style="margin-top: 10px;">
-    <div style="width: 100%; float: left; margin-bottom: 25px;">
-      <a href="https://se-2023.gi.de/" target="_blank">
-        <img style="width: 95%;" src="https://se-2023.gi.de/fileadmin/_processed_/1/0/csm_Header_orange_f6fc661cbe.png" alt="SE 2023">
-      </a>
-      <BR />
-      Consider attending the <a href="https://se-2023.gi.de/" target="_blank">German Software Engineering (SE 2023)</a> conference in Paderborn in 02/2023.
-    </div>
-</section>
-
-<BR />
 <section class="vcard" style="margin-top: 25px;">
 <div style="width: 100%;">
 <a href="pastcalls.html">Past Calls</a>
 </div>
 </section>
-
+-->
 
 ## Things Happening
 
@@ -75,7 +64,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 * __Jul 2022__ --- I joined the PC of the Research Papers Track of the [_16th International Conference on Software Testing, Verification and Validation (ICST 2023)_](https://conf.researchr.org/home/icst-2023){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 
 ## Things Happened
-* [Here](pastnews)
+[Here](pastnews)
 
 <!--
 <div class="blog">
