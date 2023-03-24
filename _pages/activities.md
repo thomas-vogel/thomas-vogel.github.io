@@ -280,7 +280,8 @@ layout: page
 
 ## Invitations to Seminars and Workshops
 
-* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (postponed to 07/2023 due to COVID-19).
+* Bertinoro Seminar on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://www.ceub.it/events/event/bertinoro-meeting-on-uncertainty-in-self-adaptive-systems-usas/){:target="_blank"}, Bertinoro International Center for Informatics, Italy, 06/2023 (participation canceled).
+* NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (rescheduled and eventually canceled due to COVID-19).
 * 3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://research.facebook.com/blog/2019/12/facebook-hosts-third-annual-testing-and-verification-symposium-in-london/){:target="_blank"}, London, UK, 11/2019.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://research.facebook.com/blog/2018/11/testing-and-verification-symposium-2018/){:target="_blank"}, London, UK, 11/2018.

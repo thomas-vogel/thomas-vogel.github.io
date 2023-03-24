@@ -44,6 +44,8 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Conferences
 
+* Marc Carwehl, Thomas Vogel, Genaína Nunes Rodrigues, and Lars Grunske. [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](2023-SEAMSa). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '23. IEEE, 2023.
+* Danny Weyns and Thomas Vogel. [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](2023-SEAMSb). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’23. IEEE, 2023.
 * Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. [_How do we Evaluate Self-adaptive Software Systems?_](2021-SEAMS) In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '21. IEEE, 2021, pp. 59--70.
 * Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User-Study Protocol for Evaluation of Formal Verification Results and their Explanation_](2021-ICSME-RR). In: Registered Reports Track at the 37th International Conference on Software Maintenance and Evolution (ICSME). ICSME RR '21. 2021.
 * Ricardo D. Caldas, Arthur Rodrigues, Eric B. Gil, Genaína N. Rodrigues, Thomas Vogel, and Patrizio Pelliccione. [_A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems_](2020-SEAMSa). In: 15th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’20. ACM, 2020, pp. 9--19.

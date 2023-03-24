@@ -6,6 +6,8 @@ layout: page
 
 ## 2022
 
+* __Sep 2022__ --- I joined the PC of the [_18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)_](https://conf.researchr.org/home/seams-2023){:target="_blank"}.
+* __Jul 2022__ --- I joined the PC of the Research Papers Track of the [_16th International Conference on Software Testing, Verification and Validation (ICST 2023)_](https://conf.researchr.org/home/icst-2023){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Apr 2022__ --- The summer semester is starting and I will offer a lecture on _Software Quality Assurance_ and two seminars, one on _Learning, Optimization, and Assurances for Self-Adaptive Systems_ and one on _Search-Based Software Engineering_. See my [teaching page](teaching) for details.
 * __Mar 2022__ --- I joined the PC of the [_New Ideas and Emerging Results (NIER) track_](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"} of the [_37th International Conference on Automated Software Engineering (ASE 2022)_](https://conf.researchr.org/home/ase-2022){:target="_blank"}. Consider submitting your new ideas and emerging results on automated software engineering.
 * __Feb 2022__ --- I joined the PC of the [_3rd International Conference on Autonomic Computing and Self-Organizing	Systems (ACSOS 2022)_](https://conf.researchr.org/home/acsos-2022){:target="_blank"}. Consider submitting your research results on self-adaptive systems.
