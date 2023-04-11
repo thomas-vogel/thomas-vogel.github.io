@@ -37,7 +37,7 @@ His research interests are in the areas of (search-based and model-driven) softw
     <div class="contactright">
       <em>Visitor Address in Berlin</em> <br />
       Johann von Neumann-Haus <br />
-      House IV, 4th floor, room IV.414 <br />
+      House IV, 4th floor, room IV.412 <br />
       Rudower Chaussee 25 <br />
       12489 Berlin
     </div>
