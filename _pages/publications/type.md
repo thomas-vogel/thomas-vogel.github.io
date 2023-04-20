@@ -14,6 +14,8 @@ See [my publications by year](/publications) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
+## Preprints under review
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}. 
 
 ## PhD Thesis
 

@@ -14,6 +14,9 @@ See [my publications by type](/publications/type) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
+## Preprints under review
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}. 
+
 ## 2023
 
 * Thomas Vogel, Marc Carwehl, Genaína Nunes Rodrigues, and Lars Grunske. [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](2022-ISTc). In: Information and Software Technology 154 (2023), p. 107100. _(Available online 01 November 2022)_.
