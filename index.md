@@ -56,6 +56,9 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## Things Happening
 
+* __May 2023__ --- Edited book [_Concurrency, Specification and Programming_](publications/2023-CS&P-BOOK) has been published at Springer and is now available.
+
+<a href="/assets/img/2023-CSP-BOOK-Cover.webp"><img src="/assets/img/2023-CSP-BOOK-Cover.webp" alt="Cover of the book entitled Concurrency, Specification and Programming" style="width: 20%; margin-top: 0em; margin-left: 1.25em;"/></a>
 * __Mar 2023__ --- Two papers accepted at the 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2023](https://conf.researchr.org/home/seams-2023){:target="_blank"}):
   * [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](publications/2023-SEAMSa)
   * [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](publications/2023-SEAMSb)

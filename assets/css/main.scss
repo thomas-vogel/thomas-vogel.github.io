@@ -219,6 +219,20 @@ blockquote {
 	}
 }
 
+.pic_right {
+  width: 280px;
+	float: right;
+	margin-top: 0em;
+	margin-left: 20px;
+	margin-right: 0px;
+	margin-top: 5px;
+	font-size: 11px;
+	color:gray;
+	@media screen and (max-width: $br) {
+		width: 100%;
+	}
+}
+
 .header {
 	display: flex;
 	justify-content: space-between;
