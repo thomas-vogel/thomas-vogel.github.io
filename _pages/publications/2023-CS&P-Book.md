@@ -4,9 +4,10 @@ permalink: publications/2023-CS&P-BOOK.html
 layout: page
 ---
 
+<div style="align: left">
 <div class="pic_right">
 <img src="/assets/img/2023-CSP-BOOK-Cover.webp" alt="Me" width="260px"/>
-</div>
+</div></div>
 
 ## Reference
 Bernd-Holger Schlingloff, Thomas Vogel, and Andrzej Skowron, eds. Concurrency, Specification and Programming: Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P’21), Berlin, Germany. Series: Studies in Computational Intelligence. Springer Cham, 2023.
