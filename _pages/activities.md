@@ -145,6 +145,7 @@ layout: page
 * IEEE Transactions on Software Engineering (TSE)
 * ACM Transactions on Software Engineering and Methodology (TOSEM)
 * ACM Transactions on Autonomous and Adaptive Systems (TAAS)
+* Information and Software Technology (IST)
 * Software and Systems Modeling (SOSYM)
 * IEEE Software
 * Automated Software Engineering
