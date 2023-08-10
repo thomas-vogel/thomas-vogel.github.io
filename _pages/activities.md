@@ -54,6 +54,7 @@ layout: page
 ### 2024
 * 46th Intl. Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})
 * 19th Intl. Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2024){:target="_blank"})
+* 17th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2024){:target="_blank"})
 
 ### 2023
 * 25th Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
