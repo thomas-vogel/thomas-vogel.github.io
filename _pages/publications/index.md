@@ -14,8 +14,8 @@ See [my publications by type](/publications/type) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
-## Preprints under review
-* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}. 
+## Preprints
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}. _Accepted at Empirical Software Engineering (EMSE) journal._
 
 ## 2023
 
