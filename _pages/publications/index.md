@@ -14,14 +14,13 @@ See [my publications by type](/publications/type) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
-## Preprints
-* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}. _Accepted at Empirical Software Engineering (EMSE) journal._
 
 ## 2023
 
+* Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](2023-EMSE). In: Empirical Software Engineering (EMSE) 28.125 (2023).
 * Thomas Vogel, Marc Carwehl, Genaína Nunes Rodrigues, and Lars Grunske. [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](2022-ISTc). In: Information and Software Technology 154 (2023), p. 107100. _(Available online 01 November 2022)_.
-* Marc Carwehl, Thomas Vogel, Genaína Nunes Rodrigues, and Lars Grunske. [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](2023-SEAMSa). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '23. IEEE, 2023.
-* Danny Weyns and Thomas Vogel. [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](2023-SEAMSb). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’23. IEEE, 2023.
+* Marc Carwehl, Thomas Vogel, Genaína Nunes Rodrigues, and Lars Grunske. [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](2023-SEAMSa). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’23. IEEE, 2023, pp. 104–114.
+* Danny Weyns and Thomas Vogel. [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](2023-SEAMSb). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’23. IEEE, 2023, pp. 86–87.
 * Iris Groher and Thomas Vogel, eds. [_Joint Proceedings of the Software Engineering 2023 Workshops_](2023-SEWS). Digital Library of the Gesellschaft für Informatik (GI), 2023.
 * Holger Schlingloff, Andrzej Skowron, and Thomas Vogel, eds. [_Concurrency, Specification and Programming – Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P’21), Berlin, Germany_](2023-CS&P-BOOK). Series: Studies in Computational Intelligence. Springer Cham, 2023.
 
