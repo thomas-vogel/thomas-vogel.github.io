@@ -36,28 +36,20 @@ His research interests are in the areas of (search-based and model-driven) softw
 </section>
 
 
-
+<!--
 ## Calls
 
-<section class="vcard" style="margin-top: 10px">
-    <div style="width: 13%; float: left;">
-      <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">
-        <img style="width: 100%;" src="/assets/img/ssbse.png" alt="SSBSE 2022 Challenge Track">
-      </a>
-    </div>
-    <div style="margin-left: 16%;">
-      Present you recent work on search with relevance to software engineering at the <a href="https://conf.researchr.org/track/ssbse-2023/ssbse-2023-hop" target="_blank">Hot-off-the-Press Track of the 15th Symposium on Search-Based Software Engineering (SSBSE 2023)</a>, co-located with <a href="https://2023.esec-fse.org/" target="_blank">ESEC/FSE 2023</a> in San Francisco, US. The submission deadline is Fri 01 Sep 2023. We look forward to receiving your submissions.
-    </div>
-</section>
+
 
 <BR />
+
 
 <section class="vcard" style="margin-top: 25px;">
 <div style="width: 100%;">
 <a href="pastcalls.html">Past Calls</a>
 </div>
 </section>
-
+-->
 
 ## Things Happening
 
