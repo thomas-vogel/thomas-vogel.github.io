@@ -4,8 +4,19 @@ permalink: pastnews.html
 layout: page
 ---
 
+## 2023
+
+* __Mar 2023__ --- Two papers accepted at the 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2023](https://conf.researchr.org/home/seams-2023){:target="_blank"}):
+  * [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](publications/2023-SEAMSa)
+  * [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](publications/2023-SEAMSb)
+
+
 ## 2022
 
+* __Dec 2022__ --- We will present our work on [<span style="font-variant:small-caps;">Vudenc</span>](publications/2022-ISTb) and [<span style="font-variant:small-caps;">Sapienz</span><span style="font-style: italic;font-size:70%;vertical-align:super;">div</span>](publications/2020-IST) as well as our [survey on counterexample explanation](publications/2022-ISTa) at the German Software Engineering conference ([SE 2023](https://se-2023.gi.de/){:target="_blank"}).
+* __Nov 2022__ --- Our article [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](publications/2022-ISTc) accepted at the Information and Software Technology journal is available online.
+* __Oct 2022__ --- I joined the PC of the Technical Track of the [_46th International Conference on Software Engineering (ICSE 2024)_](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"}.
+* __Oct 2022__ --- Our article [_Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation_](publications/2022-SEN) has been published in the SIGSOFT Software Engineering Notes.
 * __Sep 2022__ --- I joined the PC of the [_18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2023)_](https://conf.researchr.org/home/seams-2023){:target="_blank"}.
 * __Jul 2022__ --- I joined the PC of the Research Papers Track of the [_16th International Conference on Software Testing, Verification and Validation (ICST 2023)_](https://conf.researchr.org/home/icst-2023){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Apr 2022__ --- The summer semester is starting and I will offer a lecture on _Software Quality Assurance_ and two seminars, one on _Learning, Optimization, and Assurances for Self-Adaptive Systems_ and one on _Search-Based Software Engineering_. See my [teaching page](teaching) for details.

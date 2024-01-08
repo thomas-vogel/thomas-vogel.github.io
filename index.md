@@ -12,6 +12,13 @@ Thomas is a postdoctoral researcher in the [Software Engineering Group](https://
 He studied Information Systems and graduated with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
 His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
+## Note (Jan 2024)
+
+I am on parental leave from January to August 2024.
+
+During this time, I am not available for service such as reviews. I am not teaching and won't be accepting new students for bachelor's or master's theses.
+
+
 ## Contact
 
 <section class="vcard">
@@ -53,6 +60,11 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## Things Happening
 
+* __Jan 2024__ --- I am on parental leave from January to August 2024.
+* __Dec 2023__ --- I am very happy that [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, a mentee of mine, successfully defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}. Congratulations!
+* __Nov 2023__ --- I am very happy that [Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"}, a mentee of mine, successfully defended her PhD thesis entitled _Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_ with summa cum laude. Congratulations!
+* __Nov 2023__ --- We will present our work on _Runtime Verification of Self-Adaptive Systems with Changing Requirements_ in an accepted talk at the [GI Software Engineering conference (SE 2024)](https://se2024.se.jku.at/){:target="_blank"}.
+* __Oct 2023__ --- I will be teaching the following courses this semester: _Adaptive Systeme_ (Seminar, Master), _Software Engineering_ (Tutorial, Bachelor), and _Methoden und Modelle des Systementwurfs_ (Tutorial, Master).
 * __Sep 2023__ --- Our article [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](publications/2023-EMSE) has been published in the Empirical Software Engineering (EMSE) journal.
 * __Aug 2023__ --- I was invited to the PC of the Research Papers Track of the [_17th International Conference on Software Testing, Verification and Validation (ICST 2024)_](https://conf.researchr.org/home/icst-2024){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Jul 2023__ --- I was invited to the PC of the [_19th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2024)_](https://conf.researchr.org/home/seams-2024){:target="_blank"}. Consider submitting your work on self-adaptive software systems.
@@ -61,14 +73,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 * __May 2023__ --- I am the Program Committee Co-Chair of the Hot off the Press (HOP) Track of the [_15th International Symposium on Search-Based Software Engineering (SSBSE 2023)_](https://conf.researchr.org/home/ssbse-2023){:target="_blank"}.
 * __May 2023__ --- Edited book [_Concurrency, Specification and Programming_](publications/2023-CS&P-BOOK) has been published at Springer and is now available.
 
-<a href="/assets/img/2023-CSP-BOOK-Cover.webp"><img src="/assets/img/2023-CSP-BOOK-Cover.webp" alt="Cover of the book entitled Concurrency, Specification and Programming" style="width: 20%; margin-top: 0em; margin-left: 1.25em;"/></a>
-* __Mar 2023__ --- Two papers accepted at the 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2023](https://conf.researchr.org/home/seams-2023){:target="_blank"}):
-  * [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](publications/2023-SEAMSa)
-  * [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](publications/2023-SEAMSb)
-* __Dec 2022__ --- We will present our work on [<span style="font-variant:small-caps;">Vudenc</span>](publications/2022-ISTb) and [<span style="font-variant:small-caps;">Sapienz</span><span style="font-style: italic;font-size:70%;vertical-align:super;">div</span>](publications/2020-IST) as well as our [survey on counterexample explanation](publications/2022-ISTa) at the German Software Engineering conference ([SE 2023](https://se-2023.gi.de/){:target="_blank"}).
-* __Nov 2022__ --- Our article [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](publications/2022-ISTc) accepted at the Information and Software Technology journal is available online.
-* __Oct 2022__ --- I joined the PC of the Technical Track of the [_46th International Conference on Software Engineering (ICSE 2024)_](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"}.
-* __Oct 2022__ --- Our article [_Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation_](publications/2022-SEN) has been published in the SIGSOFT Software Engineering Notes.
+<a href="publications/2023-CS&P-BOOK"><img src="/assets/img/2023-CSP-BOOK-Cover.webp" alt="Cover of the book entitled Concurrency, Specification and Programming" style="width: 20%; margin-top: 0em; margin-left: 1.25em;"/></a>
 
 ## Things Happened
 [Here](pastnews)

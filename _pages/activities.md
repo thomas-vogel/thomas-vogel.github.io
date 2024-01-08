@@ -259,6 +259,7 @@ layout: page
 
 ## Accepted Talks
 
+* _Runtime Verification of Self-Adaptive Systems with Changing Requirements_, [GI Software Engineering 2024](https://se2024.se.jku.at/){:target="_blank"}, Linz, Austria, 02/2024.
 * _A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
 * _VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
 * _A Systematic Literature Review on Counterexample Explanation_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.

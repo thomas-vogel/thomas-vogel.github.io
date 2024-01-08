@@ -6,7 +6,12 @@ layout: page
 
 ## Recent Courses
 
+### Summer 2024 (HU Berlin)
+
+* N/A (parental leave)
+
 ### Winter 2023 (HU Berlin)
+* 3313063 Adaptive Systeme (Seminar, Master)
 * 3313012 Software Engineering (Tutorial, Bachelor)
 * 3313075 Methoden und Modelle des Systementwurfs (Tutorial, Master)
 
