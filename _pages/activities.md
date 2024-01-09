@@ -4,19 +4,35 @@ permalink: activities.html
 layout: page
 ---
 
-**Contents** <br />
-[- Awards](#awards) <br />
-[- Editor](#editor) <br />
-[- Organization Committee](#organization-committee) <br />
-[- Program Committee](#program-committee) <br />
-[- Journal Reviewing](#journal-reviewing) <br />
-[- Book Reviewing](#book-reviewing) <br />
-[- External Reviewer](#external-reviewer) <br />
-[- Accepted Talks](#accepted-talks) <br />
-[- Invited Talks](#invited-talks) <br />
-[- Invitations to Seminars](#invitations-to-seminars-and-workshops)
+<div style="border-top: 2px solid #1a1a1a; margin-top: 20px; padding-top: 12px;" />
+
+**Contents** <BR />
+* [Mentoring](#mentoring)
+* [Awards](#awards)
+* [Editorships](#editorships)
+* [Organization Committee Memberships](#organization-committee-memberships)
+* [Program Committee Memberships](#program-committee-memberships)
+* [Reviews](#reviews)
+* [Invited and Accepted Talks](#talks)
+* [Invitations to Seminars and Workshops](#invitations-to-seminars-and-workshops)
+
+<div style="border-top: 2px solid #1a1a1a; margin-top: 20px; padding-top: 12px;" />
+
+## Mentoring
+
+### PhD Students
+
+* Marc Carwehl, Humboldt-Universität zu Berlin (2022 ongoing)
+* Sebastian Müller, Humboldt-Universität zu Berlin (2020 ongoing)
+* [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, Humboldt-Universität zu Berlin and Bosch Research (2019-2023) <BR />
+ Defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}.
+* [Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"}, Hasso Plattner Institute / University of Potsdam (2015-2023)
+  <BR />
+  Defended her PhD thesis entitled _Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_ with summa cum laude.
+
 
 ## Awards
+
 *  [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
 * [_Facebook Testing and Verification Research Award_](https://research.facebook.com/blog/2018/10/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
 * [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}).
@@ -26,12 +42,14 @@ layout: page
 * Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT'10).
 * Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT'09).
 
-## Editor
+
+## Editorships
 
 * Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Symposium on Adaptive and Self-Managing Systems (SEAMS).
 
 
-## Organization Committee
+
+## Organization Committee Memberships
 
 * Workshop Co-Chair of the Gesellschaft für Informatik (GI) conference on Software Engineering (SE), 2023 ([Link](https://se-2023.gi.de/){:target="_blank"})
 * Program Committee Co-Chair of the Hot off the Press (HOP) Track of the 15th International Symposium on Search-Based Software Engineering (SSBSE), 2023 ([Link](https://conf.researchr.org/home/ssbse-2023){:target="_blank"})
@@ -49,7 +67,9 @@ layout: page
 * Web Chair of the _Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering_, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"})
 * Publicity Co-Chair of the _6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"})
 
-## Program Committee
+
+
+## Program Committee Memberships
 
 ### 2024
 * 46th Intl. Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})
@@ -143,8 +163,12 @@ layout: page
 * 9th Intl. Workshop on Models@run.time ([MRT](https://st.inf.tu-dresden.de/MRT14/){:target="_blank"}) at MoDELS
 
 
-## Journal Reviewing
-([My publons profile](https://publons.com/author/1309009){:target="_blank"})
+
+## Reviews
+
+
+### Journal Reviewing
+([My Web-of-Science profile (publons)](https://publons.com/author/1309009){:target="_blank"})
 
 * IEEE Transactions on Software Engineering (TSE)
 * ACM Transactions on Software Engineering and Methodology (TOSEM)
@@ -161,14 +185,14 @@ layout: page
 * IEEE Transactions on Cybernetics
 
 
-## Book Reviewing
+### Book Reviewing
 
 * LNCS Book _ECSA 2021 Post-proceedings_
 * [Springer Book on _Self-Aware Computing Systems_](https://doi.org/10.1007/978-3-319-47474-8){:target="_blank"}
 * [LNCS Book _Models@run.time_](https://doi.org/10.1007/978-3-319-08915-7){:target="_blank"}
 
 
-## External Reviewer
+### External Reviewer
 
 * 2020:
 [ICSE](https://conf.researchr.org/home/icse-2020/){:target="_blank"}
@@ -257,15 +281,10 @@ layout: page
 [WADS](https://www.cs.kent.ac.uk/events/conf/2009/wads/){:target="_blank"}
 
 
-## Accepted Talks
 
-* _Runtime Verification of Self-Adaptive Systems with Changing Requirements_, [GI Software Engineering 2024](https://se2024.se.jku.at/){:target="_blank"}, Linz, Austria, 02/2024.
-* _A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
-* _VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
-* _A Systematic Literature Review on Counterexample Explanation_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
-* _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_, [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"}, Potsdam, Germany, 06/2019.
+## Talks
 
-## Invited Talks
+### Invited Talks
 
 * _Self-Adaptive Search for Sapienz_, [Facebook Testing and Verification (FaceTAV) Challenge Workshop](https://fbtavworkshop2019.splashthat.com/){:target="_blank"}, Facebook, London, UK, 11/2019.
 * _Search-Based App Testing, Fitness Landscape Analysis, and Diversity_ ([video](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}), [19th HPI Future SOC Lab Day](https://hpi.de/en/events/wissenschaftliche-konferenzen/future-soc-lab/2019/19th-hpi-future-soc-lab-day-fall-2019.html){:target="_blank"}, Potsdam, Germany, 11/2019.
@@ -286,6 +305,15 @@ layout: page
 * _Model-Based Self-Adaptation of Service-Oriented Software Systems_, Joint Workshop of the German Research Training Groups in Computer Science, [Event 10222](http://www.dagstuhl.de/10222){:target="_blank"}, Schloss Dagstuhl, Germany, 05/2010.
 * _A Model-Driven Infrastructure for Self-Adaptive Software Systems_, HPI-UCT Workshop at the University of Cape Town, South Africa, 05/2010.
 * _Die Zukunft mit erfinden? Software entwickeln!_, Vortrag auf dem Schülercampus 2009 in Brandenburg, Europa Universität Viadrina Frankfurt (Oder), Germany, 03/2009.
+
+
+### Accepted Talks
+
+* _Runtime Verification of Self-Adaptive Systems with Changing Requirements_, [GI Software Engineering 2024](https://se2024.se.jku.at/){:target="_blank"}, Linz, Austria, 02/2024.
+* _A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
+* _VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
+* _A Systematic Literature Review on Counterexample Explanation_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
+* _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_, [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"}, Potsdam, Germany, 06/2019.
 
 
 ## Invitations to Seminars and Workshops
