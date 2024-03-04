@@ -12,6 +12,7 @@ Thomas is a postdoctoral researcher in the [Software Engineering Group](https://
 He studied Information Systems and graduated with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
 His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
+
 ## Note (Jan 2024)
 
 I am on parental leave from January to August 2024.
