@@ -14,6 +14,10 @@ See [my publications by type](/publications/type) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
+## 2024
+* João Paulo Costa de Araujo, Genaína Nunes Rodrigues, Marc Carwehl, Thomas Vogel, Lars Grunske, Ricardo Caldas, and Patrizio Pelliccione. [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](2024-IEEESoftware). In: IEEE Software 41.5 (2024), pp. 43–51.
+* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_Formal Synthesis of Uncertainty Reduction Controllers_](2024-SEAMS). In: Proceedings of the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’24. ACM, 2024, pp. 2--13. _(**Best Paper Award**)_
+
 
 ## 2023
 

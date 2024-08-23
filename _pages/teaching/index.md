@@ -6,6 +6,10 @@ layout: page
 
 ## Recent Courses
 
+### Winter 2024 (HU Berlin)
+* 3313015 Software Engineering (Tutorial, Bachelor)
+* 3313079 Methoden und Modelle des Systementwurfs (Tutorial, Master)
+
 ### Summer 2024 (HU Berlin)
 
 * N/A (parental leave)

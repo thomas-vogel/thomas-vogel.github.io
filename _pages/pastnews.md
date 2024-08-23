@@ -6,6 +6,14 @@ layout: page
 
 ## 2023
 
+* __Aug 2023__ --- I was invited to the PC of the Research Papers Track of the [_17th International Conference on Software Testing, Verification and Validation (ICST 2024)_](https://conf.researchr.org/home/icst-2024){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
+* __Jul 2023__ --- I was invited to the PC of the [_19th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2024)_](https://conf.researchr.org/home/seams-2024){:target="_blank"}. Consider submitting your work on self-adaptive software systems.
+* __Jun 2023__ --- Our article _A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_ has been accepted for publication in the Empirical Software Engineering (EMSE) journal ([Preprint of the accepted article](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}).
+* __May 2023__ --- I was nominated to the Steering Committee of the International Conference on Self-Adaptive and Self-Managing Systems (SEAMS) taking on the role of Publicity Strategy Liaison.
+* __May 2023__ --- I am the Program Committee Co-Chair of the Hot off the Press (HOP) Track of the [_15th International Symposium on Search-Based Software Engineering (SSBSE 2023)_](https://conf.researchr.org/home/ssbse-2023){:target="_blank"}.
+* __May 2023__ --- Edited book [_Concurrency, Specification and Programming_](publications/2023-CS&P-BOOK) has been published at Springer and is now available.
+
+<a href="publications/2023-CS&P-BOOK"><img src="/assets/img/2023-CSP-BOOK-Cover.webp" alt="Cover of the book entitled Concurrency, Specification and Programming" style="width: 20%; margin-top: 0em; margin-left: 1.25em;"/></a>
 * __Mar 2023__ --- Two papers accepted at the 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2023](https://conf.researchr.org/home/seams-2023){:target="_blank"}):
   * [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](publications/2023-SEAMSa)
   * [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](publications/2023-SEAMSb)

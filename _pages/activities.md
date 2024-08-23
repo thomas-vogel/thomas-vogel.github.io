@@ -10,8 +10,9 @@ layout: page
 * [Mentoring](#mentoring)
 * [Awards](#awards)
 * [Editorships](#editorships)
-* [Organization Committee Memberships](#organization-committee-memberships)
-* [Program Committee Memberships](#program-committee-memberships)
+* [Steering Committees](#steering-committees)
+* [Organization Committees](#organization-committees)
+* [Program Committees](#program-committees)
 * [Reviews](#reviews)
 * [Invited and Accepted Talks](#talks)
 * [Invitations to Seminars and Workshops](#invitations-to-seminars-and-workshops)
@@ -22,25 +23,29 @@ layout: page
 
 ### PhD Students
 
-* Marc Carwehl, Humboldt-Universität zu Berlin (2022 ongoing)
-* Sebastian Müller, Humboldt-Universität zu Berlin (2020 ongoing)
-* [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, Humboldt-Universität zu Berlin and Bosch Research (2019-2023) <BR />
- Defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}.
-* [Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"}, Hasso Plattner Institute / University of Potsdam (2015-2023)
-  <BR />
-  Defended her PhD thesis entitled _Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_ with summa cum laude.
+#### Current
+
+* Marc Carwehl (Humboldt-Universität zu Berlin) <!--(2022 ongoing)-->
+* Sebastian Müller (Humboldt-Universität zu Berlin) <!--(2020 ongoing)-->
+
+#### Graduated
+* [Dr. Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"} (Humboldt-Universität zu Berlin) <BR /> <!-- (2019-2023)-->
+ PhD thesis [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"} (2023)
+* [Dr. Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"} (Hasso Plattner Institute / University of Potsdam)  <BR /> <!-- 2015-2023 -->
+  PhD thesis [_Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_](https://doi.org/10.25932/publishup-62423){:target="_blank"} (summa cum laude) (2023)
 
 
 ## Awards
 
-*  [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
-* [_Facebook Testing and Verification Research Award_](https://research.facebook.com/blog/2018/10/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"}. Project _Self-Adaptive Search for Sapienz_ (2018).
-* [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"}).
-*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%).
-* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'12).
-* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT'11).
-* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT'10).
-* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT'09).
+* Best Paper Award for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
+* [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
+* [_Facebook Testing and Verification Research Award_](https://research.facebook.com/blog/2018/10/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"} for the project _Self-Adaptive Search for Sapienz_ (2018)
+* [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
+*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
+* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'12)
+* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT'11)
+* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT'10)
+* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT'09)
 
 
 ## Editorships
@@ -48,17 +53,21 @@ layout: page
 * Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Symposium on Adaptive and Self-Managing Systems (SEAMS).
 
 
+## Steering Committees
 
-## Organization Committee Memberships
+* Nominated Steering Committee member of the International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), based on my role as PC Co-Chair of SEAMS 2025 and responsible for the publicity strategy liaison, 2023-2028 ([Link](https://www.hpi.uni-potsdam.de/giese/public/selfadapt/seams/){:target="_blank"})
+* Elected Steering Committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 
+
+## Organization Committees
+
+* Program Committee Co-Chair of the Research Track at the 20th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/track/seams-2025/){:target="_blank"})
 * Workshop Co-Chair of the Gesellschaft für Informatik (GI) conference on Software Engineering (SE), 2023 ([Link](https://se-2023.gi.de/){:target="_blank"})
 * Program Committee Co-Chair of the Hot off the Press (HOP) Track of the 15th International Symposium on Search-Based Software Engineering (SSBSE), 2023 ([Link](https://conf.researchr.org/home/ssbse-2023){:target="_blank"})
-* Steering Committee member of the International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), responsible for the publicity strategy liaison, 2023-2028 ([Link](https://www.hpi.uni-potsdam.de/giese/public/selfadapt/seams/){:target="_blank"})
 * Program Committee Co-Chair of the Challenge Track at the 14th International Symposium on Search-Based Software Engineering (SSBSE), 2022 ([Link](https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge){:target="_blank"})
 * Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"})
 * Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 * Co-Organizer of the 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
-* Steering Committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
 * Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
 * Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
 * Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
@@ -69,7 +78,10 @@ layout: page
 
 
 
-## Program Committee Memberships
+## Program Committees
+
+### 2025
+* 18th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2025){:target="_blank"})
 
 ### 2024
 * 46th Intl. Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})

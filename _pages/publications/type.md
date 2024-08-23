@@ -31,6 +31,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Journals
 
+* João Paulo Costa de Araujo, Genaína Nunes Rodrigues, Marc Carwehl, Thomas Vogel, Lars Grunske, Ricardo Caldas, and Patrizio Pelliccione. [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](2024-IEEESoftware). In: IEEE Software 41.5 (2024), pp. 43–51.
 * Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](2023-EMSE). In: Empirical Software Engineering (EMSE) 28.125 (2023).
 * Thomas Vogel, Marc Carwehl, Genaína Nunes Rodrigues, and Lars Grunske. [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](2022-ISTc). In: Information and Software Technology 154 (2023), p. 107100. _(Available online 01 November 2022)_.
 * Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [A Systematic Literature Review on Counterexample Explanation](2022-ISTa). In: Information and Software Technology 145 (2022), p. 106800. _(Available online 30 December 2021)_.
@@ -44,6 +45,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Conferences
 
+* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_Formal Synthesis of Uncertainty Reduction Controllers_](2024-SEAMS). In: Proceedings of the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’24. ACM, 2024, pp. 2--13. _(**Best Paper Award**)_
 * Marc Carwehl, Thomas Vogel, Genaína Nunes Rodrigues, and Lars Grunske. [_Runtime Verification of Self-Adaptive Systems with Changing Requirements_](2023-SEAMSa). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’23. IEEE, 2023, pp. 104–114.
 * Danny Weyns and Thomas Vogel. [_On the Need for Artifacts to Support Research on Self-Adaptation Mature for Industrial Adoption_](2023-SEAMSb). In: 18th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’23. IEEE, 2023, pp. 86–87.
 * Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, and Patricia Lago. [_How do we Evaluate Self-adaptive Software Systems?_](2021-SEAMS) In: 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS '21. IEEE, 2021, pp. 59--70.
