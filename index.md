@@ -43,11 +43,9 @@ His research interests are in the areas of (search-based and model-driven) softw
 <section class="vcard" style="margin-top: 10px;">
     <div style="width: 100%; float: left; margin-bottom: 25px;">
       <a href="https://conf.researchr.org/home/seams-2025" target="_blank">
-        <img style="width: 99%;" src="https://conf.researchr.org/getImage/icse-2025/carousel/AlexandraBridgeCarroussel.jpeg" alt="Alexandra Bridge, Ottawa. The Alexandra Bridge over the Ottawa River taken from behind Parliament">
+        <img style="width: 99%;" src="https://www.hpi.uni-potsdam.de/giese/public/selfadapt/wp-content/uploads/sites/2/2024/09/seams2025-banner-with_logo.jpg" alt="SEAMS 2025 Banner showing the skyline of Ottawa, Canada">
       </a>
-      <div>Alexandra Bridge, Ottawa, Photo by Timothy Lethbridge,
-      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" style="color:gray;">CC BY-NC 4.0</a>
-      </div>
+      <div style="font-size: 10pt; margin-top: -10px;">Based on the <a href="https://commons.wikimedia.org/wiki/File:Ottawa_skyline_panorama1.jpg" target="_blank" rel="noopener">Ottawa skyline panorama</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en" target="_blank" rel="noopener">CC BY-SA 2.5 CA</a></div>
     </div>
 </section>
 
