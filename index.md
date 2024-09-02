@@ -72,6 +72,8 @@ His research interests are in the areas of (search-based and model-driven) softw
   * I am the Program Committee Co-Chair of the Research Track at the [_20th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)_](https://conf.researchr.org/home/seams-2025/){:target="_blank"}, together with Shiva Nejati.
   * Our article [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](publications/2024-IEEESoftware) has been pulished in _IEEE Software_.
   * Our paper [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) has been accepted at the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"}) and we won the __Best Paper Award__.
+
+  <a href="/assets/img/2024-SEAMS-BestPaperAward.jpg"><img src="/assets/img/2024-SEAMS-BestPaperAward.jpg" alt="SEAMS 2024 Best Paper Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
   * I was invited to the PC of the Research Papers Track of the [_18th International Conference on Software Testing, Verification and Validation (ICST 2025)_](https://conf.researchr.org/home/icst-2025){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Jan 2024__ --- I am on parental leave from January to August 2024.
 * __Dec 2023__ --- I am very happy that [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, a mentee of mine, successfully defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}. Congratulations!

@@ -7,6 +7,9 @@ layout: page
 ## Reference
 Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. “Formal Synthesis of Uncertainty Reduction Controllers”. In: Proceedings of the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’24. __Best Paper Award__. ACM, 2024, pp. 2--13. doi: 10.1145/3643915.3644095.
 
+<a href="/assets/img/2024-SEAMS-BestPaperAward.jpg"><img src="/assets/img/2024-SEAMS-BestPaperAward.jpg" alt="SEAMS 2024 Best Paper Award" style="width: 55%; margin-top: 0em; margin-left: 1em;"/></a>
+
+
 ## Links
 * [Paper at ACM DL (open access)](https://doi.org/10.1145/3643915.3644095){:target="_blank"}
 * [Paper at IEEE Xplore (open access)](https://ieeexplore.ieee.org/document/10556264){:target="_blank"}
