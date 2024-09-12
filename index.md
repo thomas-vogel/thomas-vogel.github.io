@@ -13,30 +13,22 @@ He studied Information Systems and graduated with distinction from the [Universi
 His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
 
-## Contact
+## Coordinates
 
 <section class="vcard">
-      E-mail: {{site.email}}  <br />
-      You can follow me on Mastodon via <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a> and Twitter via <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a>.
-      <br />
+      Affiliation: Humboldt Universität zu Berlin (<a href="contact">mail and visitor address</a>)
     <br /><br class="mobile-break">
     <div class="contactleft">
-      <em>Mail Address in Berlin</em> <br />
-      Humboldt-Universität zu Berlin <br />
-      Department of Computer Science <br />
-      Unter den Linden 6 <br />
-      10099 Berlin
+      E-mail: {{site.email}}  <br />
+      Mastodon: <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a>
     </div>
     <div class="contactright">
-      <em>Visitor Address in Berlin</em> <br />
-      Johann von Neumann-Haus <br />
-      House IV, 4th floor, room IV.412 <br />
-      Rudower Chaussee 25 <br />
-      12489 Berlin
+      Phone: +49 30 2093-41147 <br />
+      Twitter/X: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a>
     </div>
 </section>
 
-
+<br class="mobile-break">
 
 ## Calls
 
