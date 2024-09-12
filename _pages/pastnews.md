@@ -6,6 +6,9 @@ layout: page
 
 ## 2023
 
+* __Nov 2023__ --- We will present our work on _Runtime Verification of Self-Adaptive Systems with Changing Requirements_ in an accepted talk at the [GI Software Engineering conference (SE 2024)](https://se2024.se.jku.at/){:target="_blank"}.
+* __Oct 2023__ --- I will be teaching the following courses this semester: _Adaptive Systeme_ (Seminar, Master), _Software Engineering_ (Tutorial, Bachelor), and _Methoden und Modelle des Systementwurfs_ (Tutorial, Master).
+* __Sep 2023__ --- Our article [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](publications/2023-EMSE) has been published in the Empirical Software Engineering (EMSE) journal.
 * __Aug 2023__ --- I was invited to the PC of the Research Papers Track of the [_17th International Conference on Software Testing, Verification and Validation (ICST 2024)_](https://conf.researchr.org/home/icst-2024){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Jul 2023__ --- I was invited to the PC of the [_19th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2024)_](https://conf.researchr.org/home/seams-2024){:target="_blank"}. Consider submitting your work on self-adaptive software systems.
 * __Jun 2023__ --- Our article _A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_ has been accepted for publication in the Empirical Software Engineering (EMSE) journal ([Preprint of the accepted article](https://doi.org/10.48550/arXiv.2304.08950){:target="_blank"}).

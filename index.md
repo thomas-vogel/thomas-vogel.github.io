@@ -33,9 +33,9 @@ His research interests are in the areas of (search-based and model-driven) softw
 ## Calls
 
 <section class="vcard" style="margin-top: 10px;">
-    <div style="width: 100%; float: left; margin-bottom: 25px;">
+    <div style="width: 100%; float: left; margin-bottom: 10px;">
       <a href="https://conf.researchr.org/home/seams-2025" target="_blank">
-        <img style="width: 99%;" src="https://www.hpi.uni-potsdam.de/giese/public/selfadapt/wp-content/uploads/sites/2/2024/09/seams2025-banner-with_logo.jpg" alt="SEAMS 2025 Banner showing the skyline of Ottawa, Canada">
+        <img style="width: 97%;" src="https://www.hpi.uni-potsdam.de/giese/public/selfadapt/wp-content/uploads/sites/2/2024/09/seams2025-banner-with_logo.jpg" alt="SEAMS 2025 Banner showing the skyline of Ottawa, Canada">
       </a>
       <div style="font-size: 10pt; margin-top: -10px;">Based on the <a href="https://commons.wikimedia.org/wiki/File:Ottawa_skyline_panorama1.jpg" target="_blank" rel="noopener">Ottawa skyline panorama</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en" target="_blank" rel="noopener">CC BY-SA 2.5 CA</a></div>
     </div>
@@ -47,14 +47,16 @@ His research interests are in the areas of (search-based and model-driven) softw
  * There are two submission rounds with deadlines in October and December 2024.
  * For more information, see the [SEAMS 2025 call for paper](https://conf.researchr.org/track/seams-2025/seams-2025-research-track){:target="_blank"}.
 
-
 <BR />
+[Past calls](pastcalls)
 
+<!--
 <section class="vcard" style="margin-top: 25px;">
 <div style="width: 100%;">
 <a href="pastcalls.html">Past Calls</a>
 </div>
 </section>
+-->
 
 
 ## Things Happening
@@ -70,9 +72,6 @@ His research interests are in the areas of (search-based and model-driven) softw
 * __Jan 2024__ --- I am on parental leave from January to August 2024.
 * __Dec 2023__ --- I am very happy that [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, a mentee of mine, successfully defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}. Congratulations!
 * __Nov 2023__ --- I am very happy that [Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"}, a mentee of mine, successfully defended her PhD thesis entitled _Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_ with summa cum laude. Congratulations!
-* __Nov 2023__ --- We will present our work on _Runtime Verification of Self-Adaptive Systems with Changing Requirements_ in an accepted talk at the [GI Software Engineering conference (SE 2024)](https://se2024.se.jku.at/){:target="_blank"}.
-* __Oct 2023__ --- I will be teaching the following courses this semester: _Adaptive Systeme_ (Seminar, Master), _Software Engineering_ (Tutorial, Bachelor), and _Methoden und Modelle des Systementwurfs_ (Tutorial, Master).
-* __Sep 2023__ --- Our article [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](publications/2023-EMSE) has been published in the Empirical Software Engineering (EMSE) journal.
 
 ## Things Happened
 [Here](pastnews)
