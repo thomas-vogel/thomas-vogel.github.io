@@ -14,7 +14,7 @@ model-driven engineering.
 
 My Ph.D. research was about the [_Model-Driven Engineering of Self-Adaptive Software_](publications/phd) where models and model-driven engineering techniques are exceedingly leveraged at run-time to achieve a higher degree of flexibility in the design, evolution, and operation of such software systems than the state of the art with code-based solutions (cf. [EUREMA](projects/#phd-projects) and [MORISIA](projects/#phd-projects) projects).
 
-In my postdoctoral studies I broadened my research along three lines:
+In my postdoctoral studies I broadened my research along three lines, which inspire and benefit from each other:
 
 ### (1) Methods and techniques to achieve and cope with the increasing level of autonomy of software systems
 We aim for an increasing level of autonomy of software systems, which enables them to  operate in uncertain and dynamic environments (e.g., cyber-physical systems that autonomously adapt themselves to changing environmental conditions). This requires novel means to engineer such self-adaptive systems.
