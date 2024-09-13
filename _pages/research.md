@@ -4,7 +4,7 @@ permalink: research.html
 layout: page
 ---
 
-My research focuses on developing methods and techniques that support **engineering,  assuring, and understanding autonomous software systems**, especially systems that adapt themselves and impact the environment based on automated decisions (cf. **self-aware and self-adaptive software systems**).
+My research focuses on developing methods and techniques that support **engineering autonomous software systems**, especially systems that adapt themselves and impact the environment based on automated decisions (cf. **self-aware and self-adaptive software systems**). This particularly includes methods and techniques for the **quality assurance and explanations of autonomous behavior** to make such systems **trustworthy**.
 In my work, I combine software engineering research with
 artificial and computational intelligence,
 formal methods,
@@ -36,7 +36,7 @@ to increase as well as cope with the autonomous behavior of software systems:
 <BR />
 Additionally, I am promoting rigor evaluation of self-adaptive software systems research ([SEAMS'21](publications/2021-SEAMS)) and industry-relevant research in this area ([SEAMS'23b](publications/2023-SEAMSb), [SIGSOFT SEN'22](publications/2022-SEN)), for instance, using artifacts such as _mRUBiS_ ([SEAMS'18a](publications/2018-SEAMSa)).
 
-### (2) Understanding intelligent methods and making intelligent methods self-adaptive
+### (2) Explaining intelligent methods and making intelligent methods self-adaptive
 Methods from computational and artificial intelligence are typically black-box and arcane for software engineers, which impedes an understanding why such intelligent methods work well and others do not for a specific problem. My goal is to develop explanations that enable such an understanding, and I particularly use _software engineering tools_ such as test case generators as target systems that use intelligent methods (e.g., evolutionary algorithms).
 
 With the [FLASH](projects) project, I developed **explanations of the difficulty of optimization problems in search-based software engineering** based on a fitness landscape analysis. The explanations enable a better understanding of the search problems and intelligent methods, which helps in manually configuring a method to yield better results for a specific problem. In this context, I envision **self-adaptive intelligent methods** that automatically and dynamically configure themselves at run-time.
