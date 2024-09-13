@@ -4,7 +4,7 @@ permalink: research.html
 layout: page
 ---
 
-My research focuses on developing methods and techniques that support **engineering autonomous software systems**, especially systems that adapt themselves and impact the environment based on automated decisions (cf. **self-aware and self-adaptive software systems**). This particularly includes methods and techniques for the **quality assurance and explanations of autonomous behavior** to make such systems **trustworthy**.
+My research focuses on developing methods and techniques that support **engineering autonomous software systems**, especially systems that adapt themselves and impact the environment based on automated decisions (cf. **self-aware and self-adaptive software systems**). This particularly includes methods and techniques for the **quality assurance and explanations of autonomous behavior** to make such systems **reliable and trustworthy**.
 In my work, I combine software engineering research with
 artificial and computational intelligence,
 formal methods,
