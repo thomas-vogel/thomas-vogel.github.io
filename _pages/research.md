@@ -4,7 +4,7 @@ permalink: research.html
 layout: page
 ---
 
-My research focuses on developing methods and techniques that support **engineering autonomous software systems**, especially systems that adapt themselves and impact the environment based on automated decisions (cf. **self-aware and self-adaptive software systems**). This particularly includes methods and techniques for the **quality assurance and explanations of autonomous behavior** to make such systems **reliable and trustworthy**.
+My research focuses on developing methods and techniques that support **engineering autonomous software systems**, especially systems that adapt themselves and impact the environment based on automated decisions (cf. **self-aware and self-adaptive software systems**). This particularly includes methods and techniques for the **quality assurance and explanations of autonomous behavior** to make such systems **dependable and trustworthy**.
 In my work, I combine software engineering research with
 artificial and computational intelligence,
 formal methods,
@@ -30,7 +30,7 @@ to increase as well as cope with the autonomous behavior of software systems:
 * **Learning and optimization from computational and artificial intelligence** to automatically identify optimal system configurations, adaptation rules, and adaptation decisions under uncertainty, which increases the level of autonomy ([TAAS'20](publications/2020-TAAS), [SEAMS'20a](publications/2020-SEAMSa), [SASO'19](publications/2019-SASO), [SEAMS'18b](publications/2018-SEAMSb), [ICAC'17](publications/2017-ICAC)), and to generate explanations for property violations in cyber-physical systems ([IEEE Software'24](publications/2024-IEEESoftware))
 * **Synthesis and model checking from formal methods** to generate optimal controllers for adaptation decisions with guarantees ([SEAMS'24](publications/2024-SEAMS)) and to formally verify self-adaptive systems ([SEAMS'19](publications/2019-SEAMS), [SEAMS'18b](publications/2018-SEAMSb))
 * **Control-theoretical principles** to systematically engineer self-adaptive systems with guarantees ([SEAMS'20a](publications/2020-SEAMSa), [SEAMS'20b](publications/2020-SEAMSb), [TAAS'17](publications/2017-TAAS), [CASaS'17](publications/2017-CASaS), [SEAMS'15](publications/2015-SEAMS))
-* **Verification and testing from software quality assurance** techniques to verify and validate self-adaptive systems ([SEAMS'23a](publications/2023-SEAMSa), [SEAMS'19](publications/2019-SEAMS), [SEAMS'18b](publications/2018-SEAMSb), [SEfSAS'17a](publications/2017-SEFSAS3a), [SEfSAS'17b](publications/2017-SEFSAS3b), [SASOW'15](publications/2015-SASOW))
+* **Verification and testing from software quality assurance** to verify and validate self-adaptive systems, among others, regarding safety and reliability ([SEAMS'23a](publications/2023-SEAMSa), [SEAMS'19](publications/2019-SEAMS), [SEAMS'18b](publications/2018-SEAMSb), [SEfSAS'17a](publications/2017-SEFSAS3a), [SEfSAS'17b](publications/2017-SEFSAS3b), [SASOW'15](publications/2015-SASOW))
 * **Developing architecture and design principles** for self-aware/self-adaptive systems  (see [ACSOSC'20](publications/2020-ACSOSC), [SACS'17a](publications/2017-SACSa), [SACS'17b](publications/2017-SACSb), [SACS'17c](publications/2017-SACSc))
 
 <BR />
