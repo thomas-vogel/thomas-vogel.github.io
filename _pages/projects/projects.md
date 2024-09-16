@@ -6,7 +6,7 @@ layout: page
 
 ## As Principal Investigator
 
-### Controlling Search-Based Test Case Generation and Program Repair
+### FLASH II: Controlling Search-Based Test Case Generation and Program Repair
 Dynamically controlling search processes to improve automated test case generation and program repair using control and self-adaptation principles (funded by DFG, [project website](flash2)).
 
 ### Self-Adaptive Search for Sapienz

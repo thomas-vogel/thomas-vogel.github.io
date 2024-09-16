@@ -1,5 +1,5 @@
 ---
-title: Controlling Search-Based Test Case Generation and Program Repair
+title: FLASH II&#058; Controlling Search-Based Test Case Generation and Program Repair
 permalink: projects/flash2.html
 layout: page
 ---
