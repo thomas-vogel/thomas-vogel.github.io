@@ -9,7 +9,7 @@ layout: page
 ### FLASH II: Controlling Search-Based Test Case Generation and Program Repair
 Dynamically controlling search processes to improve automated test case generation and program repair using control and self-adaptation principles (funded by DFG, [project website](flash2)).
 
-### Self-Adaptive Search for Sapienz
+### S3: Self-Adaptive Search for Sapienz
 Transferring self-adaptation principles to the search process of Sapienz, a search-based test suite generation tool for mobile applications (funded by the 2018 Facebook Testing and Verification Research Award). For further details, please have a look at the following presentation: [Search-Based App Testing, Fitness Landscape Analysis, and Diversity](https://www.tele-task.de/lecture/video/7788/){:target="_blank"}.
 
 ## As Research Assistant
