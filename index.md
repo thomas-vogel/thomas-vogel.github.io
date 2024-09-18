@@ -16,7 +16,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 ## Coordinates
 
 <section class="vcard">
-      Affiliation: Humboldt Universität zu Berlin (<a href="contact">mail and visitor address</a>)
+      Affiliation: Humboldt-Universität zu Berlin (<a href="contact">mail and visitor address</a>)
     <br /><br class="mobile-break">
     <div class="contactleft">
       E-mail: {{site.email}}  <br />
