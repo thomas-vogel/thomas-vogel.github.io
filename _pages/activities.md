@@ -39,7 +39,7 @@ layout: page
 
 * Best Paper Award for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
 * [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
-* [_Facebook Testing and Verification Research Award_](https://research.facebook.com/blog/2018/10/announcing-the-winners-of-the-facebook-testing-and-verification-research-awards/){:target="_blank"} for the project _Self-Adaptive Search for Sapienz_ (2018)
+* _Facebook Testing and Verification Research Award_ for the project [_S3: Self-Adaptive Search for Sapienz_](projects/S3) (2018)
 * [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
 *  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
 * Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'12)
