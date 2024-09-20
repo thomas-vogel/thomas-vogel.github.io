@@ -61,6 +61,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## Things Happening
 
+* __Sep 2024__ --- I was invited to the PC of the [_18th International Workshop on Search-Based and Fuzz Testing (SBFT 2025)_](https://sbft25.github.io/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
 * __Aug 2024__ --- Back to work from parental leave during which the following news arrived:
   * My project [_Controlling Search-Based Test Generation and Program Repair_](projects/flash2) was accepted for funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation).
   * I am the Program Committee Co-Chair of the Research Track at the [_20th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)_](https://conf.researchr.org/home/seams-2025/){:target="_blank"}, together with Shiva Nejati.
