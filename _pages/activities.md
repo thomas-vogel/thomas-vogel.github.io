@@ -83,6 +83,7 @@ layout: page
 ### 2025
 * 18th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2025){:target="_blank"})
 * 18th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft25.github.io/){:target="_blank"}) at ICSE
+* 22nd Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2025/){:target="_blank"}) at SE
 
 
 ### 2024
