@@ -5,11 +5,6 @@ layout: page
 ---
 
 <section class="vcard">
-      Phone: +49 30 2093-41147 <br />
-      E-mail: {{site.email}}  <br />
-      Mastodon: <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a> <br />
-      Twitter: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a> <br />
-    <br /><br class="mobile-break">
     <div class="contactleft">
       <em>Mail Address in Berlin</em> <br />
       Humboldt-Universität zu Berlin <br />

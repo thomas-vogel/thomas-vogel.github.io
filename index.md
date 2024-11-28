@@ -8,30 +8,66 @@ layout: home
 <br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
 </div>
 
-Thomas is a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}. From 10/2021 to 09/2022, he was [stand-in professor for Empirical Software Engineering at Paderborn University](https://www.uni-paderborn.de/en/person/92621){:target="_blank"}. Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"} at [University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, where he received his [Ph.D.](publications/phd) degree with summa cum laude in 2018.
+<section class="vcard">
+    <br />
+    <span style="font-size: 1em; color: gray;">
+      <i class="fa-regular fa-building" aria-hidden="true" title="Affiliation"></i>
+    </span>
+    <span class="sr-only">Affiliation:</span> 
+    &nbsp;&nbsp;&nbsp;Humboldt-Universität zu Berlin (<a href="contact">mail address</a>)
+    <br />
+    <span style="font-size: 1em; color: gray;">
+      <i class="fa-regular fa-envelope" aria-hidden="true" title="E-mail"></i>
+    </span>
+    <span class="sr-only">E-mail:</span>
+    &nbsp;&nbsp;<a href="mailto:{{site.email}}">{{site.email}}</a>  
+    <br />
+    <span style="font-size: 1em; color: gray;">
+    <i class="fa-solid fa-phone" aria-hidden="true" title="Phone"></i>
+    </span>
+    <span class="sr-only">Phone:</span> 
+    &nbsp;&nbsp;+49 30 2093-41147 
+    <br />
+    <span style="font-size: 1em; color: gray;"> <!-- #0085ff -->
+      <i class="fa-brands fa-bluesky" aria-hidden="true" title="Bluesky"></i>
+    </span>
+    <span class="sr-only">Bluesky:</span> 
+    &nbsp;&nbsp;<a rel="me" href="{{site.bluesky}}" target="_blank">{{site.bluesky_handle}}</a>
+    <br />
+    <span style="font-size: 1em; color: gray;"> <!-- rgb(99 100 255) -->
+    <i class="fa-brands fa-mastodon" aria-hidden="true" title="Mastodon"></i>
+    </span>
+    <span class="sr-only">Mastodon:</span> 
+    &nbsp;&nbsp;<a rel="me" href="{{site.mastodon}}" target="_blank">{{site.mastodon_handle}}</a>
+    <br />
+    <span style="font-size: 1em; color: gray;">
+      <i class="fa-brands fa-linkedin" aria-hidden="true" title="LinkedIn"></i>
+    </span>
+    <span class="sr-only">LinkedIn:</span> 
+    &nbsp;&nbsp;<a rel="me" href="{{site.linkedin}}" target="_blank">{{site.linkedin_handle}}</a>
+    <br />
+    <span style="font-size: 1em; color: gray;">
+      <i class="fa-brands fa-github" aria-hidden="true" title="GitHub"></i>
+    </span>
+    <span class="sr-only">GitHub:</span> 
+    &nbsp;&nbsp;<a rel="me" href="{{site.github}}" target="_blank">{{site.github_handle}}</a>
+      <!-- <br class="mobile-break"> 
+          <div class="contactleft">
+         </div>
+        <div class="contactright">
+        </div> -->
+</section>
+<!-- <br class="mobile-break"> -->
+<br />
+
+Thomas Vogel is a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}. From 10/2021 to 09/2022, he was [stand-in professor for Empirical Software Engineering at Paderborn University](https://www.uni-paderborn.de/en/person/92621){:target="_blank"}. Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"} at [University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, where he received his [Ph.D.](publications/phd) degree with summa cum laude in 2018.
 He studied Information Systems and graduated with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
 His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
 
-## Coordinates
-
-<section class="vcard">
-      Affiliation: Humboldt-Universität zu Berlin (<a href="contact">mail and visitor address</a>)
-    <br /><br class="mobile-break">
-    <div class="contactleft">
-      E-mail: {{site.email}}  <br />
-      Mastodon: <a rel="me" href="https://mastodon.acm.org/@tomvog" target="_blank">@tomvog@mastodon.acm.org</a>
-    </div>
-    <div class="contactright">
-      Phone: +49 30 2093-41147 <br />
-      Twitter/X: <a href="https://twitter.com/tomvog" target="_blank">@tomvog</a>
-    </div>
-</section>
-
-<br class="mobile-break">
-
 ## Calls
 
+<!--
 <section class="vcard" style="margin-top: 10px;">
     <div style="width: 100%; float: left; margin-bottom: 10px;">
       <a href="https://conf.researchr.org/home/seams-2025" target="_blank">
@@ -40,6 +76,7 @@ His research interests are in the areas of (search-based and model-driven) softw
       <div style="font-size: 10pt; margin-top: -10px;">Based on the <a href="https://commons.wikimedia.org/wiki/File:Ottawa_skyline_panorama1.jpg" target="_blank" rel="noopener">Ottawa skyline panorama</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en" target="_blank" rel="noopener">CC BY-SA 2.5 CA</a></div>
     </div>
 </section>
+-->
 
 [**20th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)**](https://conf.researchr.org/home/seams-2025/){:target="_blank"}
  * SEAMS 2025 is co-located with [ICSE 2025](https://conf.researchr.org/home/icse-2025){:target="_blank"} in Ottawa, Canada from 27 April to 3 May 2025.
@@ -59,7 +96,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 -->
 
 
-## Things Happening
+## News
 
 * __Oct 2024__ --- I was invited to the PC of the [_6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)_](https://conf.researchr.org/home/ast-2025){:target="_blank"}. Consider submitting your work on test automation.
 * __Sep 2024__ --- I was invited to the PC of the [_18th International Workshop on Search-Based and Fuzz Testing (SBFT 2025)_](https://sbft25.github.io/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
@@ -75,8 +112,9 @@ His research interests are in the areas of (search-based and model-driven) softw
 * __Dec 2023__ --- I am very happy that [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, a mentee of mine, successfully defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}. Congratulations!
 * __Nov 2023__ --- I am very happy that [Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"}, a mentee of mine, successfully defended her PhD thesis entitled _Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_ with summa cum laude. Congratulations!
 
-## Things Happened
-[Here](pastnews)
+<!-- ## Past News -->
+<BR />
+[Past news](pastnews)
 
 <!--
 <div class="blog">
