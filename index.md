@@ -3,12 +3,20 @@ title: Home
 permalink:
 layout: home
 ---
+
 <div class="pic">
 <img src="/assets/img/tom.jpg" alt="Me"/>
 <br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
 </div>
 
-<section class="vcard">
+<section class="vcard" style="padding-top:.25em">
+  <span style="font-size: 1em; color: gray;">
+      <i class="fa-solid fa-microscope" aria-hidden="true" title="Research"></i>
+    </span>
+    <span class="sr-only">Research:</span> 
+    <span style="font-size: 1em;">
+      &nbsp;&nbsp;Testing software and engineering autonomous systems
+    </span>
     <br />
     <span style="font-size: 1em; color: gray;">
       <i class="fa-regular fa-building" aria-hidden="true" title="Affiliation"></i>
