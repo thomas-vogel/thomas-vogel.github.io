@@ -22,7 +22,7 @@ layout: home
       <i class="fa-regular fa-building" aria-hidden="true" title="Affiliation"></i>
     </span>
     <span class="sr-only">Affiliation:</span> 
-    &nbsp;&nbsp;&nbsp;Humboldt-Universität zu Berlin (<a href="contact">mail address</a>)
+    &nbsp;&nbsp;&nbsp;Humboldt-Universität zu Berlin (<a href="contact">mail/visitor address</a>)
     <br />
     <span style="font-size: 1em; color: gray;">
       <i class="fa-regular fa-envelope" aria-hidden="true" title="E-mail"></i>
