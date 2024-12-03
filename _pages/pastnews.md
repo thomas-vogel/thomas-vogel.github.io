@@ -4,8 +4,13 @@ permalink: pastnews.html
 layout: page
 ---
 
+## 2024
+
+
 ## 2023
 
+* __Dec 2023__ --- I am very happy that [Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"}, a mentee of mine, successfully defended his PhD thesis entitled [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"}. Congratulations!
+* __Nov 2023__ --- I am very happy that [Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"}, a mentee of mine, successfully defended her PhD thesis entitled _Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_ with summa cum laude. Congratulations!
 * __Nov 2023__ --- We will present our work on _Runtime Verification of Self-Adaptive Systems with Changing Requirements_ in an accepted talk at the [GI Software Engineering conference (SE 2024)](https://se2024.se.jku.at/){:target="_blank"}.
 * __Oct 2023__ --- I will be teaching the following courses this semester: _Adaptive Systeme_ (Seminar, Master), _Software Engineering_ (Tutorial, Bachelor), and _Methoden und Modelle des Systementwurfs_ (Tutorial, Master).
 * __Sep 2023__ --- Our article [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](publications/2023-EMSE) has been published in the Empirical Software Engineering (EMSE) journal.
