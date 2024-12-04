@@ -6,7 +6,8 @@ layout: home
 
 <div class="pic">
 <img src="/assets/img/tom.jpg" alt="Me"/>
-<br />&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a>
+<br />
+<div style="font-size: 10pt; margin-top: -10px;">&copy; <a href="http://sabine-mittermeier.de" target="_blank" style="color:gray;">Sabine Mittermeier</a></div>
 </div>
 
 <section class="vcard" style="padding-top:.25em">
