@@ -40,17 +40,18 @@ layout: page
 * Best Paper Award for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
 * [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
 * _Facebook Testing and Verification Research Award_ for the project [_S3: Self-Adaptive Search for Sapienz_](projects/S3) (2018)
-* [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS'18](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
-*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC'17](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
-* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS'12)
-* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT'11)
-* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT'10)
-* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT'09)
+* [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
+*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC 2017](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
+* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2012)
+* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT 2011)
+* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT 2010)
+* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT 2009)
 
 
 ## Editorships
 
-* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Symposium on Adaptive and Self-Managing Systems (SEAMS).
+* Co-Editor of the special issue [_Advances in Search-Based Software Engineering_](https://link.springer.com/collections/iagebdeegi){:target="_blank"} in the _Automated Software Engineering_ journal (2025)
+* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Conference on Adaptive and Self-Managing Systems (SEAMS)
 
 
 ## Steering Committees
@@ -325,24 +326,25 @@ layout: page
 
 ### Accepted Talks
 
-* _Runtime Verification of Self-Adaptive Systems with Changing Requirements_, [GI Software Engineering 2024](https://se2024.se.jku.at/){:target="_blank"}, Linz, Austria, 02/2024.
-* _A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
-* _VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
-* _A Systematic Literature Review on Counterexample Explanation_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023.
-* _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_, [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"}, Potsdam, Germany, 06/2019.
+* _Formal Synthesis of Uncertainty Reduction Controller_, [GI Software Engineering 2025](https://se2025.sdq.kastel.kit.edu/){:target="_blank"}, Karlsruhe, Germany, 02/2025 ([paper](publications/2024-SEAMS) related to the talk).
+* _Runtime Verification of Self-Adaptive Systems with Changing Requirements_, [GI Software Engineering 2024](https://se2024.se.jku.at/){:target="_blank"}, Linz, Austria, 02/2024 ([paper](publications/2023-SEAMSa) related to the talk).
+* _A Comprehensive Empirical Evaluation of Generating Test Suites for Mobile Applications with Diversity_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023 ([paper](publications/2020-IST) related to the talk).
+* _VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023 ([paper](publications/2022-ISTb) related to the talk).
+* _A Systematic Literature Review on Counterexample Explanation_, [GI Software Engineering 2023](https://se-2023.gi.de/){:target="_blank"}, Paderborn, Germany, 02/2023 ([paper](publications/2022-ISTa) related to the talk).
+* _Challenges for Verifying and Validating Scientific Software in Computational Materials Science_, [deRSE19: Conference for Research Software Engineers in Germany](https://www.de-rse.org/en/conf2019/){:target="_blank"}, Potsdam, Germany, 06/2019 ([paper](publications/2019-SE4Science) related to the talk).
 
 
 ## Invitations to Seminars and Workshops
 
 * Bertinoro Seminar on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://www.ceub.it/events/event/bertinoro-meeting-on-uncertainty-in-self-adaptive-systems-usas/){:target="_blank"}, Bertinoro International Center for Informatics, Italy, 06/2023 (participation canceled).
 * NII Shonan Meeting on [_Uncertainty in Self-Adaptive Systems (USAS)_](https://shonan.nii.ac.jp/seminars/168/){:target="_blank"}, 12/2020 (rescheduled and eventually canceled due to COVID-19).
-* 3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'20)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
+* 3rd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS)_](https://shonan.nii.ac.jp/seminars/153/){:target="_blank"}, 01/2020 (participation canceled).
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://research.facebook.com/blog/2019/12/facebook-hosts-third-annual-testing-and-verification-symposium-in-london/){:target="_blank"}, London, UK, 11/2019.
 * _Facebook Testing and Verification (FaceTAV) Challenge Workshop_ and [_Symposium_](https://research.facebook.com/blog/2018/11/testing-and-verification-symposium-2018/){:target="_blank"}, London, UK, 11/2018.
 * [_Search-Based Model Engineering Workshop_](https://www.informatik.hu-berlin.de/de/forschung/gebiete/mse/HU-KCL-Workshop){:target="_blank"} at King's College London, 08/2018.  
 * Dagstuhl Workshop on [_Research Methods in Software Engineering_](http://www.dagstuhl.de/18034){:target="_blank"}, 01/2018.
-*  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'17)_](https://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
-*  1st  NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS'16)_](https://shonan.nii.ac.jp/seminars/077/){:target="_blank"}, 04/2016.
+*  2nd NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS)_](https://shonan.nii.ac.jp/seminar/110/){:target="_blank"}, 07/2017.
+*  1st  NII Shonan Meeting on [_Controlled Adaptation of Self-adaptive Systems (CASaS)_](https://shonan.nii.ac.jp/seminars/077/){:target="_blank"}, 04/2016.
 * GI Dagstuhl Seminar on [_Control Theory Meets Software Engineering_](http://www.dagstuhl.de/14382){:target="_blank"}, 09/2014.
 * Dagstuhl Seminar on [_Software Engineering for Self-Adaptive Systems: Assurances_](http://www.dagstuhl.de/13511){:target="_blank"}, 12/2013.
 * GI Dagstuhl Seminar on [_Quality-of-Service Attributes in Service- and Cloud-based Systems_](http://www.dagstuhl.de/12211){:target="_blank"}, 05/2012.
