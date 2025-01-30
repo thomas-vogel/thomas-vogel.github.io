@@ -37,12 +37,12 @@ layout: page
 
 ## Awards
 
-* Best Paper Award for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
+* Best Paper Award for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
 * [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
 * _Facebook Testing and Verification Research Award_ for the project [_S3: Self-Adaptive Search for Sapienz_](projects/S3) (2018)
 * [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
-*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th International Conference on Autonomic Computing ([ICAC 2017](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
-* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2012)
+*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th IEEE International Conference on Autonomic Computing ([ICAC 2017](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
+* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2012)
 * Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT 2011)
 * Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT 2010)
 * Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT 2009)
@@ -62,20 +62,20 @@ layout: page
 
 ## Organization Committees
 
-* Program Committee Co-Chair of the Research Track at the 20th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/track/seams-2025/){:target="_blank"})
+* Program Committee Co-Chair (Research Track) of the 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/track/seams-2025/){:target="_blank"})
 * Workshop Co-Chair of the Gesellschaft für Informatik (GI) conference on Software Engineering (SE), 2023 ([Link](https://se-2023.gi.de/){:target="_blank"})
-* Program Committee Co-Chair of the Hot off the Press (HOP) Track of the 15th International Symposium on Search-Based Software Engineering (SSBSE), 2023 ([Link](https://conf.researchr.org/home/ssbse-2023){:target="_blank"})
-* Program Committee Co-Chair of the Challenge Track at the 14th International Symposium on Search-Based Software Engineering (SSBSE), 2022 ([Link](https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge){:target="_blank"})
-* Program Committee Co-Chair of the Diversity, Equity and Inclusion (DE&I) Track at the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"})
-* Program Committee Chair of the Artifacts Track at the 16th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
+* Program Committee Co-Chair (Hot off the Press (HOP) Track) of the 15th International Symposium on Search-Based Software Engineering (SSBSE), 2023 ([Link](https://conf.researchr.org/home/ssbse-2023){:target="_blank"})
+* Program Committee Co-Chair (Challenge Track) of the 14th International Symposium on Search-Based Software Engineering (SSBSE), 2022 ([Link](https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge){:target="_blank"})
+* Program Committee Co-Chair (Diversity, Equity and Inclusion (DE&I) Track) of the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"})
+* Program Committee Chair (Artifacts Track) of the 16th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 * Co-Organizer of the 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
-* Co-Organizer of the _GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems_, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
-* Social Media Chair of the _14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
-* Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems_, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
-* Publicity Co-Chair, Web Chair, and Social Media Chair of the _13th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
-* Co-Organizer of the _GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems_, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"})
-* Web Chair of the _Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering_, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"})
-* Publicity Co-Chair of the _6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"})
+* Co-Organizer of the_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
+* Social Media Chair of the 14th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
+* Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
+* Publicity Co-Chair, Web Chair, and Social Media Chair of the 13th ACM/IEEE Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
+* Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"})
+* Web Chair of the Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"})
+* Publicity Co-Chair of the 6th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"})
 
 
 
