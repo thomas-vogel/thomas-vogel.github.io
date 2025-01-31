@@ -131,7 +131,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 ## Communities
 
 <section class="vcard" style="margin-left:35px;margin-top:25px;"><div>
- <a href="https://ssbse.info/" target="_blank"><img src="/assets/img/ssbse.png" alt="SSBSE" style="width: 100px; margin-right: 25px;"/></a>
+ <a href="https://solar-group.github.io/ssbse-website" target="_blank"><img src="/assets/img/ssbse.png" alt="SSBSE" style="width: 100px; margin-right: 25px;"/></a>
  <a href="http://www.self-adaptive.org" target="_blank"><img src="/assets/img/selfadaptive.png" alt="self-adaptive.org" style="width: 300px; margin-right: 25px;"/></a>
 
 <br />

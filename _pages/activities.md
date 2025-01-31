@@ -57,7 +57,7 @@ layout: page
 ## Steering Committees
 
 * Nominated Steering Committee member of the International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), based on my role as PC Co-Chair of SEAMS 2025 and responsible for the publicity strategy liaison, 2023-2028 ([Link](https://www.hpi.uni-potsdam.de/giese/public/selfadapt/seams/){:target="_blank"})
-* Elected Steering Committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://ssbse.info/){:target="_blank"}, elected for 2020-2022)
+* Elected Steering Committee member of the International Symposium on Search-Based Software Engineering ([SSBSE](https://solar-group.github.io/ssbse-website){:target="_blank"}, elected for 2020-2022)
 
 
 ## Organization Committees
