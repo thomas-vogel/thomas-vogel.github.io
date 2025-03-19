@@ -100,6 +100,8 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## News
 
+* __Feb 2025__ --- I was invited to the PC of the [_40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)_](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"}. Consider submitting your work on automation of software engineering.
+* __Feb 2025__ --- We presented our work [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the German Software Engineering conference ([SE 2025](https://se2025.sdq.kastel.kit.edu/){:target="_blank"}).
 * __Oct 2024__ --- I was invited to the PC of the [_6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)_](https://conf.researchr.org/home/ast-2025){:target="_blank"}. Consider submitting your work on test automation.
 * __Sep 2024__ --- I was invited to the PC of the [_18th International Workshop on Search-Based and Fuzz Testing (SBFT 2025)_](https://sbft25.github.io/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
 * __Aug 2024__ --- Back to work from parental leave during which the following news arrived:
