@@ -85,6 +85,7 @@ layout: page
 * 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"})
 * 18th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2025){:target="_blank"})
 * 6th Intl. Conference on Automation of Software Test ([AST](https://conf.researchr.org/home/ast-2025){:target="_blank"})
+* 17th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2025){:target="_blank"}), Research Paper Track
 * 18th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft25.github.io/){:target="_blank"}) at ICSE
 * 22nd Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2025/){:target="_blank"}) at SE
 
