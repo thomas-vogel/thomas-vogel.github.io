@@ -37,15 +37,16 @@ layout: page
 
 ## Awards
 
-* Best Paper Award for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
-* [_Best Reviewer Award as one of the "Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
-* _Facebook Testing and Verification Research Award_ for the project [_S3: Self-Adaptive Search for Sapienz_](projects/S3) (2018)
-* [_Distinguished PC Member Award_](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
-*  Karsten Schwan Best Paper Award for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th IEEE International Conference on Autonomic Computing ([ICAC 2017](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
-* Best paper award for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2012)
-* Best paper award for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT 2011)
-* Best paper award for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT 2010)
-* Best paper award for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT 2009)
+* **SEAMS 10-Year Most Influential Paper Award** for [_Software Engineering meets Control Theory_](publications/2015-SEAMS) awarded at the 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2025](https://conf.researchr.org/home/seams-2025){:target="_blank"})
+* **Best Paper Award** for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
+* **Best Reviewer Award** as one of the [_"Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
+* **Facebook Testing and Verification Research Award** for [_S3: Self-Adaptive Search for Sapienz_](projects/S3) (2018)
+* **Distinguished PC Member Award** [(certificate)](/assets/img/2018-SBCARS-DistinguishedPCMemberAward.png) of the 12th Brazilian Symposium on Software Components, Architectures, and Reuse ([SBCARS 2018](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
+*  **Karsten Schwan Best Paper Award** for [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](publications/2017-ICAC) at the 14th IEEE International Conference on Autonomic Computing ([ICAC 2017](http://icac2017.ece.ohio-state.edu/){:target="_blank"}, acceptance rate <20%)
+* **Best Paper Award** for [_A language for feedback loops in self-adaptive systems: Executable runtime megamodels_](publications/2012-SEAMS) at the 7th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2012)
+* **Best Paper Award** for [_Language and Framework Requirements for Adaptation Models_](publications/2011-MRT) at the 6th International Workshop on Models@run.time (MRT 2011)
+* **Best Paper Award** for [_Toward Megamodels at Runtime_](publications/2010-MRT) at the 5th International Workshop on Models@run.time (MRT 2010)
+* **Best Paper Award** for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT 2009)
 
 
 ## Editorships

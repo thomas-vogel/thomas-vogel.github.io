@@ -73,21 +73,14 @@ Thomas Vogel is a postdoctoral researcher in the [Software Engineering Group](ht
 He studied Information Systems and graduated with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
 His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
-
+<!--
 ## Calls
 
-[**20th IEEE/ACM International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)**](https://conf.researchr.org/home/seams-2025/){:target="_blank"}, co-located with [ICSE 2025](https://conf.researchr.org/home/icse-2025){:target="_blank"} in Ottawa, Canada.
-<section class="vcard" style="margin-top: 10px;">
-    <div style="width: 100%; float: left; margin-bottom: 10px;">
-      <a href="https://conf.researchr.org/home/seams-2025" target="_blank">
-        <img style="width: 97%;" src="assets/img/seams2025-banner-with_logo_s.jpg" alt="SEAMS 2025 Banner showing the skyline of Ottawa, Canada">
-      </a>
-      <div style="font-size: 10pt; margin-top: -10px;">Based on the <a href="https://commons.wikimedia.org/wiki/File:Ottawa_skyline_panorama1.jpg" target="_blank" rel="noopener">Ottawa skyline panorama</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en" target="_blank" rel="noopener">CC BY-SA 2.5 CA</a></div>
-    </div>
-</section>
+
 
 <BR />
 [Past calls](pastcalls)
+-->
 
 <!--
 <section class="vcard" style="margin-top: 25px;">
@@ -100,6 +93,8 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## News
 
+* __May 2025__ --- [We had a fantastic SEAMS 2025!](blog/2025-05-04-seams2025)
+* __Apr 2025__ --- We received the SEAMS 10-Year Most Influential Paper Award for our paper [_Software Engineering meets Control Theory_](publications/2015-SEAMS) at SEAMS 2025.
 * __Feb 2025__ --- I was invited to the PC of the [_40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)_](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"}. Consider submitting your work on automation of software engineering.
 * __Feb 2025__ --- We presented our work [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the German Software Engineering conference ([SE 2025](https://se2025.sdq.kastel.kit.edu/){:target="_blank"}).
 * __Oct 2024__ --- I was invited to the PC of the [_6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)_](https://conf.researchr.org/home/ast-2025){:target="_blank"}. Consider submitting your work on test automation.

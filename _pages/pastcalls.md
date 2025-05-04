@@ -4,6 +4,18 @@ permalink: pastcalls.html
 layout: page
 ---
 
+[**20th IEEE/ACM International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)**](https://conf.researchr.org/home/seams-2025/){:target="_blank"}, co-located with [ICSE 2025](https://conf.researchr.org/home/icse-2025){:target="_blank"} in Ottawa, Canada.
+<section class="vcard" style="margin-top: 10px;">
+    <div style="width: 100%; float: left; margin-bottom: 10px;">
+      <a href="https://conf.researchr.org/home/seams-2025" target="_blank">
+        <img style="width: 97%;" src="assets/img/seams2025-banner-with_logo_s.jpg" alt="SEAMS 2025 Banner showing the skyline of Ottawa, Canada">
+      </a>
+      <div style="font-size: 10pt; margin-top: -10px;">Based on the <a href="https://commons.wikimedia.org/wiki/File:Ottawa_skyline_panorama1.jpg" target="_blank" rel="noopener">Ottawa skyline panorama</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en" target="_blank" rel="noopener">CC BY-SA 2.5 CA</a></div>
+    </div>
+</section>
+
+<BR />
+
 <section class="vcard" style="margin-top: 10px">
     <div style="width: 13%; float: left;">
       <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge" target="_blank">
