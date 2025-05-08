@@ -73,7 +73,7 @@ layout: page
 * Co-Organizer of the_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
 * Social Media Chair of the 14th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
 * Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
-* Publicity Co-Chair, Web Chair, and Social Media Chair of the 13th ACM/IEEE Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
+* Publicity Co-Chair, Web Chair, and Social Media Chair of the 13th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
 * Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"})
 * Web Chair of the Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"})
 * Publicity Co-Chair of the 6th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"})
@@ -84,103 +84,103 @@ layout: page
 
 ### 2025
 * 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"})
-* 18th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2025){:target="_blank"})
-* 6th Intl. Conference on Automation of Software Test ([AST](https://conf.researchr.org/home/ast-2025){:target="_blank"})
-* 17th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2025){:target="_blank"}), Research Paper Track
-* 18th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft25.github.io/){:target="_blank"}) at ICSE
+* 18th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2025){:target="_blank"})
+* 6th ACM/IEEE International Conference on Automation of Software Test ([AST](https://conf.researchr.org/home/ast-2025){:target="_blank"})
+* 17th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2025){:target="_blank"}), Research Track
+* 18th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft25.github.io/){:target="_blank"}) at ICSE
 * 22nd Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2025/){:target="_blank"}) at SE
 
 
 ### 2024
-* 46th Intl. Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})
-* 19th Intl. Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2024){:target="_blank"})
-* 17th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2024){:target="_blank"})
-* 17th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft24.github.io/){:target="_blank"}) at ICSE
+* 46th IEEE/ACM International Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track){:target="_blank"})
+* 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2024){:target="_blank"})
+* 17th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2024){:target="_blank"})
+* 17th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft24.github.io/){:target="_blank"}) at ICSE
 * 21st Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2024/){:target="_blank"}) at SE
 
 ### 2023
-* 25th Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
-* 16th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2023){:target="_blank"})
-* 4th Intl. Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2023){:target="_blank"}) (Senior PC member)
-* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"})
-* 18th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
-* 15th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2023){:target="_blank"}), Research Paper Track
-* 16th Intl. Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft23.github.io/){:target="_blank"}) at ICSE
+* 25th ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
+* 16th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2023){:target="_blank"})
+* 4th IEEE International Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2023){:target="_blank"}) (Senior PC member)
+* 18th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Research Track
+* 18th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
+* 15th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2023){:target="_blank"}), Research Track
+* 16th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft23.github.io/){:target="_blank"}) at ICSE
 * 20th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2023/){:target="_blank"}) at SE
 * Software Engineering im Unterricht der Hochschulen ([SEUH](https://www.seuh.org/seuh2023/){:target="_blank"})
 
 ### 2022
-* 37th Intl. Conference on Automated Software Engineering (ASE), New Ideas and Emerging Results ([NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"})
-* 24th Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2022.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
-* 15th Intl. Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2022){:target="_blank"})
-* 3rd Intl. Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2022){:target="_blank"})
-* 17th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2022){:target="_blank"})
-* 14th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2022){:target="_blank"}), Research Paper Track
-* 16th Intl. Working Conference on Variability Modelling of Software-Intensive Systems ([VaMoS](https://vamos2022.isti.cnr.it/){:target="_blank"})
-* 15th Intl. Workshop on Search-Based Software Testing ([SBST](https://sbst22.github.io/){:target="_blank"}) at ICSE
+* 37th IEEE/ACM International Conference on Automated Software Engineering ([ASE](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track){:target="_blank"}), NIER Track
+* 24th ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2022.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
+* 15th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2022){:target="_blank"})
+* 3rd IEEE International Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2022){:target="_blank"})
+* 17th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2022){:target="_blank"})
+* 14th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2022){:target="_blank"}), Research Track
+* 16th International Working Conference on Variability Modelling of Software-Intensive Systems ([VaMoS](https://vamos2022.isti.cnr.it/){:target="_blank"})
+* 15th International Workshop on Search-Based Software Testing ([SBST](https://sbst22.github.io/){:target="_blank"}) at ICSE
 * 19th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2022/){:target="_blank"}) at SE
 
 ### 2021
-* 23rd Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2021.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
-* 2nd Intl. Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2021){:target="_blank"})
-* 16th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2021){:target="_blank"})
-* 13th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}), Research Paper Track
-* 13th Intl. Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}), New Ideas and Emerging Results (NIER)
+* 23rd ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2021.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
+* 2nd IEEE International Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2021){:target="_blank"})
+* 16th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2021){:target="_blank"})
+* 13th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}), Research Track
+* 13th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2021){:target="_blank"}), NIER Track
 * 15th European Conference on Software Architecture ([ECSA](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-doctoral-symposium){:target="_blank"}), Doctoral Symposium
 * Annual Modeling and Simulation Conference (ANNSIM), Theory and Foundations of Modeling and Simulation ([TMS](http://www.sce.carleton.ca/faculty/wainer/DEVS21/){:target="_blank"}) track
-* 2nd Intl. Conference on Autonomic Computing and Self-Organizing Systems ([ACSOS](https://conf.researchr.org/track/acsos-2021/acsos-2021-posters-and-demos){:target="_blank"}), Posters and Demos
-* 14th Intl. Workshop on Search-Based Software Testing ([SBST](https://sbst21.github.io/){:target="_blank"}) at ICSE
+* 2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems ([ACSOS](https://conf.researchr.org/track/acsos-2021/acsos-2021-posters-and-demos){:target="_blank"}), Posters and Demos
+* 14th International Workshop on Search-Based Software Testing ([SBST](https://sbst21.github.io/){:target="_blank"}) at ICSE
 * 5th Workshop on Self-Aware Computing ([SeAC](http://seac2021.informatik.uni-wuerzburg.de/){:target="_blank"}) at ACSOS
-* Special Session on Cyber Resilience and Antifragility in Complex, Distributed Systems ([CyRA](https://sites.google.com/view/sps21/cyra-special-session){:target="_blank"}) as part of the 3rd Intl. Workshop on Self-Protecting Systems (SPS) at ACSOS
-* 29th Intl. Workshop on Concurrency, Specification and Programming ([CS&P](https://www2.informatik.hu-berlin.de/csp2021/index.shtml){:target="_blank"})
+* Special Session on Cyber Resilience and Antifragility in Complex, Distributed Systems ([CyRA](https://sites.google.com/view/sps21/cyra-special-session){:target="_blank"}) as part of the 3rd International Workshop on Self-Protecting Systems (SPS) at ACSOS
+* 29th International Workshop on Concurrency, Specification and Programming ([CS&P](https://www2.informatik.hu-berlin.de/csp2021/index.shtml){:target="_blank"})
 
 ### 2020
-* 42th Intl. Conference on Software Engineering (ICSE), New Ideas and Emerging Results ([NIER](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"})
-* 22nd Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2020.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track-->
-* 15th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2020){:target="_blank"})
-* 12th Intl. Symposium on Search-Based Software Engineering ([SSBSE](http://ssbse2020.di.uniba.it/){:target="_blank"}), New Ideas and Emerging Results (NIER)
-* 1st Intl. Conference on Autonomic Computing and Self-Organizing Systems ([ACSOS](https://2020.acsos.org/){:target="_blank"}), Posters and Demos
-* 13th Intl. Workshop on Search-Based Software Testing ([SBST](https://sbst20.github.io/){:target="_blank"}) at ICSE
+* 42th IEEE/ACM International Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2020/icse-2020-New-Ideas-and-Emerging-Results){:target="_blank"}), NIER Track
+* 22nd ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2020.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track-->
+* 15th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2020){:target="_blank"})
+* 12th International Symposium on Search-Based Software Engineering ([SSBSE](http://ssbse2020.di.uniba.it/){:target="_blank"}), NIER Track
+* 1st IEEE International Conference on Autonomic Computing and Self-Organizing Systems ([ACSOS](https://2020.acsos.org/){:target="_blank"}), Posters and Demos
+* 13th International Workshop on Search-Based Software Testing ([SBST](https://sbst20.github.io/){:target="_blank"}) at ICSE
 * 4th Workshop on Self-Aware Computing ([SeAC](http://seac2020.informatik.uni-wuerzburg.de/){:target="_blank"}) at ACSOS
-* 1st Intl. Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems ([CyRA](https://cyra2020.github.io/){:target="_blank"}) at ACSOS
+* 1st International Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems ([CyRA](https://cyra2020.github.io/){:target="_blank"}) at ACSOS
 
 ### 2019
-* 21st Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2019.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
-* 14th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](http://2019.seams-symposia.org){:target="_blank"})
+* 21st ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2019.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
+* 14th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](http://2019.seams-symposia.org){:target="_blank"})
 * 13th Brazilian Symposium on Software Components, Architectures and Reuse ([SBCARS](http://cbsoft2019.ufba.br/#/sbcars){:target="_blank"})
 * 13th European Conference on Software Architecture ([ECSA](https://ecsa2019.univ-lille.fr/tracks/posters-tools-demos.html){:target="_blank"}), Posters, Tools, and Demos
-* 16th Intl. Conference on Autonomic Computing ([ICAC](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}) and 13th Intl. Conference on Self-Adaptive and Self-Organizing Systems ([SASO](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}), Posters and Demos
-* 13th Intl. Workshop on Variability Modelling of Software-Intensive Systems ([VaMoS](https://vamos2019.github.io){:target="_blank"})
-* 1st Intl. Workshop on Explainable Software ([EXPLAIN](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"}) at ASE
+* 16th IEEE International Conference on Autonomic Computing ([ICAC](http://icac2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}) and 13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems ([SASO](http://saso2019.cs.umu.se/calls/call-for-posters-and-demos/){:target="_blank"}), Posters and Demos
+* 13th International Workshop on Variability Modelling of Software-Intensive Systems ([VaMoS](https://vamos2019.github.io){:target="_blank"})
+* 1st International Workshop on Explainable Software ([EXPLAIN](https://2019.ase-conferences.org/home/explain-2019){:target="_blank"}) at ASE
 
 ### 2018
-* 13th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](http://2018.seams-symposia.org){:target="_blank"})
+* 13th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](http://2018.seams-symposia.org){:target="_blank"})
 * 12th Brazilian Symposium on Software Components, Architectures and Reuse ([SBCARS](http://cbsoft2018.icmc.usp.br/#/sbcars){:target="_blank"})
 * Modellierung 2018, Industry Track (Praxisforum)
-* 15th Intl. Conference on Autonomic Computing ([ICAC](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"}) and 12th Intl. Conference on Self-Adaptive and Self-Organizing Systems ([SASO](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}), Posters and Demos
+* 15th IEEE International Conference on Autonomic Computing ([ICAC](http://icac2018.informatik.uni-wuerzburg.de/calls/call-for-posters-and-demos/){:target="_blank"}) and 12th IEEE International Conference on Self-Adaptive and Self-Organizing Systems ([SASO](https://saso2018.fbk.eu/index.php/call-for-posters-and-demos/){:target="_blank"}), Posters and Demos
 * 2nd Workshop on Model-Driven Engineering Tools ([MDETools](https://mdetools.github.io/mdetools18/){:target="_blank"}) at MoDELS
-* 13th Intl. Workshop on Models@run.time ([MRT](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"}) at MODELS
-* 1st Joint Intl. Workshop on Models@run.time and Self-aware Computing Systems ([MRT-SeAC](http://st.inf.tu-dresden.de/MRT18-ICAC/){:target="_blank"}) at ICAC/SASO
+* 13th International Workshop on Models@run.time ([MRT](http://st.inf.tu-dresden.de/MRT18/){:target="_blank"}) at MODELS
+* 1st Joint International Workshop on Models@run.time and Self-aware Computing Systems ([MRT-SeAC](http://st.inf.tu-dresden.de/MRT18-ICAC/){:target="_blank"}) at ICAC/SASO
 
 ### 2017
 * 1st Workshop on Model-Driven Engineering Tools ([MDETools](http://mase.cs.queensu.ca/mdetools/){:target="_blank"}) at MoDELS
-* 12th Intl. Workshop on Models@run.time ([MRT](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}) at MoDELS
-* 2nd Intl. Workshop on Models@run.time for Self-aware Computing Systems ([MRT-ICAC](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"}) at ICAC
+* 12th International Workshop on Models@run.time ([MRT](http://st.inf.tu-dresden.de/MRT17/){:target="_blank"}) at MoDELS
+* 2nd International Workshop on Models@run.time for Self-aware Computing Systems ([MRT-ICAC](http://st.inf.tu-dresden.de/MRT17-ICAC/){:target="_blank"}) at ICAC
 
 ### 2016
-* 24th Intl. Symposium on the Foundations of Software Engineering ([FSE](https://www.cs.ucdavis.edu/fse2016/calls/demos/){:target="_blank"}), Demo Paper Track
+* 24th ACM International Symposium on the Foundations of Software Engineering ([FSE](https://www.cs.ucdavis.edu/fse2016/calls/demos/){:target="_blank"}), Demo Track
 * 10th European Conference on Software Architecture ([ECSA](http://ecsa2016.icmc.usp.br/#doctoral){:target="_blank"}), Doctoral Symposium
-* 11th Intl. Workshop on Models@run.time ([MRT](http://st.inf.tu-dresden.de/MRT16/){:target="_blank"}) at MoDELS
-* 1st Intl. Workshop on Models@run.time for Self-aware Computing Systems ([MRT-ICAC](http://st.inf.tu-dresden.de/MRT16-ICAC/){:target="_blank"}) at ICAC
-* 3rd Intl. Workshop on Open Source Software for Model-Driven Engineering ([OSS4MDE](http://ceur-ws.org/Vol-1835/){:target="_blank"}) at MoDELS
+* 11th International Workshop on Models@run.time ([MRT](http://st.inf.tu-dresden.de/MRT16/){:target="_blank"}) at MoDELS
+* 1st International Workshop on Models@run.time for Self-aware Computing Systems ([MRT-ICAC](http://st.inf.tu-dresden.de/MRT16-ICAC/){:target="_blank"}) at ICAC
+* 3rd International Workshop on Open Source Software for Model-Driven Engineering ([OSS4MDE](http://ceur-ws.org/Vol-1835/){:target="_blank"}) at MoDELS
 
 ### 2015
-* 10th Intl. Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](http://www.disim.univaq.it/seams2015/){:target="_blank"}), Artifact Evaluation Committee
-* 1st Intl. Workshop on Control Theory for Software Engineering ([CTSE](http://dl.acm.org/citation.cfm?id=2804337){:target="_blank"}) at ESEC/FSE
-* 10th Intl. Workshop on Models@run.time ([MRT](https://st.inf.tu-dresden.de/MRT15/){:target="_blank"}) at MoDELS
+* 10th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](http://www.disim.univaq.it/seams2015/){:target="_blank"}), Artifact Evaluation Committee
+* 1st International Workshop on Control Theory for Software Engineering ([CTSE](http://dl.acm.org/citation.cfm?id=2804337){:target="_blank"}) at ESEC/FSE
+* 10th International Workshop on Models@run.time ([MRT](https://st.inf.tu-dresden.de/MRT15/){:target="_blank"}) at MoDELS
 
 ### 2014
-* 9th Intl. Workshop on Models@run.time ([MRT](https://st.inf.tu-dresden.de/MRT14/){:target="_blank"}) at MoDELS
+* 9th International Workshop on Models@run.time ([MRT](https://st.inf.tu-dresden.de/MRT14/){:target="_blank"}) at MoDELS
 
 
 

@@ -7,8 +7,9 @@ layout: page
 ## Reference
 Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. "Software Engineering meets Control Theory". In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’15. IEEE, 2015, pp. 71--82. DOI: 10.1109/SEAMS.2015.12 
 
--- **SEAMS 10-Year Most Influential Paper Award**
+-- **SEAMS 10-Year Most Influential Paper Award** (awarded at [SEAMS 2025](https://conf.researchr.org/home/seams-2025/){:target="_blank"})
 
+<a href="/assets/img/2025-SEAMS-MIP-Award.png"><img src="/assets/img/2025-SEAMS-MIP-Award.png" alt="Certificate of the SEAMS 10-Year Most Influential Paper Award" style="width: 55%; margin-top: 0em; margin-left: 1em;"/></a>
 
 
 ## Links

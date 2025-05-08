@@ -6,6 +6,18 @@ layout: page
 
 ## 2024
 
+* __Oct 2024__ --- I was invited to the PC of the [_6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)_](https://conf.researchr.org/home/ast-2025){:target="_blank"}. Consider submitting your work on test automation.
+* __Sep 2024__ --- I was invited to the PC of the [_18th International Workshop on Search-Based and Fuzz Testing (SBFT 2025)_](https://sbft25.github.io/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
+* __Aug 2024__ --- Back to work from parental leave during which the following news arrived:
+  * My project [_Controlling Search-Based Test Generation and Program Repair_](projects/flash2) was accepted for funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation).
+  * I am the Program Committee Co-Chair of the Research Track at the [_20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)_](https://conf.researchr.org/home/seams-2025/){:target="_blank"}, together with Shiva Nejati.
+  * Our article [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](publications/2024-IEEESoftware) has been pulished in _IEEE Software_.
+  * Our paper [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) has been accepted at the 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"}) and we won the __Best Paper Award__.
+
+  <a href="/assets/img/2024-SEAMS-BestPaperAward.jpg"><img src="/assets/img/2024-SEAMS-BestPaperAward.jpg" alt="SEAMS 2024 Best Paper Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
+  * I was invited to the PC of the Research Papers Track of the [_18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)_](https://conf.researchr.org/home/icst-2025){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
+* __Jan 2024__ --- I am on parental leave from January to August 2024.
+
 
 ## 2023
 

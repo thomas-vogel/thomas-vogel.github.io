@@ -73,6 +73,14 @@ Thomas Vogel is a postdoctoral researcher in the [Software Engineering Group](ht
 He studied Information Systems and graduated with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
 His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
 
+[**Curriculum vitae**](assets/pdf/cv-thomas-vogel.pdf){:target="_blank"} &#x2022;
+[DBLP](https://dblp.uni-trier.de/pers/hd/v/Vogel_0001:Thomas){:target="_blank"} &#x2022;
+[Google Scholar](https://scholar.google.com/citations?user=BnTgaaIAAAAJ){:target="_blank"} &#x2022;
+[ACM DL](http://dl.acm.org/author_page.cfm?id=81435606323){:target="_blank"} &#x2022;
+[arXiv.org](https://arxiv.org/a/vogel_t_2.html){:target="_blank"} &#x2022;
+[ORCiD](http://orcid.org/0000-0002-7127-352X){:target="_blank"}
+
+
 <!--
 ## Calls
 
@@ -95,19 +103,11 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 * __May 2025__ --- [We had a fantastic SEAMS 2025!](blog/2025-05-04-seams2025)
 * __Apr 2025__ --- We received the SEAMS 10-Year Most Influential Paper Award for our paper [_Software Engineering meets Control Theory_](publications/2015-SEAMS) at SEAMS 2025.
+
+<a href="/assets/img/2025-SEAMS-MIP-Award.png"><img src="/assets/img/2025-SEAMS-MIP-Award.png" alt="Certificate of the SEAMS 10-Year Most Influential Paper Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
 * __Feb 2025__ --- I was invited to the PC of the [_40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)_](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"}. Consider submitting your work on automation of software engineering.
 * __Feb 2025__ --- We presented our work [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the German Software Engineering conference ([SE 2025](https://se2025.sdq.kastel.kit.edu/){:target="_blank"}).
-* __Oct 2024__ --- I was invited to the PC of the [_6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)_](https://conf.researchr.org/home/ast-2025){:target="_blank"}. Consider submitting your work on test automation.
-* __Sep 2024__ --- I was invited to the PC of the [_18th International Workshop on Search-Based and Fuzz Testing (SBFT 2025)_](https://sbft25.github.io/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
-* __Aug 2024__ --- Back to work from parental leave during which the following news arrived:
-  * My project [_Controlling Search-Based Test Generation and Program Repair_](projects/flash2) was accepted for funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation).
-  * I am the Program Committee Co-Chair of the Research Track at the [_20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)_](https://conf.researchr.org/home/seams-2025/){:target="_blank"}, together with Shiva Nejati.
-  * Our article [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](publications/2024-IEEESoftware) has been pulished in _IEEE Software_.
-  * Our paper [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) has been accepted at the 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"}) and we won the __Best Paper Award__.
 
-  <a href="/assets/img/2024-SEAMS-BestPaperAward.jpg"><img src="/assets/img/2024-SEAMS-BestPaperAward.jpg" alt="SEAMS 2024 Best Paper Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
-  * I was invited to the PC of the Research Papers Track of the [_18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)_](https://conf.researchr.org/home/icst-2025){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
-* __Jan 2024__ --- I am on parental leave from January to August 2024.
 
 <!-- ## Past News -->
 <BR />
