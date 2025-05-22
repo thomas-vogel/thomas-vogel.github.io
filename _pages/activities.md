@@ -49,10 +49,11 @@ layout: page
 * **Best Paper Award** for [_Incremental Model Synchronization for Efficient Run-time Monitoring_](publications/2009-MRTa) at the 4th International Workshop on Models@run.time (MRT 2009)
 
 
-## Editorships
+## Editorial Boards
 
+* Associate Editor of [_ACM Transactions on Autonomous and Adaptive Systems (TAAS)_](https://taas.acm.org/){:target="_blank"}, since 2025
 * Co-Editor of the special issue [_Advances in Search-Based Software Engineering_](https://link.springer.com/collections/iagebdeegi){:target="_blank"} in the _Automated Software Engineering_ journal (2025)
-* Editor of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Conference on Adaptive and Self-Managing Systems (SEAMS)
+* Editor-in-Chief of [self-adaptive.org](http://self-adaptive.org){:target="_blank"} (since 2014), the central website of the research community on Software Engineering for Self-Adaptive Systems connected to the annual ACM/IEEE International Conference on Adaptive and Self-Managing Systems (SEAMS)
 
 
 ## Steering Committees
@@ -70,7 +71,7 @@ layout: page
 * Program Committee Co-Chair (Diversity, Equity and Inclusion (DE&I) Track) of the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"})
 * Program Committee Chair (Artifacts Track) of the 16th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
 * Co-Organizer of the 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
-* Co-Organizer of the_GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
+* Co-Organizer of the GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
 * Social Media Chair of the 14th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
 * Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
 * Publicity Co-Chair, Web Chair, and Social Media Chair of the 13th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
