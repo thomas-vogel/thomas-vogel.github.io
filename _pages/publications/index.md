@@ -14,6 +14,13 @@ See [my publications by type](/publications/type) or at
 <br />
 A list of published (extended) abstracts is available [here](abstracts).
 
+
+## 2025
+* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_<span style="font-variant:small-caps;">Parley+</span>: Uncertainty Reduction in Self-Adaptive Systems_](2025-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems (2025). (Just Accepted).
+* Siobhán Clarke, Shiva Nejati, and Thomas Vogel, eds. [_Proceedings of the 20th IEEE/ACM International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)_](2025-SEAMS). IEEE, 2025
+* Erik Fredericks, Paolo Arcaini, Tao Yue, Thomas Vogel, Rebecca Moussa, Gregory Gay, Max Hort, Bobby Bruce, José Miguel Rojas, and Vali Tawosi, eds. [_Special Issue on Advances in Search-Based Software Engineering in the Automated Software Engineering Journal_](2025-ASEJ). Springer, 2025.
+
+
 ## 2024
 * João Paulo Costa de Araujo, Genaína Nunes Rodrigues, Marc Carwehl, Thomas Vogel, Lars Grunske, Ricardo Caldas, and Patrizio Pelliccione. [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](2024-IEEESoftware). In: IEEE Software 41.5 (2024), pp. 43–51.
 * Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_Formal Synthesis of Uncertainty Reduction Controllers_](2024-SEAMS). In: Proceedings of the 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’24. ACM, 2024, pp. 2--13. _(**Best Paper Award**)_
@@ -74,7 +81,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## 2017
 
-* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. 59--68. _(**Karsten Schwan Best Paper Award**)_.
+* Sona Ghahremani, Holger Giese, and Thomas Vogel. [_Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures_](2017-ICAC). In: International Conference on Autonomic Computing. ICAC '17. IEEE, 2017, pp. 59--68. _(**Karsten Schwan Best Paper Award**)_
 * Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Control Strategies for Self-Adaptive Software Systems_](2017-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 11.4 (2017), 24:1--24:31.
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, and Samuel Kounev. [_Architectural Concepts for Self-Aware Computing Systems_](2017-SACSa). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 5, pp. 109--147.
 * Holger Giese, Thomas Vogel, Ada Diaconescu, Sebastian Götz, and Kirstie Bellman. [_Generic Architectures for Individual Self-Aware Computing Systems_](2017-SACSb). In: Self-Aware Computing Systems. Ed. by Samuel Kounev, Jeffrey O. Kephart, Aleksandar Milenkoski, and Xiaoyun Zhu. Springer, 2017. Chap. 6, pp. 149--189.
@@ -91,7 +98,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## 2015
 
-* Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Software Engineering meets Control Theory_](2015-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’15. IEEE, 2015, pp. 71--82.
+* Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. [_Software Engineering meets Control Theory_](2015-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’15. IEEE, 2015, pp. 71--82. _(**SEAMS 10-Year Most Influential Paper Award**)_
 * Holger Giese, Thomas Vogel, and Sebastian Wätzoldt. [_Towards Smart Systems of Systems_](2015-FSEN). In: International Conference on Fundamentals of Software Engineering (FSEN ’15). Vol. 9392. Lecture Notes in Computer Science (LNCS). Springer, 2015, pp. 1--29. _(invited paper)_.
 * Joachim Hänsel, Thomas Vogel, and Holger Giese. [_A Testing Scheme for Self-Adaptive Software Systems with Architectural Runtime Models_](2015-SASOW). In: International Conference on Self-Adaptive and Self-Organizing Systems Workshops. SASOW ’15. IEEE, 2015, pp. 134--139.
 
@@ -113,14 +120,14 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## 2012
 
-* Thomas Vogel and Holger Giese. [_A Language for Feedback Loops in Self-Adaptive Systems: Executable Runtime Megamodels_](2012-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’12. IEEE, 2012, pp. 129--138. _**(selected as one of two best papers)**_.
+* Thomas Vogel and Holger Giese. [_A Language for Feedback Loops in Self-Adaptive Systems: Executable Runtime Megamodels_](2012-SEAMS). In: International Symposium on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’12. IEEE, 2012, pp. 129--138. _(**selected as one of two best papers**)_
 * Thomas Vogel and Holger Giese. [_Requirements and Assessment of Languages and Frameworks for Adaptation Models_](2012-MISE). In: Models in Software Engineering, Workshops and Symposia at MoDELS 2011, Reports and Revised Selected Papers. Ed. by Jörg Kienzle. Vol. 7167. Lecture Notes in Computer Science (LNCS). Springer, 2012, pp. 167--182.
 * Holger Giese, Leen Lambers, Basil Becker, Stephan Hildebrandt, Stefan Neumann, Thomas Vogel, and Sebastian Wätzoldt. [_Graph Transformations for MDE, Adaptation, and Models at Runtime_](2012-SFM). In: Formal Methods for Model-Driven Engineering. Ed. by Marco Bernardo, Vittorio Cortellessa, and Alfonso Pierantonio. Vol. 7320. Lecture Notes in Computer Science (LNCS). Springer, 2012, pp. 137--191.
 
 
 ## 2011
 
-* Thomas Vogel and Holger Giese. [_Language and Framework Requirements for Adaptation Models_](2011-MRT). In: International Workshop on Models@run.time. Vol. 794. CEUR Workshop Proceedings. CEUR-WS.org, 2011, pp. 1--12. _**(best paper)**_.
+* Thomas Vogel and Holger Giese. [_Language and Framework Requirements for Adaptation Models_](2011-MRT). In: International Workshop on Models@run.time. Vol. 794. CEUR Workshop Proceedings. CEUR-WS.org, 2011, pp. 1--12. _(**best paper**)_
 * Thomas Vogel, Andreas Seibel, and Holger Giese. [_The Role of Models and Megamodels at Runtime_](2011-MISE). In: Models in Software Engineering, Workshops and Symposia at MODELS 2010, Reports and Revised Selected Papers. Ed. by Juergen Dingel and Arnor Solberg. Vol. 6627. Lecture Notes in Computer Science (LNCS). Springer, 2011, pp. 224--238.
 * Rogério de Lemos, Holger Giese, Hausi Müller, Mary Shaw, Jesper Andersson, Luciano Baresi, Basil Becker, Nelly Bencomo, Yuriy Brun, Bojan Cukic, Ron Desmarais, Schahram Dustdar, Gregor Engels, Kurt Geihs, Karl Goeschka, Alessandra Gorla, Vincenzo Grassi, Poala Inverardi, Gabor Karsai, Jeff Kramer, Marin Litoiu, Antónia Lopes, Jeff Magee, Sam Malek, Serge Mankovskii, Raffaela Mirandola, John Mylopoulos, Oscar Nierstrasz, Mauro Pezzè, Christian Prehofer, Wilhelm Schäfer, Wilhelm Schlichting, Bradley Schmerl, Dennis B. Smith, Joao P. Sousa, Gabriel Tamura, Ladan Tahvildari, Norha M. Villegas, Thomas Vogel, Danny Weyns, Kenny Wong, and Jochen Wuttke. [_Software Engineering for Self-Adpaptive Systems: A second Research Roadmap_](2011-Dagstuhl). In: Software Engineering for Self-Adaptive Systems. Ed. by Rogério de Lemos, Holger Giese, Hausi Müller, and Mary Shaw. Dagstuhl Seminar Proceedings 10431. Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany, 2011. _(draft version of May 20, 2011)_.
 
@@ -129,13 +136,13 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 * Thomas Vogel and Holger Giese. [_Adaptation and Abstract Runtime Models_](2010-SEAMS). In: International Workshop on Software Engineering for Adaptive and Self-Managing Systems. SEAMS ’10. ACM, 2010, pp. 39--48.
 * Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Incremental Model Synchronization for Efficient Run-Time Monitoring_](2010-MISE). In: Models in Software Engineering, Workshops and Symposia at MODELS 2009, Reports and Revised Selected Papers. Ed. by Sudipto Ghosh. Vol. 6002. Lecture Notes in Computer Science (LNCS). Springer, 2010, pp. 124--139.
-* Thomas Vogel, Andreas Seibel, and Holger Giese. [_Toward Megamodels at Runtime_](2010-MRT). In: International Workshop on Models@run.time. Vol. 641. CEUR Workshop Proceedings. CEUR-WS.org, 2010, pp. 13--24. _**(best paper)**_.
+* Thomas Vogel, Andreas Seibel, and Holger Giese. [_Toward Megamodels at Runtime_](2010-MRT). In: International Workshop on Models@run.time. Vol. 641. CEUR Workshop Proceedings. CEUR-WS.org, 2010, pp. 13--24. _(**best paper**)_
 
 
 ## 2009
 
 * Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Model-Driven Architectural Monitoring and Adaptation for Autonomic Systems_](2009-ICAC). In: International Conference on Autonomic Computing and Communications. ICAC ’09. ACM, 2009, pp. 67--68.
-* Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Incremental Model Synchronization for Efficient Run-time Monitoring_](2009-MRTa). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 1--10. _**(best paper)**_.
+* Thomas Vogel, Stefan Neumann, Stephan Hildebrandt, Holger Giese, and Basil Becker. [_Incremental Model Synchronization for Efficient Run-time Monitoring_](2009-MRTa). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 1--10. _(**best paper**)_
 * Holger Giese, Andreas Seibel, and Thomas Vogel. [_A Model-Driven Configuration Management System for Advanced IT Service Management_](2009-MRTb). In: International Workshop on Models@run.time. Vol. 509. CEUR Workshop Proceedings. CEUR-WS.org, 2009, pp. 61--70.
 
 

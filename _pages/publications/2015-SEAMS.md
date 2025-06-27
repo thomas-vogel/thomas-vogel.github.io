@@ -25,13 +25,13 @@ The software engineering community has proposed numerous approaches for making s
 
 <div class="bibtex">
 <pre>@inproceedings{2015-SEAMS,
-    author = {Filieri, Antonio and Maggio, Martina and Angelopoulos, Konstantinos and D’Ippolito, Nicolas and Gerostathopoulos, Ilias and Hempel, Andreas Berndt and Hoffmann, Henry and Jamshidi, Pooyan and Kalyvianaki, Evangelia and Klein, Cristian and Krikava, Filip and Misailovic, Sasa and Papadopoulos, Alessandro Vittorio and Ray, Suprio and Sharifloo, Amir M. and Shevtsov, Stepan and Ujma, Mateusz and Vogel, Thomas},
-    title = {Software Engineering meets Control Theory},
-    year = {2015},
-    booktitle = {International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
-    series = {SEAMS~'15},
-    publisher = {IEEE},
-    pages = {71--82},
-    doi = {10.1109/SEAMS.2015.12},
+  author = {Filieri, Antonio and Maggio, Martina and Angelopoulos, Konstantinos and D’Ippolito, Nicolas and Gerostathopoulos, Ilias and Hempel, Andreas Berndt and Hoffmann, Henry and Jamshidi, Pooyan and Kalyvianaki, Evangelia and Klein, Cristian and Krikava, Filip and Misailovic, Sasa and Papadopoulos, Alessandro Vittorio and Ray, Suprio and Sharifloo, Amir M. and Shevtsov, Stepan and Ujma, Mateusz and Vogel, Thomas},
+  title = {Software Engineering meets Control Theory},
+  year = {2015},
+  booktitle = {International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
+  series = {SEAMS~'15},
+  publisher = {IEEE},
+  pages = {71--82},
+  doi = {10.1109/SEAMS.2015.12},
 }</pre>
 </div>

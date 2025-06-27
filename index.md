@@ -101,6 +101,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## News
 
+* __Jun 2025__ --- Our article on [<span style="font-variant:small-caps;">Parley+</span>](publications/2025-TAAS) has been acceted at TAAS.
 * __May 2025__ --- I joined the editorial board of [_ACM Transactions on Autonomous and Adaptive Systems (TAAS)_](https://taas.acm.org/){:target="_blank"} as an associate editor.
 * __May 2025__ --- [We had a fantastic SEAMS 2025!](blog/2025-05-04-seams2025)
 * __Apr 2025__ --- We received the SEAMS 10-Year Most Influential Paper Award for our paper [_Software Engineering meets Control Theory_](publications/2015-SEAMS) at SEAMS 2025.
