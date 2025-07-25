@@ -64,7 +64,7 @@ layout: page
 
 ## Organization Committees
 
-* Program Committee Co-Chair (Research Track) of the 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/track/seams-2025/){:target="_blank"})
+* Program Committee Co-Chair (Research Track) of the 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/home/seams-2025){:target="_blank"})
 * Workshop Co-Chair of the Gesellschaft für Informatik (GI) conference on Software Engineering (SE), 2023 ([Link](https://se-2023.gi.de/){:target="_blank"})
 * Program Committee Co-Chair (Hot off the Press (HOP) Track) of the 15th International Symposium on Search-Based Software Engineering (SSBSE), 2023 ([Link](https://conf.researchr.org/home/ssbse-2023){:target="_blank"})
 * Program Committee Co-Chair (Challenge Track) of the 14th International Symposium on Search-Based Software Engineering (SSBSE), 2022 ([Link](https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge){:target="_blank"})
@@ -82,6 +82,10 @@ layout: page
 
 
 ## Program Committees
+
+### 2026
+* 21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2026){:target="_blank"})
+
 
 ### 2025
 * 40th IEEE/ACM International Conference on Automated Software Engineering ([ASE](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"})
