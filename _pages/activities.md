@@ -85,6 +85,7 @@ layout: page
 
 ### 2026
 * 21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2026){:target="_blank"})
+* 23rd Workshop on Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2026/){:target="_blank"}) at SE
 
 
 ### 2025
@@ -93,7 +94,7 @@ layout: page
 * 6th ACM/IEEE International Conference on Automation of Software Test ([AST](https://conf.researchr.org/home/ast-2025){:target="_blank"})
 * 17th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2025){:target="_blank"}), Research Track
 * 18th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft25.github.io/){:target="_blank"}) at ICSE
-* 22nd Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2025/){:target="_blank"}) at SE
+* 22nd Workshop on Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2025/){:target="_blank"}) at SE
 
 
 ### 2024
@@ -101,7 +102,7 @@ layout: page
 * 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2024){:target="_blank"})
 * 17th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2024){:target="_blank"})
 * 17th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft24.github.io/){:target="_blank"}) at ICSE
-* 21st Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2024/){:target="_blank"}) at SE
+* 21st Workshop on Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2024/){:target="_blank"}) at SE
 
 ### 2023
 * 25th ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
@@ -111,7 +112,7 @@ layout: page
 * 18th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
 * 15th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2023){:target="_blank"}), Research Track
 * 16th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://sbft23.github.io/){:target="_blank"}) at ICSE
-* 20th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2023/){:target="_blank"}) at SE
+* 20th Workshop on Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2023/){:target="_blank"}) at SE
 * Software Engineering im Unterricht der Hochschulen ([SEUH](https://www.seuh.org/seuh2023/){:target="_blank"})
 
 ### 2022
@@ -123,7 +124,7 @@ layout: page
 * 14th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2022){:target="_blank"}), Research Track
 * 16th International Working Conference on Variability Modelling of Software-Intensive Systems ([VaMoS](https://vamos2022.isti.cnr.it/){:target="_blank"})
 * 15th International Workshop on Search-Based Software Testing ([SBST](https://sbst22.github.io/){:target="_blank"}) at ICSE
-* 19th Workshop Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2022/){:target="_blank"}) at SE
+* 19th Workshop on Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2022/){:target="_blank"}) at SE
 
 ### 2021
 * 23rd ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2021.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
