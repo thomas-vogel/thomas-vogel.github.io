@@ -16,7 +16,7 @@ layout: home
     </span>
     <span class="sr-only">Research:</span> 
     <span style="font-size: 1em;">
-      &nbsp;&nbsp;Testing software and engineering autonomous systems
+      &nbsp;&nbsp;Software quality & engineering for autonomous systems
     </span>
     <br />
     <span style="font-size: 1em; color: gray;">
