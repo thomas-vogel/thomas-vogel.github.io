@@ -85,6 +85,7 @@ layout: page
 
 ### 2026
 * 21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2026){:target="_blank"})
+* 19th International Workshop on Search-Based and Fuzz Testing ([SBFT](https://search-based-and-fuzz-testing.github.io/sbft26/){:target="_blank"}) at ICSE
 * 23rd Workshop on Automotive Software Engineering ([ASE](https://ase-workshop.github.io/2026/){:target="_blank"}) at SE
 
 
@@ -220,6 +221,8 @@ layout: page
 
 ### External Reviewer
 
+* 2026: 
+[ICSE](https://conf.researchr.org/home/icse-2026){:target="_blank"}
 * 2020:
 [ICSE](https://conf.researchr.org/home/icse-2020/){:target="_blank"}
 * 2019:
