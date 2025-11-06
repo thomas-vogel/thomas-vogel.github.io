@@ -25,6 +25,7 @@ layout: page
 
 #### Current
 
+* Hannes Ueck (Humboldt-Universität zu Berlin)
 * Marc Carwehl (Humboldt-Universität zu Berlin) <!--(2022 ongoing)-->
 * Sebastian Müller (Humboldt-Universität zu Berlin) <!--(2020 ongoing)-->
 
@@ -37,6 +38,8 @@ layout: page
 
 ## Awards
 
+* **Distinguished Lecturer** at the Computer Science Department of the Humboldt-Universität zu Berlin for outstanding teaching performance with the course "Software Engineering II" based on student questionnaires (2025)
+<!-- https://www.informatik.hu-berlin.de/de/nachrichten-informatik/ausgezeichnete-lehrveranstaltungen-des-sommersemesters-2025 -->
 * **SEAMS 10-Year Most Influential Paper Award** for [_Software Engineering meets Control Theory_](publications/2015-SEAMS) awarded at the 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2025](https://conf.researchr.org/home/seams-2025){:target="_blank"})
 * **Best Paper Award** for [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the 19th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS 2024](https://conf.researchr.org/home/seams-2024){:target="_blank"})
 * **Best Reviewer Award** as one of the [_"Top 1% of SoSyM Reviewers" for 2021_](/assets/img/2021-SoSyM-ReviewAward.png) of the Journal of Software and Systems Modeling ([SoSyM](https://www.sosym.org/reviewer_awards/){:target="_blank"}, 2021).
@@ -223,7 +226,8 @@ layout: page
 ### External Reviewer
 
 * 2026: 
-[ICSE](https://conf.researchr.org/home/icse-2026){:target="_blank"}
+[ICSE](https://conf.researchr.org/home/icse-2026){:target="_blank"},
+[FSE](https://conf.researchr.org/home/fse-2026){:target="_blank"}
 * 2020:
 [ICSE](https://conf.researchr.org/home/icse-2020/){:target="_blank"}
 * 2019:
