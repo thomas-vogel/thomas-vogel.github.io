@@ -101,7 +101,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## News
 
-* __Nov 2025__ --- I have been named a distinguished lecturer at the CS department for the course ``Software Engineering II'' taught in Summer 2025.
+* __Nov 2025__ --- I have been named a distinguished lecturer at the CS department for the course "Software Engineering II" taught in Summer 2025.
 * __Oct 2025__ --- Start of my DFG research project [_FLASH II: Controlling Search-Based Test Case Generation and Program Repair_](projects/flash2).
 * __Sep 2025__ --- I was invited to the PC of the [_7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)_](https://conf.researchr.org/home/ast-2026){:target="_blank"}. Consider submitting your work on automated testing.
 * __Sep 2025__ --- I was invited to the PC of the [_19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026)_](https://search-based-and-fuzz-testing.github.io/sbft26/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
