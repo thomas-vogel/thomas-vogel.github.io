@@ -101,18 +101,10 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## News
 
+* __Jan 2026__ --- I was invited to the PC of the Short Papers, Vision and Emerging Results Track of the [_19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)_](https://conf.researchr.org/home/icst-2026){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Dec 2025__ --- I joined the organization committee of the [_41st ACM/IEEE International Conference on Automated Software Engineering (ASE 2026)_](https://conf.researchr.org/home/ase-2026){:target="_blank"} as a Review Process Co-Chair.
 * __Nov 2025__ --- I have been named a distinguished lecturer at the CS department for the course "Software Engineering II" taught in Summer 2025.
 * __Oct 2025__ --- Start of my DFG research project [_FLASH II: Controlling Search-Based Test Case Generation and Program Repair_](projects/flash2).
-* __Sep 2025__ --- I was invited to the PC of the [_7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)_](https://conf.researchr.org/home/ast-2026){:target="_blank"}. Consider submitting your work on automated testing.
-* __Sep 2025__ --- I was invited to the PC of the [_19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026)_](https://search-based-and-fuzz-testing.github.io/sbft26/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
-* __Jul 2025__ --- I was invited to the PC of the [_21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2026)_](https://conf.researchr.org/home/seams-2026){:target="_blank"}. Consider submitting your work on autonomous and self-adaptive software systems.
-* __Jun 2025__ --- Our article on [<span style="font-variant:small-caps;">Parley+</span>](publications/2025-TAAS) has been acceted at TAAS.
-* __May 2025__ --- I joined the editorial board of [_ACM Transactions on Autonomous and Adaptive Systems (TAAS)_](https://taas.acm.org/){:target="_blank"} as an associate editor.
-* __May 2025__ --- [We had a fantastic SEAMS 2025!](blog/2025-05-04-seams2025)
-* __Apr 2025__ --- We received the SEAMS 10-Year Most Influential Paper Award for our paper [_Software Engineering meets Control Theory_](publications/2015-SEAMS) at SEAMS 2025.
-
-<a href="/assets/img/2025-SEAMS-MIP-Award.png"><img src="/assets/img/2025-SEAMS-MIP-Award.png" alt="Certificate of the SEAMS 10-Year Most Influential Paper Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
 
 
 <!-- ## Past News -->

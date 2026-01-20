@@ -6,6 +6,15 @@ layout: page
 
 ## 2025
 
+* __Sep 2025__ --- I was invited to the PC of the [_7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)_](https://conf.researchr.org/home/ast-2026){:target="_blank"}. Consider submitting your work on automated testing.
+* __Sep 2025__ --- I was invited to the PC of the [_19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026)_](https://search-based-and-fuzz-testing.github.io/sbft26/){:target="_blank"}. Consider submitting your work on fuzzing and testing.
+* __Jul 2025__ --- I was invited to the PC of the [_21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2026)_](https://conf.researchr.org/home/seams-2026){:target="_blank"}. Consider submitting your work on autonomous and self-adaptive software systems.
+* __Jun 2025__ --- Our article on [<span style="font-variant:small-caps;">Parley+</span>](publications/2025-TAAS) has been acceted at TAAS.
+* __May 2025__ --- I joined the editorial board of [_ACM Transactions on Autonomous and Adaptive Systems (TAAS)_](https://taas.acm.org/){:target="_blank"} as an associate editor.
+* __May 2025__ --- [We had a fantastic SEAMS 2025!](blog/2025-05-04-seams2025)
+* __Apr 2025__ --- We received the SEAMS 10-Year Most Influential Paper Award for our paper [_Software Engineering meets Control Theory_](publications/2015-SEAMS) at SEAMS 2025.
+
+<a href="/assets/img/2025-SEAMS-MIP-Award.png"><img src="/assets/img/2025-SEAMS-MIP-Award.png" alt="Certificate of the SEAMS 10-Year Most Influential Paper Award" style="width: 40%; margin-top: 0em; margin-left: 1em;"/></a>
 * __Feb 2025__ --- I was invited to the PC of the [_40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)_](https://conf.researchr.org/track/ase-2025/ase-2025-papers){:target="_blank"}. Consider submitting your work on automation of software engineering.
 * __Feb 2025__ --- We presented our work [_Formal Synthesis of Uncertainty Reduction Controllers_](publications/2024-SEAMS) at the German Software Engineering conference ([SE 2025](https://se2025.sdq.kastel.kit.edu/){:target="_blank"}).
 
