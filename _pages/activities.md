@@ -87,6 +87,9 @@ layout: page
 
 ## Program Committees
 
+### 2027
+* 49th IEEE/ACM International Conference on Software Engineering ([ICSE](https://conf.researchr.org/track/icse-2027/icse-2027-research-track){:target="_blank"})
+
 ### 2026
 * 21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2026){:target="_blank"})
 * 19th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2026){:target="_blank"}) -- Vision and Emerging Results Track

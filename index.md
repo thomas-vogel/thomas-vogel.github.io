@@ -101,6 +101,7 @@ His research interests are in the areas of (search-based and model-driven) softw
 
 ## News
 
+* __Feb 2026__ --- I was invited to the PC of the Research Track of the [_49th ACM/IEEE International Conference on Software Engineering (ICSE 2027)_](https://conf.researchr.org/track/icse-2027/icse-2027-research-track){:target="_blank"}.
 * __Jan 2026__ --- I was invited to the PC of the Short Papers, Vision and Emerging Results Track of the [_19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)_](https://conf.researchr.org/home/icst-2026){:target="_blank"}. Consider submitting high-quality testing, verification, or validation papers.
 * __Dec 2025__ --- I joined the organization committee of the [_41st ACM/IEEE International Conference on Automated Software Engineering (ASE 2026)_](https://conf.researchr.org/home/ase-2026){:target="_blank"} as a Review Process Co-Chair.
 * __Nov 2025__ --- I have been named a distinguished lecturer at the CS department for the course "Software Engineering II" taught in Summer 2025.
