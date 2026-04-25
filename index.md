@@ -71,7 +71,7 @@ layout: home
 
 Thomas Vogel is a postdoctoral researcher in the [Software Engineering Group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/se){:target="_blank"} at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en){:target="_blank"}. From 10/2021 to 09/2022, he was [stand-in professor for Empirical Software Engineering at Paderborn University](https://www.uni-paderborn.de/en/person/92621){:target="_blank"}. Previously, he was a doctoral student in the [System Analysis and Modeling Group](https://hpi.de/en/giese/){:target="_blank"} at the [Hasso Plattner Institute](https://hpi.de/en.html){:target="_blank"} at [University of Potsdam](https://www.uni-potsdam.de/en/index.html){:target="_blank"}, where he received his [Ph.D.](publications/phd) degree with summa cum laude in 2018.
 He studied Information Systems and graduated with distinction from the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank"}.
-His research interests are in the areas of (search-based and model-driven) software engineering, self-adaptive & intelligent/autonomous systems, and automated quality assurance of software as well as the combination of these areas.
+His research interests are in the areas of software engineering, autonomous & self-adaptive systems, automated software quality assurance, and explainability as well as the combination of these areas.
 
 [**Curriculum vitae**](assets/pdf/cv-thomas-vogel.pdf){:target="_blank"} &#x2022;
 [DBLP](https://dblp.uni-trier.de/pers/hd/v/Vogel_0001:Thomas){:target="_blank"} &#x2022;
