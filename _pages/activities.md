@@ -67,21 +67,21 @@ layout: page
 
 ## Organization Committees
 
-* Review Process Co-Chair of the 41st ACM/IEEE International Conference on Automated Software Engineering (ASE), 2026 ([Link](https://conf.researchr.org/home/ase-2026){:target="_blank"})
-* Program Committee Co-Chair (Research Track) of the 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/home/seams-2025){:target="_blank"})
-* Workshop Co-Chair of the Gesellschaft für Informatik (GI) conference on Software Engineering (SE), 2023 ([Link](https://se-2023.gi.de/){:target="_blank"})
+* Review Process Co-Chair -- 41st ACM/IEEE International Conference on Automated Software Engineering (ASE), 2026 ([Link](https://conf.researchr.org/home/ase-2026){:target="_blank"})
+* Program Committee Co-Chair (Research Track) -- 20th ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2025 ([Link](https://conf.researchr.org/home/seams-2025){:target="_blank"})
+* Workshop Co-Chair -- GI-Fachtagung Software Engineering (SE), 2023 ([Link](https://se-2023.gi.de/){:target="_blank"})
 * Program Committee Co-Chair (Hot off the Press (HOP) Track) of the 15th International Symposium on Search-Based Software Engineering (SSBSE), 2023 ([Link](https://conf.researchr.org/home/ssbse-2023){:target="_blank"})
-* Program Committee Co-Chair (Challenge Track) of the 14th International Symposium on Search-Based Software Engineering (SSBSE), 2022 ([Link](https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge){:target="_blank"})
-* Program Committee Co-Chair (Diversity, Equity and Inclusion (DE&I) Track) of the 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"})
-* Program Committee Chair (Artifacts Track) of the 16th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
-* Co-Organizer of the 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
-* Co-Organizer of the GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
-* Social Media Chair of the 14th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
-* Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
-* Publicity Co-Chair, Web Chair, and Social Media Chair of the 13th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
-* Co-Organizer of the GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"})
-* Web Chair of the Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"})
-* Publicity Co-Chair of the 6th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"})
+* Program Committee Co-Chair (Challenge Track) -- 14th International Symposium on Search-Based Software Engineering (SSBSE), 2022 ([Link](https://conf.researchr.org/track/ssbse-2022/ssbse-2022-challenge){:target="_blank"})
+* Program Committee Co-Chair (Diversity, Equity and Inclusion (DE&I) Track) -- 15th European Conference on Software Architecture (ECSA), 2021 ([Link](https://conf.researchr.org/track/ecsa-2021/ecsa-2021-diversity-equity-and-inclusion){:target="_blank"})
+* Program Committee Chair (Artifacts Track) -- 16th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 ([Link](https://conf.researchr.org/home/seams-2021){:target="_blank"})
+* Co-Organizer -- 29th International Workshop on Concurrency, Specification and Programming (CS&P), 2021 ([Link](https://www2.informatik.hu-berlin.de/csp2021/){:target="_blank"})
+* Co-Organizer -- GI-Dagstuhl Seminar on Explainable Software for Cyber-Physical Systems, Seminar 19023, Schloss Dagstuhl, 2019 ([Link](https://thomas-vogel.github.io/ES4CPS/){:target="_blank"})
+* Social Media Chair -- 14th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2019 ([Link](https://conf.researchr.org/home/seams-2019){:target="_blank"})
+* Co-Organizer -- GI-Dagstuhl Seminar on Software Engineering for Intelligent and Autonomous Systems, Seminar 18343, Schloss Dagstuhl, 2018 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefias/){:target="_blank"})
+* Publicity Co-Chair, Web Chair, and Social Media Chair -- 13th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2018 ([Link](http://2018.seams-symposia.org){:target="_blank"})
+* Co-Organizer -- GI-Dagstuhl Seminar on Software Engineering for Self-Adaptive Systems, Seminar 14433, Schloss Dagstuhl, 2014 ([Link](http://www.self-adaptive.org/dagstuhl-seminars/sefsas4jr/){:target="_blank"})
+* Web Chair -- Workshop on Current Trends, Challenges, and Solutions in Model-Driven Engineering, 2014 ([Link](https://www.hpi.uni-potsdam.de/giese/events/mde2014/){:target="_blank"})
+* Publicity Co-Chair -- 6th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2011 ([Link](https://www.hpi.uni-potsdam.de/giese/events/seams2011/){:target="_blank"})
 
 
 
@@ -92,6 +92,7 @@ layout: page
 
 ### 2026
 * 21st ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2026){:target="_blank"})
+* 7th IEEE International Conference on Autonomic Computing and Self-Organizing Systems ([ACSOS](https://conf.researchr.org/home/acsos-2026){:target="_blank"})
 * 19th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2026){:target="_blank"}) -- Vision and Emerging Results Track
 * 19th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2026){:target="_blank"}) -- Testing Tools and Data Showcase Track
 * 7th ACM/IEEE International Conference on Automation of Software Test ([AST](https://conf.researchr.org/home/ast-2026){:target="_blank"})
@@ -118,7 +119,7 @@ layout: page
 ### 2023
 * 25th ACM Genetic and Evolutionary Computation Conference ([GECCO](https://gecco-2023.sigevo.org/){:target="_blank"}) <!-- Search-Based Software Engineering Track -->
 * 16th IEEE International Conference on Software Testing, Verification and Validation ([ICST](https://conf.researchr.org/home/icst-2023){:target="_blank"})
-* 4th IEEE International Conference on Autonomic Computing and Self-Organizing	Systems ([ACSOS](https://conf.researchr.org/home/acsos-2023){:target="_blank"}) (Senior PC member)
+* 4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems ([ACSOS](https://conf.researchr.org/home/acsos-2023){:target="_blank"}) (Senior PC member)
 * 18th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Research Track
 * 18th ACM/IEEE International Symposium on Software Engineering for Adaptive and Self-Managing Systems ([SEAMS](https://conf.researchr.org/home/seams-2023){:target="_blank"}) -- Artifact Track
 * 15th International Symposium on Search-Based Software Engineering ([SSBSE](https://conf.researchr.org/home/ssbse-2023){:target="_blank"}), Research Track
