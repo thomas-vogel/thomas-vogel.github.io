@@ -5,7 +5,7 @@ layout: page
 ---
 
 
-The key vision of my research is to **enable software engineering to develop trustworthy autonomous systems** as they automate more and more processes of our daily lives. In particular, I focus on:
+The key vision of my research is to **enable software engineering to develop trustworthy autonomous systems** as they automate more and more processes of our daily lives. My research interests are (agentic) software engineering, software optimization in the field of search-based software engineering, and dynamically configurable software (e.g., self adaptive software), with a particular focus on:
 
 * **Quality assurance** to ensure high-quality software by engineering specifications, automated testing, model checking, intelligent software analysis, runtime verification, and controller synthesis, where the software or the quality assurance methods themselves are autonomous/AI-enabled.
 
