@@ -33,7 +33,7 @@ A list of published (extended) abstracts is available [here](abstracts).
 
 ## Journals
 
-* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_<span style="font-variant:small-caps;">Parley+</span>: Uncertainty Reduction in Self-Adaptive Systems_](2025-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems (2025). (Just Accepted).
+* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_<span style="font-variant:small-caps;">Parley+</span>: Uncertainty Reduction in Self-Adaptive Systems_](2025-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 21.3 (2026). Available online since 05/2025.
 * João Paulo Costa de Araujo, Genaína Nunes Rodrigues, Marc Carwehl, Thomas Vogel, Lars Grunske, Ricardo Caldas, and Patrizio Pelliccione. [_Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach_](2024-IEEESoftware). In: IEEE Software 41.5 (2024), pp. 43–51.
 * Arut Prakash Kaleeswaran, Arne Nordmann, Thomas Vogel, and Lars Grunske. [_A User Study for Evaluation of Formal Verification Results and their Explanation at Bosch_](2023-EMSE). In: Empirical Software Engineering (EMSE) 28.125 (2023).
 * Thomas Vogel, Marc Carwehl, Genaína Nunes Rodrigues, and Lars Grunske. [_A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL_](2022-ISTc). In: Information and Software Technology 154 (2023), p. 107100. _(Available online 01 November 2022)_.

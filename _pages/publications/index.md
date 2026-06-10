@@ -15,8 +15,10 @@ See [my publications by type](/publications/type) or at
 A list of published (extended) abstracts is available [here](abstracts).
 
 
+## 2026
+* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_<span style="font-variant:small-caps;">Parley+</span>: Uncertainty Reduction in Self-Adaptive Systems_](2025-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems 21.3 (2026). Available online since 05/2025.
+
 ## 2025
-* Marc Carwehl, Calum Imrie, Thomas Vogel, Genaína Rodrigues, Radu Calinescu, and Lars Grunske. [_<span style="font-variant:small-caps;">Parley+</span>: Uncertainty Reduction in Self-Adaptive Systems_](2025-TAAS). In: ACM Transactions on Autonomous and Adaptive Systems (2025). (Just Accepted).
 * Siobhán Clarke, Shiva Nejati, and Thomas Vogel, eds. [_Proceedings of the 20th IEEE/ACM International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2025)_](2025-SEAMS). IEEE, 2025
 * Erik Fredericks, Paolo Arcaini, Tao Yue, Thomas Vogel, Rebecca Moussa, Gregory Gay, Max Hort, Bobby Bruce, José Miguel Rojas, and Vali Tawosi, eds. [_Special Issue on Advances in Search-Based Software Engineering in the Automated Software Engineering Journal_](2025-ASEJ). Springer, 2025.
 
