@@ -25,15 +25,15 @@ layout: page
 
 #### Current
 
-* Hannes Ueck (Humboldt-Universität zu Berlin)
+* Hannes Ueck (Humboldt-Universität zu Berlin & Hasso Plattner Institute)
 * Marc Carwehl (Humboldt-Universität zu Berlin) <!--(2022 ongoing)-->
-* Sebastian Müller (Humboldt-Universität zu Berlin) <!--(2020 ongoing)-->
 
 #### Graduated
+* [Dr. Sebastian Müller](https://www.uni-potsdam.de/en/cs-se/team/sebastian-mueller){:target="_blank"} (Humboldt-Universität zu Berlin) <BR /> PhD thesis: _Metamorphic Testing for Scientific Software Using Geometrically Representable Input Data_ (2026)
 * [Dr. Arut Prakash Kaleeswaran](https://de.linkedin.com/in/arutkaleeswaran){:target="_blank"} (Humboldt-Universität zu Berlin) <BR /> <!-- (2019-2023)-->
- PhD thesis [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"} (2023)
+ PhD thesis: [_Explanation of the Model Checker Verification Results_](http://dx.doi.org/10.18452/27907){:target="_blank"} (2023)
 * [Dr. Sona Ghahremani](https://hpi.de/giese/people/sona-ghahremani.html){:target="_blank"} (Hasso Plattner Institute / University of Potsdam)  <BR /> <!-- 2015-2023 -->
-  PhD thesis [_Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_](https://doi.org/10.25932/publishup-62423){:target="_blank"} (summa cum laude) (2023)
+  PhD thesis: [_Incremental Self-Adaptation of Dynamic Architectures Attaining Optimality and Scalability_](https://doi.org/10.25932/publishup-62423){:target="_blank"} (summa cum laude) (2023)
 
 
 ## Awards
