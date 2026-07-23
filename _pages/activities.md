@@ -91,7 +91,7 @@ layout: page
 
 * **ACM/IEEE International Conference on Software Engineering (ICSE)** <br/> Research Track (2024, 2027), NIER Track (2020) 
 * **ACM/IEEE International Conference on Automated Software Engineering (ASE)** <br/> Research Track (2025), NIER Track (2022)
-* **ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)** <br/> Research Track (2018-2024, 2026), Artifacts (2015, 2023)
+* **ACM/IEEE International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)** <br/> Research Track (2018-2024, 2026-2027), Artifacts (2015, 2023)
 * **IEEE International Conference on Software Testing, Verification and Validation (ICST)** <br/> Research Track (2022-2025), Vision and Emerging Results Track (2026), Testing Tools and Data Showcase Track (2026)
 * **ACM/IEEE International Conference on Automation of Software Test (AST)**, 2025-2027 
 * **IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)** <br/> Research Track (2021-2022, 2026), Research Track Senior PC (2023), Artifacts (2026), Posters & Demos (2020-2021)
