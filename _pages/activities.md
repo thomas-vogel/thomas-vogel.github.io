@@ -107,8 +107,8 @@ layout: page
 
 ### Workshops
 
+* **Workshop on Automotive Software Engineering**, 2022-2027
 * **International ICSE Workshop on Search-Based and Fuzz Testing (SBFT)**, 2020-2026
-* **Workshop on Automotive Software Engineering**, 2022-2026
 * **Software Engineering im Unterricht der Hochschulen (SEUH)**, 2023
 * **ACSOS Workshop on Self-Aware Computing (SeAC)**, 2020-2021
 * **ACSOS Workshop on Self-Protecting Systems (SPS)**, 2021
